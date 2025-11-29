@@ -6,6 +6,9 @@ Ankara merkezli, global vizyonlu bir dijital tasarım stüdyosu olan **VR0CKS** 
 
 ![Project Preview]
 
+<img width="1859" height="951" alt="main" src="https://github.com/user-attachments/assets/494de700-d436-48f4-84d2-5c710add2758" />
+
+
 
 ## 🛠 Teknolojiler (The Stack)
 
