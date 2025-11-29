@@ -37,3 +37,46 @@ git clone [https://github.com/Vr0cks/vrocks-agency.git](https://github.com/Vr0ck
 cd vrocks-agency
 npm install
 npm run dev
+
+
+
+/en 
+
+VR0CKS Digital Agency 🎩
+"We don't just write code; we build digital legacies."
+
+A high-performance, interactive web interface crafted for VR0CKS, an Ankara-based digital design studio with a global vision.
+
+🛠 The Stack
+This project is "tailor-made" using the most elite tools of the modern web:
+
+Framework: Next.js 14 (App Router)
+
+Language: TypeScript
+
+Styling: Tailwind CSS
+
+Animation: Framer Motion
+
+Theme: next-themes (Noir & Vintage Paper Modes)
+
+✨ Features
+🕯️ Atmospheric Interface: Cinematic transitions between Day (Light) and Night (Dark) modes.
+
+🕴️ Gentleman Switch: Interactive, physics-based lamp switch animation.
+
+📽️ Cinematic Entrance: Double-layered curtain preloader effect.
+
+🎞️ Film Grain: Animated noise effect creating a sense of lived-in texture.
+
+⚡ High Performance: 100% SEO compatible and optimized structure.
+
+🚀 Installation
+To revive this digital legacy on your own machine:
+
+Bash
+
+git clone https://github.com/Vr0cks/vrocks-agency.git
+cd vrocks-agency
+npm install
+npm run dev
