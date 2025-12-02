@@ -47,12 +47,12 @@ export default function DirectContact() {
           </span>
           
           <a 
-            href="mailto:hello@vr0cks.com" 
+            href="mailto:vr0cksdev@gmail.com" 
             className="group relative inline-block"
           >
             {/* MAİL: Gündüz Siyah, Gece Beyaz */}
             <span className="font-serif text-4xl md:text-6xl text-[#1A1716] dark:text-white group-hover:text-vintage-red transition-colors duration-300">
-              hello@vr0cks.com
+              vr0cksdev@gmail.com
             </span>
             <span className="absolute bottom-0 left-0 w-0 h-[1px] bg-vintage-red transition-all duration-300 group-hover:w-full" />
           </a>
@@ -64,7 +64,7 @@ export default function DirectContact() {
              </div>
              <div>
                 <span className="block text-[10px] text-[#1A1716]/40 dark:text-white/30 uppercase tracking-[0.2em] mb-1 transition-colors duration-500">Telefon</span>
-                <span className="text-[#1A1716]/70 dark:text-white/60 text-sm transition-colors duration-500">+90 555 000 00 00</span>
+                <span className="text-[#1A1716]/70 dark:text-white/60 text-sm transition-colors duration-500">+90 546 296 18 48</span>
              </div>
           </div>
 
