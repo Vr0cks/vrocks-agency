@@ -69,30 +69,19 @@ Best regards,
           <span className="text-[10px] text-[#1A1716]/40 dark:text-white/30 uppercase tracking-[0.2em] transition-colors duration-500">
             {t('emailLabel')}
           </span>
-<<<<<<< HEAD
 
           <a
             href={generateMailLink()}
-=======
-          
-          <a 
-            href="mailto:vr0cksdev@gmail.com" 
->>>>>>> a1ccb5206189482d6c0e29a8233a08d18bf725a1
             className="group relative inline-block"
           >
             {/* MAİL: Gündüz Siyah, Gece Beyaz */}
             <span className="font-serif text-4xl md:text-6xl text-[#1A1716] dark:text-white group-hover:text-vintage-red transition-colors duration-300">
-<<<<<<< HEAD
               {t('email')}
-=======
-              vr0cksdev@gmail.com
->>>>>>> a1ccb5206189482d6c0e29a8233a08d18bf725a1
             </span>
             <span className="absolute bottom-0 left-0 w-0 h-[1px] bg-vintage-red transition-all duration-300 group-hover:w-full" />
           </a>
 
           <div className="mt-8 flex gap-12">
-<<<<<<< HEAD
             <div>
               <span className="block text-[10px] text-[#1A1716]/40 dark:text-white/30 uppercase tracking-[0.2em] mb-1 transition-colors duration-500">{t('hqLabel')}</span>
               <span className="text-[#1A1716]/70 dark:text-white/60 text-sm transition-colors duration-500">{t('hqValue')}</span>
@@ -101,16 +90,6 @@ Best regards,
               <span className="block text-[10px] text-[#1A1716]/40 dark:text-white/30 uppercase tracking-[0.2em] mb-1 transition-colors duration-500">{t('phoneLabel')}</span>
               <span className="text-[#1A1716]/70 dark:text-white/60 text-sm transition-colors duration-500">{t('phoneValue')}</span>
             </div>
-=======
-             <div>
-                <span className="block text-[10px] text-[#1A1716]/40 dark:text-white/30 uppercase tracking-[0.2em] mb-1 transition-colors duration-500">Merkez (HQ)</span>
-                <span className="text-[#1A1716]/70 dark:text-white/60 text-sm transition-colors duration-500">Ankara, TR (Remote)</span>
-             </div>
-             <div>
-                <span className="block text-[10px] text-[#1A1716]/40 dark:text-white/30 uppercase tracking-[0.2em] mb-1 transition-colors duration-500">Telefon</span>
-                <span className="text-[#1A1716]/70 dark:text-white/60 text-sm transition-colors duration-500">+90 546 296 18 48</span>
-             </div>
->>>>>>> a1ccb5206189482d6c0e29a8233a08d18bf725a1
           </div>
 
         </motion.div>
