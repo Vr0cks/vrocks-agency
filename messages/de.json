@@ -1,0 +1,246 @@
+{
+    "metadata": {
+        "title": "VR0CKS | Digital Craftsman",
+        "description": "In Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software. Maßgeschneiderte, mit Vintage-Ästhetik verfeinerte moderne Web-Erlebnisse.",
+        "ogDescription": "Wir schreiben keinen Code, wir bauen digitales Erbe."
+    },
+    "navbar": {
+        "manifesto": "Manifest",
+        "works": "Werke",
+        "contact": "KONTAKT",
+        "getQuote": "ANGEBOT",
+        "menu": "Menü",
+        "close": "Schließen"
+    },
+    "hero": {
+        "subtitle": "Digital Craftsman",
+        "title": "Less is",
+        "titleAccent": "More.",
+        "description": "Wir verbinden die Mathematik des Codes mit der Eleganz des Designs. Ein maßgeschneiderter digitaler Smoking, speziell für Ihre Marke.",
+        "cta": "Projekt Starten",
+        "discover": "Entdecken"
+    },
+    "manifesto": {
+        "title1": "Wir schreiben keinen Code,",
+        "title2": "digitales Erbe",
+        "title3": "wir bauen.",
+        "paragraph1": "Wir sind <strong>Vr0cks</strong>. Wir glauben, dass es in der digitalen Welt keinen Platz für Mittelmäßigkeit gibt. Für Ihre Marke erstellen wir nicht nur eine Website – wir bauen ein lebendiges, atmendes Prestige.",
+        "paragraph2": "Wir formen komplexen Code zu eleganten, funktionalen Kunstwerken mit einer \"Weniger ist mehr\"-Philosophie. Geschwindigkeit, Ästhetik und Perfektion sind unsere Standards.",
+        "paragraph3": "Wir kümmern uns um die Details, damit Sie einfach die Ergebnisse genießen können.",
+        "founderName": "Yiğit Canlı.",
+        "founderTitle": "Gründer & Head of Design"
+    },
+    "works": {
+        "title": "Beauty's That",
+        "titleAccent": "We Create.",
+        "viewProject": "Ansehen"
+    },
+    "projects": {
+        "luxeSpaces": {
+            "title": "Luxe Spaces",
+            "category": "ARCHITEKTUR / LUXUS-DESIGN",
+            "description": "Ein minimales, fokussiertes Portfolio-Erlebnis, das luxuriöse Wohnräume und architektonische Vision mit digitaler Ästhetik verbindet."
+        },
+        "unitedFb": {
+            "title": "United FB Assoc.",
+            "category": "COMMUNITY / FAN-PLATTFORM",
+            "description": "Eine interaktive, moderne Community-Management-Plattform, speziell für Fenerbahçe-Fans entwickelt."
+        },
+        "kocRealEstate": {
+            "title": "Koç Real Estate",
+            "category": "UNTERNEHMEN / IMMOBILIEN",
+            "description": "Eine Corporate-Identity-Oberfläche, die mit benutzerfreundlicher Listing-Infrastruktur digitale Vision in den Immobiliensektor bringt."
+        }
+    },
+    "concierge": {
+        "sectionTitle": "Lassen Sie uns auch",
+        "sectionTitleAccent": "für Sie gestalten.",
+        "sectionDescription": "Beschreiben Sie Ihr Traumprojekt mit dem untenstehenden Assistenten, und wir melden uns, um die Details zu besprechen.",
+        "completionTitle": "Perfekte Wahl.",
+        "completionDescription": "Ich verstehe Ihre Vision. Durch die Verbindung von moderner Technologie mit klassischer Ästhetik,",
+        "completionHighlight": "ein zeitloses Erlebnis",
+        "completionEnd": "kann ich für Sie gestalten.",
+        "startProject": "Projekt Starten",
+        "agencyFooter": "VR0CKS AGENCY — ANKARA"
+    },
+    "questions": {
+        "q1": {
+            "question": "Was ist der Hauptzweck Ihrer digitalen Präsenz?",
+            "options": {
+                "branding": "Prestige & Markenbekanntheit",
+                "ecommerce": "Produktverkauf (E-Commerce)",
+                "portfolio": "Portfolio-Präsentation",
+                "corporate": "Corporate Identity"
+            }
+        },
+        "q2": {
+            "question": "Wenn Ihre Marke ein physischer Ort wäre, welcher wäre es?",
+            "options": {
+                "modern": "Ein Modernes Plaza",
+                "cozy": "Ein Boutique-Café",
+                "artistic": "Eine Kunstgalerie",
+                "luxury": "Eine Luxushotel-Lobby"
+            }
+        },
+        "q3": {
+            "question": "Was sollte das unverzichtbare 'Signatur'-Feature Ihrer Website sein?",
+            "options": {
+                "conversion": "Schnelle Buchung/Verkauf",
+                "visual": "Visuelles Fest/Galerie",
+                "content": "Blog & Content-Flow",
+                "interactive": "Interaktives Erlebnis"
+            }
+        },
+        "q4": {
+            "question": "Wann sollten wir auf dieses Projekt anstoßen?",
+            "options": {
+                "asap": "Sofort (MVP)",
+                "month": "Innerhalb von 1 Monat",
+                "perfect": "Keine Eile (Perfektionist)",
+                "flexible": "Sie bestimmen das Datum"
+            }
+        }
+    },
+    "directContact": {
+        "subtitle": "Klassische Methode",
+        "title": "Keine Lust auf Quizze?",
+        "description": "Kein Problem. Manchmal beginnen die besten Projekte mit einem einfachen \"Hallo\". Wir glauben nicht an physische Grenzen. Sie können uns direkt eine E-Mail schicken und Ihr Projekt an unserem digitalen Schreibtisch besprechen.",
+        "emailLabel": "E-Mail",
+        "email": "vr0cksdev@gmail.com",
+        "hqLabel": "Hauptquartier (HQ)",
+        "hqValue": "Ankara, TR (Remote)",
+        "phoneLabel": "Telefon",
+        "phoneValue": "+90 546 296 18 48"
+    },
+    "shopShowcase": {
+        "subtitle": "Premium-Tools",
+        "title": "Von vr0cks entwickelt.",
+        "titleAccent": "Von Gewinnern genutzt.",
+        "description": "Wir entwickeln nicht nur Software für Kunden; wir bauen auch die Tools, die sie antreiben. Entdecken Sie unsere Premium-Vorlagen.",
+        "viewProduct": "Produkt Ansehen",
+        "viewAllProducts": "Alle Produkte im Shop"
+    },
+    "shopProducts": {
+        "saasKit": {
+            "title": "SaaS Starter Kit Pro",
+            "badge": "Bestseller",
+            "description": "Produktionsreife SaaS-Vorlage mit Auth, Zahlungen und Dashboard. In Tagen statt Monaten starten."
+        },
+        "portfolio": {
+            "title": "Instant Portfolio",
+            "badge": "No-Code",
+            "description": "Wunderschöne Portfolio-Vorlage. Einfach die Config-Datei bearbeiten und deployen. Perfekt für Entwickler & Designer."
+        },
+        "aiKit": {
+            "title": "AI Wrapper Kit",
+            "badge": "Trending",
+            "description": "Starten Sie Ihr AI-gestütztes SaaS schnell. OpenAI-Integration, Rate-Limiting und Billing inklusive."
+        }
+    },
+    "footer": {
+        "brandDescription": "Für Marken, die Mittelmäßigkeit herausfordern; in Ankara ansässiges, global ausgerichtetes, preisgekröntes Studio für digitales Design und Software.",
+        "corporate": "Unternehmen",
+        "projects": "Projekte",
+        "career": "Karriere",
+        "contact": "Kontakt",
+        "legal": "Rechtliches",
+        "faq": "FAQ",
+        "privacy": "Datenschutz",
+        "terms": "Nutzungsbedingungen",
+        "followUs": "Folgen Sie Uns",
+        "listenWithUs": "Mit Uns Hören",
+        "agencyPlaylist": "Agentur-Auswahl",
+        "playlistName": "Whiskey Blues",
+        "copyright": "© 2025 VR0CKS AGENCY — ALLE RECHTE VORBEHALTEN.",
+        "signature": "EST. ANKARA —",
+        "signatureAccent": "DIGITAL CRAFTSMANSHIP"
+    },
+    "cookie": {
+        "title": "Digitale Etikette",
+        "description": "Wir verwenden Cookies, um Ihr Erlebnis zu perfektionieren. Wie eine feine Schokolade zu einem guten Whiskey; klein aber wirkungsvoll.",
+        "accept": "Akzeptieren",
+        "reject": "Ablehnen"
+    },
+    "mobileMenu": {
+        "close": "Schließen",
+        "manifesto": "Manifest",
+        "works": "Werke",
+        "contact": "Kontakt",
+        "getQuote": "Angebot"
+    },
+    "notFound": {
+        "title": "Falsch Abgebogen.",
+        "description": "Die gesuchte Seite wurde entweder verschoben oder hat nie existiert. Keine Sorge, wir können Sie zurück zur Zentrale bringen.",
+        "backHome": "Zurück zur Startseite"
+    },
+    "career": {
+        "icon": "🚧",
+        "title": "Wir Legen Noch Die Steine.",
+        "description": "Unser Team macht Kaffeepause... nur Spaß. Wir haben uns im Code verloren, um diese Seite zu perfektionieren. Tolle Möglichkeiten kommen bald.",
+        "signature": "— VR0CKS BAU-CREW"
+    },
+    "faq": {
+        "title": "Häufig Gefragt.",
+        "subtitle": "Wir haben die Antworten auf Ihre Fragen in einfachster Form zusammengestellt.",
+        "items": [
+            {
+                "question": "Wie läuft der Prozess ab, wann bekomme ich die Lieferung?",
+                "answer": "Wir ermüden Sie nicht mit komplizierten Prozessen. Zuerst besprechen wir Ihre Ziele, dann bereiten wir ein individuelles Design für Ihre Genehmigung vor. Nach der Genehmigung schließen wir die Programmierung ab und starten Ihre Website innerhalb von durchschnittlich 2-4 Wochen."
+            },
+            {
+                "question": "Wird meine Website bei Google weit oben ranken?",
+                "answer": "Absolut. Unsere Websites sehen nicht nur stilvoll aus; sie sind mit Googles bevorzugter Infrastruktur codiert (SEO-freundlich, ultraschnell und mobilfreundlich). Das bringt Sie 1-0 vor Ihre Konkurrenten."
+            },
+            {
+                "question": "Kann ich die Website später selbst aktualisieren?",
+                "answer": "Ja. Wenn Sie möchten, integrieren wir ein sehr einfach zu bedienendes Verwaltungspanel in Ihre Website. Sie können Ihre Texte, Bilder oder Produkte aktualisieren, wie einen Instagram-Post teilen, ohne Programmierkenntnisse."
+            },
+            {
+                "question": "Wie wird die Preisgestaltung bestimmt?",
+                "answer": "Jedes Unternehmen hat unterschiedliche Bedürfnisse. Statt Template-Websites erstellen wir einen 'digitalen Anzug', der nur für Sie maßgeschneidert ist. Wir bieten das fairste und transparenteste Angebot basierend auf dem Projektumfang."
+            },
+            {
+                "question": "Bieten Sie Support nach der Fertigstellung der Website an?",
+                "answer": "Mit uns zu arbeiten ist kein einmaliger Job, es ist eine langfristige Partnerschaft. Wir sind auch nach dem Start der Website immer an Ihrer Seite für technischen Support, Wartung und Updates."
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Datenschutzrichtlinie",
+        "lastUpdate": "Zuletzt Aktualisiert:",
+        "lastUpdateDate": "29. November 2025",
+        "section1Title": "1. Datenerfassung",
+        "section1Content": "Als VR0CKS Agency respektieren wir Ihre digitale Privatsphäre. Wenn Sie unsere Website besuchen, erfassen wir nur grundlegende analytische Daten (durch Cookies), um Ihr Erlebnis zu verbessern.",
+        "section2Title": "2. Verwendungszweck",
+        "section2Content": "Erfasste Daten werden nur für folgende Zwecke verwendet:",
+        "section2List": [
+            "Zur Analyse der Website-Performance.",
+            "Um Ihnen ein besseres Benutzererlebnis zu bieten.",
+            "Um über Kontaktformulare zu antworten."
+        ],
+        "section3Title": "3. Dritte Parteien",
+        "section3Content": "Ihre Daten werden niemals zu Werbezwecken an Dritte verkauft. Sie können nur bei gesetzlicher Verpflichtung an zuständige Behörden weitergegeben werden.",
+        "contactNote": "Wenn Sie Fragen zu dieser Richtlinie haben,",
+        "contactEmail": "vr0cksdev@gmail.com",
+        "contactSuffix": "können Sie uns erreichen unter"
+    },
+    "terms": {
+        "title": "Nutzungsbedingungen",
+        "effectiveDate": "Gültigkeitsdatum:",
+        "effectiveDateValue": "29. November 2025",
+        "section1Title": "1. Einführung",
+        "section1Content": "Durch die Nutzung dieser Website (vr0cks.com) akzeptieren Sie die folgenden Bedingungen. Bitte lesen Sie sorgfältig, bevor Sie unsere Dienste nutzen.",
+        "section2Title": "2. Geistiges Eigentum",
+        "section2Content": "Alle Designs, Code-Strukturen, Texte und Bilder auf der Website gehören VR0CKS Agency. Unbefugtes Kopieren, Vervielfältigen oder kommerzielle Nutzung ist verboten.",
+        "section3Title": "3. Leistungsumfang",
+        "section3Content": "Die von uns angebotenen Web-Design- und Entwicklungsdienstleistungen werden durch projektbasierte Verträge bestimmt. Die hier enthaltenen Informationen dienen allgemeinen Informationszwecken.",
+        "legalNote": "Für rechtliche Fragen",
+        "legalEmail": "legal@vr0cks.com",
+        "legalSuffix": "können Sie uns kontaktieren."
+    },
+    "languageSwitcher": {
+        "tr": "TR",
+        "en": "EN",
+        "de": "DE"
+    }
+}

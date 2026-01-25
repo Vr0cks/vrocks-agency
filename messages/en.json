@@ -1,0 +1,246 @@
+{
+    "metadata": {
+        "title": "VR0CKS | Digital Craftsman",
+        "description": "Ankara-based, globally-minded digital design and software studio. Bespoke, vintage-infused modern web experiences tailored for your brand.",
+        "ogDescription": "We don't write code, we build digital legacy."
+    },
+    "navbar": {
+        "manifesto": "Manifesto",
+        "works": "Works",
+        "contact": "CONTACT",
+        "getQuote": "GET QUOTE",
+        "menu": "Menu",
+        "close": "Close"
+    },
+    "hero": {
+        "subtitle": "Digital Craftsman",
+        "title": "Less is",
+        "titleAccent": "More.",
+        "description": "We blend the mathematics of code with the elegance of design. A bespoke digital tuxedo, tailored for your brand.",
+        "cta": "Start Project",
+        "discover": "Discover"
+    },
+    "manifesto": {
+        "title1": "We don't write code,",
+        "title2": "digital legacy",
+        "title3": "we build.",
+        "paragraph1": "We are <strong>Vr0cks</strong>. We believe there's no room for mediocrity in the digital world. For your brand, we don't just create a website—we build a living, breathing prestige.",
+        "paragraph2": "We sculpt complex code into elegant, functional works of art with a \"Less is more\" philosophy. Speed, aesthetics, and perfection are our standards.",
+        "paragraph3": "We obsess over the details so you can simply enjoy the results.",
+        "founderName": "Yiğit Canlı.",
+        "founderTitle": "Founder & Head of Design"
+    },
+    "works": {
+        "title": "Beauty's That",
+        "titleAccent": "We Create.",
+        "viewProject": "View"
+    },
+    "projects": {
+        "luxeSpaces": {
+            "title": "Luxe Spaces",
+            "category": "ARCHITECTURE / LUXURY DESIGN",
+            "description": "A minimal, focused portfolio experience that brings luxury living spaces and architectural vision together with digital aesthetics."
+        },
+        "unitedFb": {
+            "title": "United FB Assoc.",
+            "category": "COMMUNITY / FAN PLATFORM",
+            "description": "An interactive, modern community management platform specially designed for Fenerbahçe fans."
+        },
+        "kocRealEstate": {
+            "title": "Koç Real Estate",
+            "category": "CORPORATE / REAL ESTATE",
+            "description": "A corporate identity interface that brings digital vision to the real estate sector with user-friendly listing infrastructure."
+        }
+    },
+    "concierge": {
+        "sectionTitle": "Let us design",
+        "sectionTitleAccent": "for you too.",
+        "sectionDescription": "Describe your dream project using the assistant below, and we'll reach out to discuss the details.",
+        "completionTitle": "Perfect Choice.",
+        "completionDescription": "I understand your vision. By blending modern technology with classic aesthetics,",
+        "completionHighlight": "a timeless experience",
+        "completionEnd": "I can design for you.",
+        "startProject": "Start Project",
+        "agencyFooter": "VR0CKS AGENCY — ANKARA"
+    },
+    "questions": {
+        "q1": {
+            "question": "What is the main purpose of your digital presence?",
+            "options": {
+                "branding": "Prestige & Brand Awareness",
+                "ecommerce": "Product Sales (E-Commerce)",
+                "portfolio": "Portfolio Showcase",
+                "corporate": "Corporate Identity"
+            }
+        },
+        "q2": {
+            "question": "If your brand were a physical space, which would it be?",
+            "options": {
+                "modern": "A Modern Plaza",
+                "cozy": "A Boutique Coffee Shop",
+                "artistic": "An Art Gallery",
+                "luxury": "A Luxury Hotel Lobby"
+            }
+        },
+        "q3": {
+            "question": "What should be your site's signature 'must-have' feature?",
+            "options": {
+                "conversion": "Quick Booking/Sales",
+                "visual": "Visual Feast/Gallery",
+                "content": "Blog & Content Flow",
+                "interactive": "Interactive Experience"
+            }
+        },
+        "q4": {
+            "question": "When should we raise a toast to celebrate this project?",
+            "options": {
+                "asap": "Right Away (MVP)",
+                "month": "Within 1 Month",
+                "perfect": "No Rush (Perfectionist)",
+                "flexible": "You Decide the Date"
+            }
+        }
+    },
+    "directContact": {
+        "subtitle": "Classic Method",
+        "title": "Not a fan of quizzes?",
+        "description": "No problem. Sometimes the best projects start with a simple \"Hello\". We don't believe in physical boundaries. You can email us directly and discuss your project at our digital desk.",
+        "emailLabel": "E-Mail",
+        "email": "vr0cksdev@gmail.com",
+        "hqLabel": "Headquarters (HQ)",
+        "hqValue": "Ankara, TR (Remote)",
+        "phoneLabel": "Phone",
+        "phoneValue": "+90 546 296 18 48"
+    },
+    "shopShowcase": {
+        "subtitle": "Premium Tools",
+        "title": "Built by vr0cks.",
+        "titleAccent": "Used by Winners.",
+        "description": "We don't just build software for clients; we build the tools that power them. Check out our premium boilerplates.",
+        "viewProduct": "View Product",
+        "viewAllProducts": "View All Products on Shop"
+    },
+    "shopProducts": {
+        "saasKit": {
+            "title": "SaaS Starter Kit Pro",
+            "badge": "Best Seller",
+            "description": "Production-ready SaaS boilerplate with auth, payments, and dashboard. Ship in days, not months."
+        },
+        "portfolio": {
+            "title": "Instant Portfolio",
+            "badge": "No-Code",
+            "description": "Beautiful portfolio template. Just edit the config file and deploy. Perfect for developers & designers."
+        },
+        "aiKit": {
+            "title": "AI Wrapper Kit",
+            "badge": "Trending",
+            "description": "Launch your AI-powered SaaS fast. OpenAI integration, rate limiting, and billing included."
+        }
+    },
+    "footer": {
+        "brandDescription": "For brands that challenge mediocrity; Ankara-based, globally-minded, award-winning digital design and software studio.",
+        "corporate": "Corporate",
+        "projects": "Projects",
+        "career": "Career",
+        "contact": "Contact",
+        "legal": "Legal",
+        "faq": "FAQ",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Use",
+        "followUs": "Follow Us",
+        "listenWithUs": "Listen With Us",
+        "agencyPlaylist": "Agency Selection",
+        "playlistName": "Whiskey Blues",
+        "copyright": "© 2025 VR0CKS AGENCY — ALL RIGHTS RESERVED.",
+        "signature": "EST. ANKARA —",
+        "signatureAccent": "DIGITAL CRAFTSMANSHIP"
+    },
+    "cookie": {
+        "title": "Digital Etiquette",
+        "description": "We use cookies to perfect your experience. Like a fine chocolate alongside a good whiskey; small but effective.",
+        "accept": "Accept",
+        "reject": "Reject"
+    },
+    "mobileMenu": {
+        "close": "Close",
+        "manifesto": "Manifesto",
+        "works": "Works",
+        "contact": "Contact",
+        "getQuote": "Get Quote"
+    },
+    "notFound": {
+        "title": "Wrong Turn.",
+        "description": "The page you're looking for has either moved or never existed. Don't worry, we can take you back to headquarters.",
+        "backHome": "Back to Home"
+    },
+    "career": {
+        "icon": "🚧",
+        "title": "Still Laying The Bricks.",
+        "description": "Our team is on a coffee break... just kidding. We got lost in the code trying to perfect this page. Great opportunities coming soon.",
+        "signature": "— VR0CKS CONSTRUCTION CREW"
+    },
+    "faq": {
+        "title": "Frequently Asked.",
+        "subtitle": "We've compiled the answers to your questions in the simplest form.",
+        "items": [
+            {
+                "question": "How does the process work, when do I get delivery?",
+                "answer": "We don't tire you with complicated processes. First we discuss your goals, then we prepare a custom design for your approval. After approval, we complete the coding and launch your site within an average of 2-4 weeks."
+            },
+            {
+                "question": "Will my site rank high on Google?",
+                "answer": "Absolutely. Our sites don't just look stylish; they're coded with Google's favorite infrastructure (SEO-friendly, ultra-fast, and mobile-friendly). This puts you 1-0 ahead of your competitors."
+            },
+            {
+                "question": "Can I update the site myself later?",
+                "answer": "Yes. If you wish, we integrate a very easy-to-use management panel to your site. You can update your texts, images, or products like sharing an Instagram post without any coding knowledge."
+            },
+            {
+                "question": "How is pricing determined?",
+                "answer": "Every business has different needs. Instead of template sites, we make a 'digital suit' tailored just for you. We offer the fairest and most transparent quote based on the project scope."
+            },
+            {
+                "question": "Do you provide support after the site is finished?",
+                "answer": "Working with us isn't a one-time job, it's a long-term partnership. We're always by your side for technical support, maintenance, and updates even after the site goes live."
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "lastUpdate": "Last Updated:",
+        "lastUpdateDate": "November 29, 2025",
+        "section1Title": "1. Data Collection",
+        "section1Content": "As VR0CKS Agency, we respect your digital privacy. When you visit our website, we only collect basic analytical data (through cookies) to improve your experience.",
+        "section2Title": "2. Purpose of Use",
+        "section2Content": "Collected data is only used for the following purposes:",
+        "section2List": [
+            "To analyze site performance.",
+            "To provide you with a better user experience.",
+            "To respond via contact forms."
+        ],
+        "section3Title": "3. Third Parties",
+        "section3Content": "Your data is never sold to third parties for advertising purposes. It may only be shared with relevant authorities in cases of legal obligation.",
+        "contactNote": "If you have questions about this policy,",
+        "contactEmail": "vr0cksdev@gmail.com",
+        "contactSuffix": "you can reach us at"
+    },
+    "terms": {
+        "title": "Terms of Use",
+        "effectiveDate": "Effective Date:",
+        "effectiveDateValue": "November 29, 2025",
+        "section1Title": "1. Introduction",
+        "section1Content": "By using this website (vr0cks.com), you accept the following terms. Please read carefully before using our services.",
+        "section2Title": "2. Intellectual Property",
+        "section2Content": "All designs, code structures, texts, and visuals on the site belong to VR0CKS Agency. Unauthorized copying, reproduction, or commercial use is prohibited.",
+        "section3Title": "3. Service Scope",
+        "section3Content": "The web design and development services we offer are determined by project-based contracts. The information here is for general informational purposes.",
+        "legalNote": "For legal questions",
+        "legalEmail": "legal@vr0cks.com",
+        "legalSuffix": "you can contact us."
+    },
+    "languageSwitcher": {
+        "tr": "TR",
+        "en": "EN",
+        "de": "DE"
+    }
+}

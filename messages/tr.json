@@ -1,0 +1,246 @@
+{
+    "metadata": {
+        "title": "VR0CKS | Digital Craftsman",
+        "description": "Ankara merkezli, global vizyonlu dijital tasarım ve yazılım stüdyosu. Markanız için özel dikilmiş, vintage estetikle harmanlanmış modern web deneyimleri.",
+        "ogDescription": "Kod yazmıyoruz, dijital miras inşa ediyoruz."
+    },
+    "navbar": {
+        "manifesto": "Manifesto",
+        "works": "Eserler",
+        "contact": "İLETİŞİM",
+        "getQuote": "TEKLİF AL",
+        "menu": "Menu",
+        "close": "Kapat"
+    },
+    "hero": {
+        "subtitle": "Dıgıtal Craftsman",
+        "title": "Less is",
+        "titleAccent": "More.",
+        "description": "Kodun matematiğini, tasarımın zarafetiyle harmanlıyoruz. Markanız için özel dikilmiş, dijital bir smokin.",
+        "cta": "Projeyi Başlat",
+        "discover": "Keşfet"
+    },
+    "manifesto": {
+        "title1": "Kod yazmıyoruz,",
+        "title2": "dijital miras",
+        "title3": "inşa ediyoruz.",
+        "paragraph1": "Biz <strong>Vr0cks</strong>. Dijital dünyada sıradanlığa yer olmadığına inanıyoruz. Markanız için sadece bir web sitesi değil, yaşayan ve nefes alan bir prestij inşa ediyoruz.",
+        "paragraph2": "Karmaşık kodları, \"Less is more\" felsefesiyle yontarak zarif ve işlevsel sanat eserlerine dönüştürüyoruz. Hız, estetik ve kusursuzluk bizim standartımız.",
+        "paragraph3": "Sizin için detaylara takılıyoruz, böylece siz sadece sonucun keyfini çıkarıyorsunuz.",
+        "founderName": "Yiğit Canlı.",
+        "founderTitle": "Founder & Head of Design"
+    },
+    "works": {
+        "title": "Beauty's That",
+        "titleAccent": "We Create.",
+        "viewProject": "İncele"
+    },
+    "projects": {
+        "luxeSpaces": {
+            "title": "Luxe Spaces",
+            "category": "MİMARİ / LÜKS TASARIM",
+            "description": "Lüks yaşam alanlarını ve mimari vizyonu dijital dünyada estetikle buluşturan, minimal ve odaklı bir portfolyo deneyimi."
+        },
+        "unitedFb": {
+            "title": "United FB Assoc.",
+            "category": "TOPLULUK / FAN PLATFORMU",
+            "description": "Fenerbahçe taraftarları için özel olarak kurgulanmış, etkileşimli ve modern bir topluluk yönetim platformu."
+        },
+        "kocRealEstate": {
+            "title": "Koç Real Estate",
+            "category": "KURUMSAL / GAYRİMENKUL",
+            "description": "Emlak sektörüne dijital bir vizyon katan, kullanıcı dostu listeleme altyapısına sahip kurumsal kimlik arayüzü."
+        }
+    },
+    "concierge": {
+        "sectionTitle": "Sizler için de",
+        "sectionTitleAccent": "tasarlayalım.",
+        "sectionDescription": "Aşağıdaki asistanı kullanarak hayalinizdeki projeyi tarif edin, detayları konuşmak için size ulaşalım.",
+        "completionTitle": "Mükemmel Seçim.",
+        "completionDescription": "Vizyonunuzu anladım. Sizin için modern teknolojiyi klasik bir estetikle harmanlayarak,",
+        "completionHighlight": "zamansız bir deneyim",
+        "completionEnd": "tasarlayabilirim.",
+        "startProject": "Projeyi Başlat",
+        "agencyFooter": "VR0CKS AGENCY — ANKARA"
+    },
+    "questions": {
+        "q1": {
+            "question": "Dijital dünyadaki varlığınızın ana amacı nedir?",
+            "options": {
+                "branding": "Prestij & Marka Bilinirliği",
+                "ecommerce": "Ürün Satışı (E-Ticaret)",
+                "portfolio": "Portfolyo Sunumu",
+                "corporate": "Kurumsal Kimlik"
+            }
+        },
+        "q2": {
+            "question": "Markanız fiziksel bir mekan olsa, hangisi olurdu?",
+            "options": {
+                "modern": "Modern bir Plaza",
+                "cozy": "Butik bir Kahve Dükkanı",
+                "artistic": "Sanat Galerisi",
+                "luxury": "Lüks bir Otel Lobisi"
+            }
+        },
+        "q3": {
+            "question": "Sitenizin olmazsa olmaz 'imza' özelliği ne olmalı?",
+            "options": {
+                "conversion": "Hızlı Rezarvasyon/Satış",
+                "visual": "Görsel Şölen/Galeri",
+                "content": "Blog ve İçerik Akışı",
+                "interactive": "Etkileşimli Deneyim"
+            }
+        },
+        "q4": {
+            "question": "Bu projeyi ne zaman kadeh kaldırarak kutlamalıyız?",
+            "options": {
+                "asap": "Hemen (MVP)",
+                "month": "1 Ay içinde",
+                "perfect": "Acelemiz yok (Mükemmeliyetçi)",
+                "flexible": "Tarihi siz belirleyin"
+            }
+        }
+    },
+    "directContact": {
+        "subtitle": "Klasik Yöntem",
+        "title": "Quizlerle aranız yok mu?",
+        "description": "Sorun değil. Bazen en iyi projeler basit bir \"Merhaba\" ile başlar. Fiziksel sınırlara inanmıyoruz. Bize doğrudan e-posta gönderebilir, projenizi dijital masamızda tartışabiliriz.",
+        "emailLabel": "E-Posta",
+        "email": "vr0cksdev@gmail.com",
+        "hqLabel": "Merkez (HQ)",
+        "hqValue": "Ankara, TR (Remote)",
+        "phoneLabel": "Telefon",
+        "phoneValue": "+90 546 296 18 48"
+    },
+    "shopShowcase": {
+        "subtitle": "Premium Araçlar",
+        "title": "vr0cks tarafından üretildi.",
+        "titleAccent": "Kazananlar kullanıyor.",
+        "description": "Sadece müşterilerimiz için yazılım geliştirmiyoruz; onları güçlendiren araçları da biz üretiyoruz. Premium şablonlarımıza göz atın.",
+        "viewProduct": "Ürünü Görüntüle",
+        "viewAllProducts": "Tüm Ürünleri Gör"
+    },
+    "shopProducts": {
+        "saasKit": {
+            "title": "SaaS Başlangıç Kiti Pro",
+            "badge": "En Çok Satan",
+            "description": "Kimlik doğrulama, ödeme ve dashboard ile üretime hazır SaaS şablonu. Aylar yerine günler içinde yayına alın."
+        },
+        "portfolio": {
+            "title": "Anında Portfolyo",
+            "badge": "Kodsuz",
+            "description": "Güzel portfolyo şablonu. Sadece config dosyasını düzenleyin ve yayınlayın. Geliştiriciler ve tasarımcılar için mükemmel."
+        },
+        "aiKit": {
+            "title": "AI Wrapper Kiti",
+            "badge": "Trend",
+            "description": "AI destekli SaaS'ınızı hızla başlatın. OpenAI entegrasyonu, rate limiting ve faturalandırma dahil."
+        }
+    },
+    "footer": {
+        "brandDescription": "Sıradanlığa meydan okuyan markalar için; Ankara merkezli, global vizyonlu, ödüllü dijital tasarım ve yazılım stüdyosu.",
+        "corporate": "Kurumsal",
+        "projects": "Projeler",
+        "career": "Kariyer",
+        "contact": "İletişim",
+        "legal": "Yasal",
+        "faq": "S.S.S (FAQ)",
+        "privacy": "Gizlilik Politikası",
+        "terms": "Kullanım Koşulları",
+        "followUs": "Takip Et",
+        "listenWithUs": "Bizimle Dinleyin",
+        "agencyPlaylist": "Ajans Seçkisi",
+        "playlistName": "Whiskey Blues",
+        "copyright": "© 2025 VR0CKS AGENCY — TÜM HAKLARI SAKLIDIR.",
+        "signature": "EST. ANKARA —",
+        "signatureAccent": "DIGITAL CRAFTSMANSHIP"
+    },
+    "cookie": {
+        "title": "Dijital Nezaket",
+        "description": "Deneyiminizi kusursuzlaştırmak için çerez (cookie) kullanıyoruz. Tıpkı iyi bir viskinin yanındaki çikolata gibi; küçük ama etkili.",
+        "accept": "Kabul Et",
+        "reject": "Reddet"
+    },
+    "mobileMenu": {
+        "close": "Kapat",
+        "manifesto": "Manifesto",
+        "works": "Eserler",
+        "contact": "İletişim",
+        "getQuote": "Teklif Al"
+    },
+    "notFound": {
+        "title": "Yanlış Sokağa Saptınız.",
+        "description": "Aradığınız sayfa ya taşındı ya da hiç var olmadı. Merak etmeyin, sizi ana merkeze geri götürebiliriz.",
+        "backHome": "Ana Sayfaya Dön"
+    },
+    "career": {
+        "icon": "🚧",
+        "title": "Henüz Tuğlaları Diziyoruz.",
+        "description": "Şu an ekibimiz kahve molas... şaka şaka. Bu sayfayı mükemmelleştirmek için kodların arasında kaybolduk. Yakında burada harika fırsatlar olacak.",
+        "signature": "— VR0CKS İNŞAAT EKİBİ"
+    },
+    "faq": {
+        "title": "Merak Edilenler.",
+        "subtitle": "Aklınızdaki soruların cevaplarını en yalın haliyle derledik.",
+        "items": [
+            {
+                "question": "Süreç nasıl işliyor, ne zaman teslim alırım?",
+                "answer": "Karmaşık süreçlerle sizi yormuyoruz. Önce hedeflerinizi konuşuyoruz, ardından size özel tasarımı hazırlayıp onayınıza sunuyoruz. Onaydan sonra kodlamayı tamamlayıp, ortalama 2-4 hafta içinde sitenizi yayına alıyoruz."
+            },
+            {
+                "question": "Sitem Google'da üst sıralarda çıkar mı?",
+                "answer": "Kesinlikle. Yaptığımız siteler sadece şık görünmekle kalmaz; Google'ın en sevdiği altyapı ile (SEO uyumlu, çok hızlı ve mobil dostu) kodlanır. Bu da sizi rakiplerinizden 1-0 önde başlatır."
+            },
+            {
+                "question": "Siteyi daha sonra kendim güncelleyebilir miyim?",
+                "answer": "Evet. İsterseniz sitenize kullanımı çok kolay bir yönetim paneli entegre ediyoruz. Kod bilmenize gerek kalmadan yazılarınızı, resimlerinizi veya ürünlerinizi bir Instagram gönderisi paylaşır gibi güncelleyebilirsiniz."
+            },
+            {
+                "question": "Fiyatlandırma neye göre belirleniyor?",
+                "answer": "Her işletmenin ihtiyacı farklıdır. Hazır kalıp (şablon) siteler yerine, size özel dikilmiş bir 'dijital takım elbise' yapıyoruz. Projenin kapsamına göre en adil ve şeffaf teklifi sunuyoruz."
+            },
+            {
+                "question": "Site bittikten sonra destek veriyor musunuz?",
+                "answer": "Bizimle çalışmak bir defalık bir iş değil, uzun vadeli bir ortaklıktır. Site yayına girdikten sonra da teknik destek, bakım ve güncelleme konularında her zaman yanınızdayız."
+            }
+        ]
+    },
+    "privacy": {
+        "title": "Gizlilik Politikası",
+        "lastUpdate": "Son Güncelleme:",
+        "lastUpdateDate": "29 Kasım 2025",
+        "section1Title": "1. Veri Toplama",
+        "section1Content": "VR0CKS Agency olarak, dijital mahremiyetinize saygı duyuyoruz. Web sitemizi ziyaret ettiğinizde, deneyiminizi iyileştirmek adına sadece temel analitik verileri (çerezler aracılığıyla) topluyoruz.",
+        "section2Title": "2. Kullanım Amacı",
+        "section2Content": "Toplanan veriler sadece şu amaçlarla kullanılır:",
+        "section2List": [
+            "Site performansını analiz etmek.",
+            "Size daha iyi bir kullanıcı deneyimi sunmak.",
+            "İletişim formları aracılığıyla dönüş yapmak."
+        ],
+        "section3Title": "3. Üçüncü Taraflar",
+        "section3Content": "Verileriniz asla reklam amaçlı üçüncü taraflara satılmaz. Sadece yasal zorunluluk durumlarında ilgili mercilerle paylaşılabilir.",
+        "contactNote": "Bu politika hakkında sorularınız varsa,",
+        "contactEmail": "vr0cksdev@gmail.com",
+        "contactSuffix": "adresinden bize ulaşabilirsiniz."
+    },
+    "terms": {
+        "title": "Kullanım Koşulları",
+        "effectiveDate": "Yürürlük Tarihi:",
+        "effectiveDateValue": "29 Kasım 2025",
+        "section1Title": "1. Giriş",
+        "section1Content": "Bu web sitesini (vr0cks.com) kullanarak aşağıdaki koşulları kabul etmiş sayılırsınız. Hizmetlerimizden yararlanmadan önce lütfen dikkatlice okuyunuz.",
+        "section2Title": "2. Fikri Mülkiyet",
+        "section2Content": "Sitede yer alan tüm tasarımlar, kod yapıları, metinler ve görseller VR0CKS Agency'e aittir. İzinsiz kopyalanması, çoğaltılması veya ticari amaçla kullanılması yasaktır.",
+        "section3Title": "3. Hizmet Kapsamı",
+        "section3Content": "Sunduğumuz web tasarım ve geliştirme hizmetleri, proje bazlı sözleşmelerle belirlenir. Burada yer alan bilgiler genel bilgilendirme amaçlıdır.",
+        "legalNote": "Hukuki sorularınız için",
+        "legalEmail": "legal@vr0cks.com",
+        "legalSuffix": "ile iletişime geçebilirsiniz."
+    },
+    "languageSwitcher": {
+        "tr": "TR",
+        "en": "EN",
+        "de": "DE"
+    }
+}

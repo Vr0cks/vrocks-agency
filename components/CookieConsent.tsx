@@ -2,23 +2,19 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { useTranslations } from 'next-intl';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export default function CookieConsent() {
+  const t = useTranslations('cookie');
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    // DEĞİŞİKLİK BURADA:
-    // Artık localStorage kontrolü yapmıyoruz (Daha önce kabul etti mi diye bakmıyoruz).
-    // Sayfa her yüklendiğinde 2 saniye sayar ve sahneye çıkar.
     const timer = setTimeout(() => setIsVisible(true), 2000);
-    
     return () => clearTimeout(timer);
   }, []);
 
   const handleClose = () => {
-    // DEĞİŞİKLİK: localStorage.setItem(...) satırını sildik.
-    // Yani "kabul etti" bilgisini kaydetmiyoruz. Sadece o anlık ekrandan kaldırıyoruz.
     setIsVisible(false);
   };
 
@@ -38,26 +34,24 @@ export default function CookieConsent() {
             p-6 rounded-sm shadow-2xl
           ">
             <h4 className="text-vintage-red text-xs font-bold tracking-widest uppercase mb-2">
-              Dijital Nezaket
+              {t('title')}
             </h4>
-            {/* Yazı rengini Gündüz/Gece uyumlu hale getirdik */}
             <p className="text-white/80 text-xs leading-relaxed mb-4">
-              Deneyiminizi kusursuzlaştırmak için çerez (cookie) kullanıyoruz. 
-              Tıpkı iyi bir viskinin yanındaki çikolata gibi; küçük ama etkili.
+              {t('description')}
             </p>
-            
+
             <div className="flex gap-4">
-              <button 
+              <button
                 onClick={handleClose}
                 className="flex-1 bg-vintage-red text-white text-[10px] font-bold tracking-widest uppercase py-3 hover:bg-red-700 transition-colors rounded-sm"
               >
-                Kabul Et
+                {t('accept')}
               </button>
-              <button 
+              <button
                 onClick={handleClose}
                 className="flex-1 border border-white/10 text-white/50 text-[10px] font-bold tracking-widest uppercase py-3 hover:text-white hover:border-white/30 transition-colors rounded-sm"
               >
-                Reddet
+                {t('reject')}
               </button>
             </div>
           </div>
