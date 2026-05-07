@@ -6,11 +6,12 @@ import { useTranslations } from 'next-intl';
 import Navbar from '@/components/Navbar';
 import Manifesto from '@/components/Manifesto';
 import Works from '@/components/Works';
-import ShopShowcase from '@/components/ShopShowcase';
+import Services from '@/components/Services';
 import Concierge from '@/components/Concierge';
 import FadeIn from '@/components/FadeIn';
 import Footer from '@/components/Footer';
 import DirectContact from '@/components/DirectContact';
+import Insights from '@/components/Insights';
 
 export default function HomePage() {
     const t = useTranslations('hero');
@@ -84,10 +85,13 @@ export default function HomePage() {
             {/* --- 3. WORKS (ESERLER) --- */}
             <Works />
 
-            {/* --- 4. SHOP SHOWCASE --- */}
-            <ShopShowcase />
+            {/* --- 4. SERVICES (HİZMETLER) --- */}
+            <Services />
 
-            {/* --- 5. CONCIERGE (QUIZ) --- */}
+            {/* --- 5. INSIGHTS (BLOG) --- */}
+            <Insights />
+
+            {/* --- 6. CONCIERGE (QUIZ) --- */}
             <section id="concierge" className="py-24 border-t border-[#1a0303]/10 dark:border-white/5 bg-[#F0EAD6] dark:bg-[#0f0202] transition-colors duration-700">
                 <FadeIn direction="up">
                     <div className="text-center mb-16 px-4">

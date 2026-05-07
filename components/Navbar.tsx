@@ -29,7 +29,7 @@ export default function Navbar() {
         {/* --- SOL: LOGO --- */}
         <Link href="/" className="group z-50 mt-1 relative">
           <h1 className="font-serif text-2xl tracking-wider text-charcoal dark:text-white transition-colors duration-300 group-hover:text-vintage-red">
-            VR0CKS<span className="text-vintage-red">.</span>
+            VR<span className="font-sans font-bold">0</span>CKS<span className="text-vintage-red">.</span>
           </h1>
         </Link>
 

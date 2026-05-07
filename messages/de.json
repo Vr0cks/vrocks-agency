@@ -24,9 +24,9 @@
         "title1": "Wir schreiben keinen Code,",
         "title2": "digitales Erbe",
         "title3": "wir bauen.",
-        "paragraph1": "Wir sind <strong>Vr0cks</strong>. Wir glauben, dass es in der digitalen Welt keinen Platz für Mittelmäßigkeit gibt. Für Ihre Marke erstellen wir nicht nur eine Website – wir bauen ein lebendiges, atmendes Prestige.",
-        "paragraph2": "Wir formen komplexen Code zu eleganten, funktionalen Kunstwerken mit einer \"Weniger ist mehr\"-Philosophie. Geschwindigkeit, Ästhetik und Perfektion sind unsere Standards.",
-        "paragraph3": "Wir kümmern uns um die Details, damit Sie einfach die Ergebnisse genießen können.",
+        "paragraph1": "Ich bin <strong>Ahmet Yiğit Canlı</strong>. Ich bin 21 Jahre alt und fordere seit 6 Jahren die Mittelmäßigkeit in der digitalen Welt mit meiner Leidenschaft für Software heraus. Für mich sollte jede Zeile Code wie die Zahnräder einer Uhr perfekt funktionieren und so ästhetisch wie ein Gemälde aussehen.",
+        "paragraph2": "Bisher habe ich Fullstack-Lösungen für globale Kunden entwickelt, digitale Authentifizierungssysteme für Luxustaschen im Wert von Millionen gebaut und KI-gestützte Automatisierungen entwickelt. Während ich mein MIS-Studium an der THKU fortsetze, bekleide ich aktiv die Rolle des Head of IT in einem Unternehmen und schaffe Mehrwert für Marken durch meine Freelance-Projekte.",
+        "paragraph3": "Pünktliche Lieferung und unermüdliche Sorgfalt sind mein Markenzeichen. Ich bin hier, um komplexe Probleme mit der 'Less is more'-Philosophie in einfache und effektive Kunstwerke zu verwandeln.",
         "founderName": "Yiğit Canlı.",
         "founderTitle": "Gründer & Head of Design"
     },
@@ -36,20 +36,20 @@
         "viewProject": "Ansehen"
     },
     "projects": {
-        "luxeSpaces": {
-            "title": "Luxe Spaces",
-            "category": "ARCHITEKTUR / LUXUS-DESIGN",
-            "description": "Ein minimales, fokussiertes Portfolio-Erlebnis, das luxuriöse Wohnräume und architektonische Vision mit digitaler Ästhetik verbindet."
+        "jnrVip": {
+            "title": "JNR VIP Transfer",
+            "category": "TOURISMUS / VIP-TRANSFER",
+            "description": "Eine moderne, elegante und buchungsintensive Website für luxuriöse VIP-Transferdienste."
         },
         "unitedFb": {
             "title": "United FB Assoc.",
             "category": "COMMUNITY / FAN-PLATTFORM",
             "description": "Eine interaktive, moderne Community-Management-Plattform, speziell für Fenerbahçe-Fans entwickelt."
         },
-        "kocRealEstate": {
-            "title": "Koç Real Estate",
-            "category": "UNTERNEHMEN / IMMOBILIEN",
-            "description": "Eine Corporate-Identity-Oberfläche, die mit benutzerfreundlicher Listing-Infrastruktur digitale Vision in den Immobiliensektor bringt."
+        "karacaFile": {
+            "title": "Karaca File Market",
+            "category": "E-COMMERCE / TEXTIL & SICHERHEIT",
+            "description": "Eine E-Commerce-Plattform mit einem umfassenden Produktkatalog für Sicherheitsnetze und industrielle Textillösungen."
         }
     },
     "concierge": {
@@ -112,33 +112,31 @@
         "phoneLabel": "Telefon",
         "phoneValue": "+90 546 296 18 48"
     },
-    "shopShowcase": {
-        "subtitle": "Premium-Tools",
-        "title": "Von vr0cks entwickelt.",
-        "titleAccent": "Von Gewinnern genutzt.",
-        "description": "Wir entwickeln nicht nur Software für Kunden; wir bauen auch die Tools, die sie antreiben. Entdecken Sie unsere Premium-Vorlagen.",
-        "viewProduct": "Produkt Ansehen",
-        "viewAllProducts": "Alle Produkte im Shop"
-    },
-    "shopProducts": {
-        "saasKit": {
-            "title": "SaaS Starter Kit Pro",
-            "badge": "Bestseller",
-            "description": "Produktionsreife SaaS-Vorlage mit Auth, Zahlungen und Dashboard. In Tagen statt Monaten starten."
-        },
-        "portfolio": {
-            "title": "Instant Portfolio",
-            "badge": "No-Code",
-            "description": "Wunderschöne Portfolio-Vorlage. Einfach die Config-Datei bearbeiten und deployen. Perfekt für Entwickler & Designer."
-        },
-        "aiKit": {
-            "title": "AI Wrapper Kit",
-            "badge": "Trending",
-            "description": "Starten Sie Ihr AI-gestütztes SaaS schnell. OpenAI-Integration, Rate-Limiting und Billing inklusive."
+    "services": {
+        "subtitle": "UNSERE EXPERTISE",
+        "title": "Die drei Säulen der",
+        "titleAccent": "digitalen Kunst.",
+        "description": "Wir bauen keine gewöhnlichen Websites. Wir positionieren Ihre Marke als Meisterwerk in der digitalen Welt.",
+        "list": {
+            "architecture": {
+                "title": "Digitale Architektur",
+                "badge": "Software",
+                "description": "Performante, skalierbare und zukunftssichere Software-Grundlagen. Mit Next.js sind wir an der Spitze von Geschwindigkeit und Sicherheit."
+            },
+            "design": {
+                "title": "Visuelle Poesie",
+                "badge": "Design",
+                "description": "Premium UI/UX-Erlebnisse gepaart mit minimalistischer Ästhetik. Wir weben die Seele Ihrer Marke in jedes Pixel."
+            },
+            "strategy": {
+                "title": "Growth Engineering",
+                "badge": "Strategie",
+                "description": "SEO, Datenanalyse und globale Vision. Wir erscheinen nicht nur; wir erreichen die richtige Zielgruppe mit der richtigen Botschaft."
+            }
         }
     },
     "footer": {
-        "brandDescription": "Für Marken, die Mittelmäßigkeit herausfordern; in Ankara ansässiges, global ausgerichtetes, preisgekröntes Studio für digitales Design und Software.",
+        "brandDescription": "Für Marken, die Mittelmäßigkeit herausfordern; in Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software.",
         "corporate": "Unternehmen",
         "projects": "Projekte",
         "career": "Karriere",
@@ -237,6 +235,29 @@
         "legalNote": "Für rechtliche Fragen",
         "legalEmail": "legal@vr0cks.com",
         "legalSuffix": "können Sie uns kontaktieren."
+    },
+    "insights": {
+        "title": "Digitale",
+        "titleAccent": "Einblicke.",
+        "subtitle": "BLOG & VISION",
+        "readMore": "WEITERLESEN",
+        "author": "AUTOR",
+        "date": "DATUM",
+        "minimalism": {
+            "title": "Minimalismus: Digitales Rauschen stoppen",
+            "excerpt": "Jedes unnötige Detail ist eine Sekunde, die dem Fokus des Benutzers gestohlen wird. Entdecken Sie die Kraft der 'Less is more'-Philosophie im modernen Webdesign.",
+            "content": "In der digitalen Welt bedeutet 'mehr' nicht immer 'besser'. Im Gegenteil, jede unnötige Animation, jede grelle Farbe und jedes komplexe Menü ist ein Dieb, der dem Hauptzweck des Benutzers gestohlen wurde.\n\nMinimalismus geht es nicht nur darum, Platz zu lassen, sondern darum, das Wichtigste zum Strahlen zu bringen. Als VR0CKS nutzen wir in unseren Projekten die 'Kraft der Stille'. Wir entwerfen Schnittstellen, die die Augen des Benutzers nicht ermüden, seinen Geist nicht trüben und ihn auf eleganteste Weise dorthin bringen, wo er hin möchte.\n\nEine Website kann ein Kunstwerk sein, aber wir lassen nicht zu, dass diese Kunst die Funktionalität beeinträchtigt. Digitale Handwerkskunst bedeutet, die perfekte Balance zwischen Ästhetik und Geschwindigkeit zu finden."
+        },
+        "nextjs": {
+            "title": "Warum Next.js? Jenseits der Performance",
+            "excerpt": "Nicht nur Geschwindigkeit, sondern SEO und Entwicklererfahrung. Warum wählen wir bei VR0CKS-Projekten immer die modernste Infrastruktur?",
+            "content": "In der modernen Webwelt sind Sekunden Gold wert. Eine Verzögerung von 1 Sekunde beim Öffnen einer Website bedeutet, dass ein potenzieller Kunde an der Tür umkehrt. Deshalb gehen wir bei VR0CKS keine Kompromisse bei unserer Infrastruktur ein.\n\nNext.js bietet uns nicht nur Geschwindigkeit, sondern auch eine hervorragende Sichtbarkeit für Suchmaschinen (SEO). Mit Server-Side-Rendering (SSR) und Static-Site-Generation (SSG)-Technologien wird Ihre Website so flüssig wie eine mobile Anwendung und so organisiert wie eine Bibliothek.\n\nSoftware ist das Skelett Ihrer Marke. Wir bauen dieses Skelett aus dem stärksten und modernsten Stahl."
+        },
+        "luxury": {
+            "title": "Luxus und Digital: Vertrauen aufbauen",
+            "excerpt": "Ein tiefer Einblick in die digitale Authentifizierung von Millionen-Dollar-Produkten und das User Experience Design im Luxussegment.",
+            "content": "Luxus ist nicht nur ein hoher Preis; es ist ein Versprechen von Vertrauen und Perfektion. In der Welt der Millionen-Dollar-Taschen oder seltener Kunstwerke muss auch das digitale Erlebnis dieses Gewicht tragen.\n\nIn den Projekten zur Authentifizierung von Millionen-Dollar-Produkten, die ich in der Vergangenheit durchgeführt habe, habe ich gesehen, dass in dem Moment, in dem die digitale Schnittstelle kein Vertrauen erweckt, das gesamte Prestige erschüttert wird. In den Systemen, die wir für Luxusmarken entwerfen, bauen wir jedes Detail von Mikro-Interaktionen bis hin zu Sicherheitsprotokollen mit diesem Verständnis von 'stillem Luxus' auf.\n\nVertrauen in der digitalen Welt aufzubauen ist ein Handwerk jenseits von Pixeln. Wir verbinden dieses Handwerk mit den Regeln des Luxus."
+        }
     },
     "languageSwitcher": {
         "tr": "TR",

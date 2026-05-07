@@ -24,9 +24,9 @@
         "title1": "Kod yazmıyoruz,",
         "title2": "dijital miras",
         "title3": "inşa ediyoruz.",
-        "paragraph1": "Biz <strong>Vr0cks</strong>. Dijital dünyada sıradanlığa yer olmadığına inanıyoruz. Markanız için sadece bir web sitesi değil, yaşayan ve nefes alan bir prestij inşa ediyoruz.",
-        "paragraph2": "Karmaşık kodları, \"Less is more\" felsefesiyle yontarak zarif ve işlevsel sanat eserlerine dönüştürüyoruz. Hız, estetik ve kusursuzluk bizim standartımız.",
-        "paragraph3": "Sizin için detaylara takılıyoruz, böylece siz sadece sonucun keyfini çıkarıyorsunuz.",
+        "paragraph1": "Ben <strong>Ahmet Yiğit Canlı</strong>. 21 yaşındayım ve 6 yıldır süregelen yazılım tutkumla dijital dünyada sıradanlığa meydan okuyorum. Benim için her satır kod, bir saatin dişlileri gibi kusursuz çalışmalı ve bir tablo gibi estetik görünmeli.",
+        "paragraph2": "Bugüne kadar global müşterilerim için Fullstack çözümler ürettim, milyonluk lüks çantaların dijital doğrulama sistemlerini kurdum ve AI destekli otomasyonlar geliştirdim. Şu an THKÜ'de MIS eğitimime devam ederken, aktif olarak bir şirkette Head of IT rolünü üstleniyor ve freelance projelerimle markalara değer katıyorum.",
+        "paragraph3": "Zamanında teslimat ve sarsılmaz bir özen benim imzamdır. Karmaşık sorunları, 'Less is more' felsefesiyle yalın ve etkili sanat eserlerine dönüştürmek için buradayım.",
         "founderName": "Yiğit Canlı.",
         "founderTitle": "Founder & Head of Design"
     },
@@ -36,20 +36,20 @@
         "viewProject": "İncele"
     },
     "projects": {
-        "luxeSpaces": {
-            "title": "Luxe Spaces",
-            "category": "MİMARİ / LÜKS TASARIM",
-            "description": "Lüks yaşam alanlarını ve mimari vizyonu dijital dünyada estetikle buluşturan, minimal ve odaklı bir portfolyo deneyimi."
+        "jnrVip": {
+            "title": "JNR VIP Transfer",
+            "category": "TURİZM / VIP TAŞIMACILIK",
+            "description": "Lüks VIP transfer hizmetleri için modern, şık ve rezervasyon odaklı bir kurumsal web sitesi deneyimi."
         },
         "unitedFb": {
             "title": "United FB Assoc.",
             "category": "TOPLULUK / FAN PLATFORMU",
             "description": "Fenerbahçe taraftarları için özel olarak kurgulanmış, etkileşimli ve modern bir topluluk yönetim platformu."
         },
-        "kocRealEstate": {
-            "title": "Koç Real Estate",
-            "category": "KURUMSAL / GAYRİMENKUL",
-            "description": "Emlak sektörüne dijital bir vizyon katan, kullanıcı dostu listeleme altyapısına sahip kurumsal kimlik arayüzü."
+        "karacaFile": {
+            "title": "Karaca File Market",
+            "category": "E-TİCARET / TEKSTİL & GÜVENLİK",
+            "description": "Güvenlik fileleri ve endüstriyel tekstil çözümleri sunan, kapsamlı ürün kataloğuna sahip e-ticaret platformu."
         }
     },
     "concierge": {
@@ -112,33 +112,31 @@
         "phoneLabel": "Telefon",
         "phoneValue": "+90 546 296 18 48"
     },
-    "shopShowcase": {
-        "subtitle": "Premium Araçlar",
-        "title": "vr0cks tarafından üretildi.",
-        "titleAccent": "Kazananlar kullanıyor.",
-        "description": "Sadece müşterilerimiz için yazılım geliştirmiyoruz; onları güçlendiren araçları da biz üretiyoruz. Premium şablonlarımıza göz atın.",
-        "viewProduct": "Ürünü Görüntüle",
-        "viewAllProducts": "Tüm Ürünleri Gör"
-    },
-    "shopProducts": {
-        "saasKit": {
-            "title": "SaaS Başlangıç Kiti Pro",
-            "badge": "En Çok Satan",
-            "description": "Kimlik doğrulama, ödeme ve dashboard ile üretime hazır SaaS şablonu. Aylar yerine günler içinde yayına alın."
-        },
-        "portfolio": {
-            "title": "Anında Portfolyo",
-            "badge": "Kodsuz",
-            "description": "Güzel portfolyo şablonu. Sadece config dosyasını düzenleyin ve yayınlayın. Geliştiriciler ve tasarımcılar için mükemmel."
-        },
-        "aiKit": {
-            "title": "AI Wrapper Kiti",
-            "badge": "Trend",
-            "description": "AI destekli SaaS'ınızı hızla başlatın. OpenAI entegrasyonu, rate limiting ve faturalandırma dahil."
+    "services": {
+        "subtitle": "UZMANLIK ALANLARIMIZ",
+        "title": "Dijital zanaatın",
+        "titleAccent": "üç sütunu.",
+        "description": "Sıradan web siteleri yapmıyoruz. Markanızı dijital dünyada bir sanat eseri gibi konumlandırıyoruz.",
+        "list": {
+            "architecture": {
+                "title": "Dijital Mimari",
+                "badge": "Yazılım",
+                "description": "Performanslı, ölçeklenebilir ve gelecek vadeden yazılım altyapıları. Next.js ile hızın ve güvenliğin zirvesindeyiz."
+            },
+            "design": {
+                "title": "Görsel Şiir",
+                "badge": "Tasarım",
+                "description": "Minimalist estetikle harmanlanmış, premium UI/UX deneyimleri. Markanızın ruhunu piksellere işliyoruz."
+            },
+            "strategy": {
+                "title": "Büyüme Mühendisliği",
+                "badge": "Strateji",
+                "description": "SEO, veri analitiği ve global vizyon. Sadece görünmüyoruz, doğru kitleye doğru mesajla ulaşıyoruz."
+            }
         }
     },
     "footer": {
-        "brandDescription": "Sıradanlığa meydan okuyan markalar için; Ankara merkezli, global vizyonlu, ödüllü dijital tasarım ve yazılım stüdyosu.",
+        "brandDescription": "Sıradanlığa meydan okuyan markalar için; Ankara merkezli, global vizyonlu, dijital tasarım ve yazılım stüdyosu.",
         "corporate": "Kurumsal",
         "projects": "Projeler",
         "career": "Kariyer",
@@ -237,6 +235,29 @@
         "legalNote": "Hukuki sorularınız için",
         "legalEmail": "legal@vr0cks.com",
         "legalSuffix": "ile iletişime geçebilirsiniz."
+    },
+    "insights": {
+        "title": "Dijital",
+        "titleAccent": "Düşünceler.",
+        "subtitle": "BLOG & VİZYON",
+        "readMore": "OKUMAYA DEVAM ET",
+        "author": "YAZAR",
+        "date": "TARİH",
+        "minimalism": {
+            "title": "Minimalizm: Dijital Gürültüyü Durdurmak",
+            "excerpt": "Gereksiz her detay, kullanıcının odağından çalınmış bir saniyedir. 'Less is more' felsefesinin modern web tasarımındaki gücünü keşfedin.",
+            "content": "Dijital dünyada 'daha fazla' her zaman 'daha iyi' demek değildir. Aksine, gereksiz her animasyon, her parlak renk ve her karmaşık menü, kullanıcının asıl amacından çalınmış birer hırsızdır.\n\nMinimalizm, sadece boşluk bırakmak değil, en önemli olanı parlatmaktır. VR0CKS olarak projelerimizde 'sessizliğin gücünü' kullanıyoruz. Kullanıcının gözlerini yormayan, zihnini bulandırmayan ve onu gitmek istediği yere en zarif şekilde ulaştıran arayüzler tasarlıyoruz.\n\nBir web sitesi bir sanat eseri olabilir, ancak bu sanatın işlevselliği öldürmesine izin vermiyoruz. Dijital zanaatkarlık, estetikle hızın kusursuz dengesini bulmaktır."
+        },
+        "nextjs": {
+            "title": "Neden Next.js? Performansın Ötesi",
+            "excerpt": "Sadece hız değil, SEO ve geliştirici deneyimi. VR0CKS projelerinde neden her zaman en modern altyapıyı tercih ediyoruz?",
+            "content": "Modern web dünyasında saniyeler altın değerindedir. Bir sitenin 1 saniye geç açılması, potansiyel bir müşterinin kapıdan dönmesi demektir. Bu yüzden VR0CKS olarak altyapımızda ödün vermiyoruz.\n\nNext.js, bize sadece hız değil, aynı zamanda arama motorları (SEO) için mükemmel bir görünürlük sağlıyor. Sunucu taraflı render (SSR) ve statik üretim (SSG) teknolojileriyle, siteniz hem bir mobil uygulama kadar akıcı hem de bir kütüphane kadar düzenli hale geliyor.\n\nYazılım, markanızın iskeletidir. Biz bu iskeleti en sağlam ve en modern çelikten inşa ediyoruz."
+        },
+        "luxury": {
+            "title": "Lüks ve Dijital: Bir Güven İnşası",
+            "excerpt": "Milyonluk değerdeki ürünlerin dijital doğrulanması ve lüks segmentte kullanıcı deneyimi tasarımı üzerine derin bir bakış.",
+            "content": "Lüks, sadece yüksek bir fiyat etiketi değildir; bir güven ve kusursuzluk vaadidir. Milyonluk çantaların veya nadir eserlerin dünyasında, dijital deneyim de bu ağırlığı taşımalıdır.\n\nGeçmişte gerçekleştirdiğim milyonluk ürün doğrulama projelerinde gördüm ki, dijital arayüz güven vermediği an tüm prestij sarsılıyor. Lüks markalar için tasarladığımız sistemlerde, mikro-etkileşimlerden güvenlik protokollerine kadar her detayı bu 'sessiz lüks' anlayışıyla kurguluyoruz.\n\nDijital dünyada güven inşa etmek, piksellerin ötesinde bir zanaattır. Biz bu zanaatı lüksün kurallarıyla harmanlıyoruz."
+        }
     },
     "languageSwitcher": {
         "tr": "TR",

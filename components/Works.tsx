@@ -12,11 +12,11 @@ export default function Works() {
   const projects = [
     {
       id: 1,
-      titleKey: 'luxeSpaces.title',
-      categoryKey: 'luxeSpaces.category',
-      descriptionKey: 'luxeSpaces.description',
+      titleKey: 'jnrVip.title',
+      categoryKey: 'jnrVip.category',
+      descriptionKey: 'jnrVip.description',
       year: "2025",
-      link: "https://vr0cks.github.io/LUXE-SPACES/",
+      link: "https://www.jnrviptransfer.com",
     },
     {
       id: 2,
@@ -28,11 +28,11 @@ export default function Works() {
     },
     {
       id: 3,
-      titleKey: 'kocRealEstate.title',
-      categoryKey: 'kocRealEstate.category',
-      descriptionKey: 'kocRealEstate.description',
-      year: "2024",
-      link: "https://koc-real-estate-agency-website.vercel.app",
+      titleKey: 'karacaFile.title',
+      categoryKey: 'karacaFile.category',
+      descriptionKey: 'karacaFile.description',
+      year: "2025",
+      link: "https://www.karacafilemarket.com",
     },
   ];
 

@@ -24,9 +24,9 @@
         "title1": "We don't write code,",
         "title2": "digital legacy",
         "title3": "we build.",
-        "paragraph1": "We are <strong>Vr0cks</strong>. We believe there's no room for mediocrity in the digital world. For your brand, we don't just create a website—we build a living, breathing prestige.",
-        "paragraph2": "We sculpt complex code into elegant, functional works of art with a \"Less is more\" philosophy. Speed, aesthetics, and perfection are our standards.",
-        "paragraph3": "We obsess over the details so you can simply enjoy the results.",
+        "paragraph1": "I am <strong>Ahmet Yiğit Canlı</strong>. I am 21 years old and have been challenging mediocrity in the digital world with my passion for software for the last 6 years. For me, every line of code should work perfectly like the gears of a clock and look as aesthetic as a painting.",
+        "paragraph2": "To date, I have produced Fullstack solutions for global clients, built digital authentication systems for luxury bags worth millions, and developed AI-powered automations. While continuing my MIS education at THKU, I actively hold the Head of IT role at a company and add value to brands through my freelance projects.",
+        "paragraph3": "On-time delivery and unwavering care are my signatures. I am here to transform complex problems into simple and effective works of art using the 'Less is more' philosophy.",
         "founderName": "Yiğit Canlı.",
         "founderTitle": "Founder & Head of Design"
     },
@@ -36,20 +36,20 @@
         "viewProject": "View"
     },
     "projects": {
-        "luxeSpaces": {
-            "title": "Luxe Spaces",
-            "category": "ARCHITECTURE / LUXURY DESIGN",
-            "description": "A minimal, focused portfolio experience that brings luxury living spaces and architectural vision together with digital aesthetics."
+        "jnrVip": {
+            "title": "JNR VIP Transfer",
+            "category": "TOURISM / VIP TRANSFER",
+            "description": "A modern, elegant, and booking-oriented corporate website experience for luxury VIP transfer services."
         },
         "unitedFb": {
             "title": "United FB Assoc.",
             "category": "COMMUNITY / FAN PLATFORM",
             "description": "An interactive, modern community management platform specially designed for Fenerbahçe fans."
         },
-        "kocRealEstate": {
-            "title": "Koç Real Estate",
-            "category": "CORPORATE / REAL ESTATE",
-            "description": "A corporate identity interface that brings digital vision to the real estate sector with user-friendly listing infrastructure."
+        "karacaFile": {
+            "title": "Karaca File Market",
+            "category": "E-COMMERCE / TEXTILE & SAFETY",
+            "description": "An e-commerce platform with a comprehensive product catalog offering safety nets and industrial textile solutions."
         }
     },
     "concierge": {
@@ -112,33 +112,31 @@
         "phoneLabel": "Phone",
         "phoneValue": "+90 546 296 18 48"
     },
-    "shopShowcase": {
-        "subtitle": "Premium Tools",
-        "title": "Built by vr0cks.",
-        "titleAccent": "Used by Winners.",
-        "description": "We don't just build software for clients; we build the tools that power them. Check out our premium boilerplates.",
-        "viewProduct": "View Product",
-        "viewAllProducts": "View All Products on Shop"
-    },
-    "shopProducts": {
-        "saasKit": {
-            "title": "SaaS Starter Kit Pro",
-            "badge": "Best Seller",
-            "description": "Production-ready SaaS boilerplate with auth, payments, and dashboard. Ship in days, not months."
-        },
-        "portfolio": {
-            "title": "Instant Portfolio",
-            "badge": "No-Code",
-            "description": "Beautiful portfolio template. Just edit the config file and deploy. Perfect for developers & designers."
-        },
-        "aiKit": {
-            "title": "AI Wrapper Kit",
-            "badge": "Trending",
-            "description": "Launch your AI-powered SaaS fast. OpenAI integration, rate limiting, and billing included."
+    "services": {
+        "subtitle": "OUR EXPERTISE",
+        "title": "The three pillars of",
+        "titleAccent": "digital craft.",
+        "description": "We don't build ordinary websites. We position your brand as a masterpiece in the digital world.",
+        "list": {
+            "architecture": {
+                "title": "Digital Architecture",
+                "badge": "Software",
+                "description": "Performant, scalable, and future-proof software foundations. We are at the peak of speed and security with Next.js."
+            },
+            "design": {
+                "title": "Visual Poetry",
+                "badge": "Design",
+                "description": "Premium UI/UX experiences blended with minimalist aesthetics. We weave the soul of your brand into every pixel."
+            },
+            "strategy": {
+                "title": "Growth Engineering",
+                "badge": "Strategy",
+                "description": "SEO, data analytics, and global vision. We don't just appear; we reach the right audience with the right message."
+            }
         }
     },
     "footer": {
-        "brandDescription": "For brands that challenge mediocrity; Ankara-based, globally-minded, award-winning digital design and software studio.",
+        "brandDescription": "For brands that challenge mediocrity; Ankara-based, globally-minded,  digital design and software studio.",
         "corporate": "Corporate",
         "projects": "Projects",
         "career": "Career",
@@ -237,6 +235,29 @@
         "legalNote": "For legal questions",
         "legalEmail": "legal@vr0cks.com",
         "legalSuffix": "you can contact us."
+    },
+    "insights": {
+        "title": "Digital",
+        "titleAccent": "Insights.",
+        "subtitle": "BLOG & VISION",
+        "readMore": "CONTINUE READING",
+        "author": "AUTHOR",
+        "date": "DATE",
+        "minimalism": {
+            "title": "Minimalism: Stopping Digital Noise",
+            "excerpt": "Every unnecessary detail is a second stolen from the user's focus. Explore the power of 'Less is more' philosophy in modern web design.",
+            "content": "In the digital world, 'more' does not always mean 'better'. On the contrary, every unnecessary animation, every bright color, and every complex menu is a thief stolen from the user's main purpose.\n\nMinimalism is not just about leaving space, it is about making what is most important shine. As VR0CKS, we use the 'power of silence' in our projects. We design interfaces that do not tire the user's eyes, do not cloud their mind, and reach them where they want to go in the most elegant way.\n\nA website can be a work of art, but we do not allow this art to kill functionality. Digital craftsmanship is about finding the perfect balance between aesthetics and speed."
+        },
+        "nextjs": {
+            "title": "Why Next.js? Beyond Performance",
+            "excerpt": "Not just speed, but SEO and developer experience. Why do we always choose the most modern infrastructure in VR0CKS projects?",
+            "content": "In the modern web world, seconds are worth gold. A 1-second delay in opening a site means a potential customer turning away at the door. That's why we don't compromise on our infrastructure at VR0CKS.\n\nNext.js provides us not only with speed, but also with excellent visibility for search engines (SEO). With server-side rendering (SSR) and static site generation (SSG) technologies, your site becomes as fluid as a mobile application and as organized as a library.\n\nSoftware is the skeleton of your brand. We build this skeleton from the strongest and most modern steel."
+        },
+        "luxury": {
+            "title": "Luxury and Digital: Building Trust",
+            "excerpt": "A deep look into the digital authentication of million-dollar products and user experience design in the luxury segment.",
+            "content": "Luxury is not just a high price tag; it is a promise of trust and perfection. In the world of million-dollar bags or rare works of art, the digital experience must also carry this weight.\n\nIn the million-dollar product authentication projects I've carried out in the past, I've seen that the moment the digital interface doesn't give confidence, all prestige is shaken. In the systems we design for luxury brands, we build every detail from micro-interactions to security protocols with this 'silent luxury' understanding.\n\nBuilding trust in the digital world is a craft beyond pixels. We blend this craft with the rules of luxury."
+        }
     },
     "languageSwitcher": {
         "tr": "TR",

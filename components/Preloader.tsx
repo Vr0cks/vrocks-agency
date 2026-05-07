@@ -75,7 +75,7 @@ export default function Preloader() {
                 transition={{ duration: 0.8, ease: "easeOut" }}
                 className="font-serif text-5xl md:text-7xl tracking-[0.2em] font-black text-[#F2F0E6]"
               >
-                VR0CKS<span className="text-vintage-red">.</span>
+                VR<span className="font-sans font-bold text-[0.9em]">0</span>CKS<span className="text-vintage-red">.</span>
               </motion.h1>
               
               <div className="w-48 h-[2px] bg-white/10 mt-6 rounded-full overflow-hidden relative">

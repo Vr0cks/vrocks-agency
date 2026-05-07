@@ -34,7 +34,10 @@ export const metadata: Metadata = {
     description: "Ankara merkezli, global vizyonlu dijital tasarım ve yazılım stüdyosu. Markanız için özel dikilmiş, vintage estetikle harmanlanmış modern web deneyimleri.",
     keywords: ["Web Tasarım", "Ankara", "Next.js", "UI/UX", "Digital Agency", "Yazılım Ajansı", "Kurumsal Kimlik", "React"],
     authors: [{ name: "Yiğit Canlı", url: "https://my-portfolio-ochre-ten-83.vercel.app/tr" }],
-    creator: "Vr0cks Agency",
+    creator: "VR0CKS Agency",
+    icons: {
+        icon: '/vrc-logo.png',
+    },
     openGraph: {
         title: "VR0CKS | Digital Craftsman",
         description: "Kod yazmıyoruz, dijital miras inşa ediyoruz.",

@@ -34,7 +34,7 @@ export default function Footer() {
           <div className="space-y-6">
             <Link href="/" className="block">
               <h2 className="font-serif text-2xl tracking-[0.2em] font-black text-[#1A1716] dark:text-white transition-colors duration-500">
-                VR0CKS<span className="text-vintage-red">.</span>
+                VR<span className="font-sans font-bold">0</span>CKS<span className="text-vintage-red">.</span>
               </h2>
             </Link>
             <p className="text-[#1A1716]/60 dark:text-white/50 text-xs leading-relaxed font-light transition-colors duration-500">
