@@ -10,7 +10,8 @@
         "contact": "İLETİŞİM",
         "getQuote": "TEKLİF AL",
         "menu": "Menu",
-        "close": "Kapat"
+        "close": "Kapat",
+        "team": "EKİP"
     },
     "hero": {
         "subtitle": "Dıgıtal Craftsman",
@@ -149,6 +150,7 @@
         "listenWithUs": "Bizimle Dinleyin",
         "agencyPlaylist": "Ajans Seçkisi",
         "playlistName": "Whiskey Blues",
+        "team": "Ekip",
         "copyright": "© 2025 VR0CKS AGENCY — TÜM HAKLARI SAKLIDIR.",
         "signature": "EST. ANKARA —",
         "signatureAccent": "DIGITAL CRAFTSMANSHIP"
@@ -163,6 +165,7 @@
         "close": "Kapat",
         "manifesto": "Manifesto",
         "works": "Eserler",
+        "team": "Ekip",
         "contact": "İletişim",
         "getQuote": "Teklif Al"
     },
@@ -263,5 +266,15 @@
         "tr": "TR",
         "en": "EN",
         "de": "DE"
+    },
+    "team": {
+        "subtitle": "KUMANDA MERKEZİ",
+        "title": "Tanışın:",
+        "titleAccent": "Kurucu.",
+        "role": "MÜHENDİS & TASARIMCI",
+        "since": "EST. 2004",
+        "title2": "DİJİTAL ZANAATKAR",
+        "bio": "Sanat ve mühendisliğin kesişim noktasında, markaların dijital mirasını inşa eden baş mimar. Estetikle kodun dansını yaratır.",
+        "viewPortfolio": "PORTFOLYOYU İNCELE"
     }
 }

@@ -16,6 +16,7 @@ export default function Navbar() {
   const links = [
     { name: t('manifesto'), href: '#manifesto' },
     { name: t('works'), href: '#works' },
+    { name: t('team'), href: '#team' },
   ];
 
   return (

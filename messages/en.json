@@ -10,7 +10,8 @@
         "contact": "CONTACT",
         "getQuote": "GET QUOTE",
         "menu": "Menu",
-        "close": "Close"
+        "close": "Close",
+        "team": "TEAM"
     },
     "hero": {
         "subtitle": "Digital Craftsman",
@@ -149,6 +150,7 @@
         "listenWithUs": "Listen With Us",
         "agencyPlaylist": "Agency Selection",
         "playlistName": "Whiskey Blues",
+        "team": "Team",
         "copyright": "© 2025 VR0CKS AGENCY — ALL RIGHTS RESERVED.",
         "signature": "EST. ANKARA —",
         "signatureAccent": "DIGITAL CRAFTSMANSHIP"
@@ -163,6 +165,7 @@
         "close": "Close",
         "manifesto": "Manifesto",
         "works": "Works",
+        "team": "Team",
         "contact": "Contact",
         "getQuote": "Get Quote"
     },
@@ -263,5 +266,15 @@
         "tr": "TR",
         "en": "EN",
         "de": "DE"
+    },
+    "team": {
+        "subtitle": "COMMAND CENTER",
+        "title": "Meet",
+        "titleAccent": "The Founder.",
+        "role": "ENGINEER & DESIGNER",
+        "since": "EST. 2004",
+        "title2": "DIGITAL CRAFTSMAN",
+        "bio": "The chief architect building the digital legacy of brands at the intersection of art and engineering. Creating the perfect dance of code and aesthetics.",
+        "viewPortfolio": "VIEW PORTFOLIO"
     }
 }

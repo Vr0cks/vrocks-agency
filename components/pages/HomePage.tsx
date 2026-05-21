@@ -7,6 +7,7 @@ import Navbar from '@/components/Navbar';
 import Manifesto from '@/components/Manifesto';
 import Works from '@/components/Works';
 import Services from '@/components/Services';
+import Team from '@/components/Team';
 import Concierge from '@/components/Concierge';
 import FadeIn from '@/components/FadeIn';
 import Footer from '@/components/Footer';
@@ -84,6 +85,9 @@ export default function HomePage() {
 
             {/* --- 3. WORKS (ESERLER) --- */}
             <Works />
+
+            {/* --- 3.5 TEAM (EKİP) --- */}
+            <Team />
 
             {/* --- 4. SERVICES (HİZMETLER) --- */}
             <Services />

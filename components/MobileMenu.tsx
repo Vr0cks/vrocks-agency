@@ -15,6 +15,7 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
   const links = [
     { name: t('manifesto'), href: '#manifesto' },
     { name: t('works'), href: '#works' },
+    { name: t('team'), href: '#team' },
     { name: t('contact'), href: '#direct-contact' },
     { name: t('getQuote'), href: '#concierge', isPrimary: true },
   ];
