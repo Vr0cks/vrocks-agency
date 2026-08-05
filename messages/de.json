@@ -26,7 +26,7 @@
         "title2": "digitales Erbe",
         "title3": "wir bauen.",
         "paragraph1": "Ich bin <strong>Ahmet Yiğit Canlı</strong>. Ich bin 21 Jahre alt und fordere seit 6 Jahren die Mittelmäßigkeit in der digitalen Welt mit meiner Leidenschaft für Software heraus. Für mich sollte jede Zeile Code wie die Zahnräder einer Uhr perfekt funktionieren und so ästhetisch wie ein Gemälde aussehen.",
-        "paragraph2": "Bisher habe ich Fullstack-Lösungen für globale Kunden entwickelt, digitale Authentifizierungssysteme für Luxustaschen im Wert von Millionen gebaut und KI-gestützte Automatisierungen entwickelt. Während ich mein MIS-Studium an der THKU fortsetze, bekleide ich aktiv die Rolle des Head of IT in einem Unternehmen und schaffe Mehrwert für Marken durch meine Freelance-Projekte.",
+        "paragraph2": "Bisher habe ich Fullstack-Lösungen für globale Kunden entwickelt, digitale Authentifizierungssysteme für Luxustaschen im Wert von Millionen gebaut und KI-gestützte Automatisierungen entwickelt. Während ich mein MIS-Studium an der UTAA fortsetze, bekleide ich aktiv die Rolle des Head of IT in einem Unternehmen und schaffe Mehrwert für Marken durch meine Freelance-Projekte.",
         "paragraph3": "Pünktliche Lieferung und unermüdliche Sorgfalt sind mein Markenzeichen. Ich bin hier, um komplexe Probleme mit der 'Less is more'-Philosophie in einfache und effektive Kunstwerke zu verwandeln.",
         "founderName": "Yiğit Canlı.",
         "founderTitle": "Gründer & Head of Design"
@@ -42,10 +42,10 @@
             "category": "TOURISMUS / VIP-TRANSFER",
             "description": "Eine moderne, elegante und buchungsintensive Website für luxuriöse VIP-Transferdienste."
         },
-        "unitedFb": {
-            "title": "United FB Assoc.",
-            "category": "COMMUNITY / FAN-PLATTFORM",
-            "description": "Eine interaktive, moderne Community-Management-Plattform, speziell für Fenerbahçe-Fans entwickelt."
+        "peony": {
+            "title": "Peony Collective",
+            "category": "BOUTIQUE & FASHION / LUXUS DIGITAL ERLEBNIS",
+            "description": "Ein maßgeschneidertes digitales Erlebnis und eine moderne Portfolio-Plattform, die Luxus und Eleganz vereint."
         },
         "karacaFile": {
             "title": "Karaca File Market",
@@ -246,6 +246,11 @@
         "readMore": "WEITERLESEN",
         "author": "AUTOR",
         "date": "DATUM",
+        "peonyArticle": {
+            "title": "Peony Collective: Wo digitale Ästhetik auf Handwerkskunst trifft",
+            "excerpt": "Erfahren Sie, wie wir im Projekt Peony Collective die Grenzen der digitalen Handwerkskunst erweitert haben, indem wir Eleganz, Luxus und Funktionalität vereinen.",
+            "content": "Luxus in der digitalen Welt bedeutet nicht nur eine elegante Optik; es ist ein raffiniertes Gefühl, das bei jeder Interaktion spürbar wird. Bei der Gestaltung von Peony Collective war es unser Ziel, klassische Ästhetik mit der Leistungsfähigkeit moderner Webtechnologien zu verschmelzen.\n\nSorgfalt in jedem Pixel, zeitlose typografische Harmonie und flüssige Übergänge fangen die authentische Identität der Marke ein. Neben einem visuellen Erlebnis haben wir sichergestellt, dass Benutzererfahrung und Performance auf höchstem Niveau bleiben.\n\nBei VR0CKS betrachten wir digitale Handwerkskunst als Leidenschaft. Peony Collective ist ein sichtbarer Ausdruck dieser Leidenschaft und unserer 'Less is More'-Philosophie."
+        },
         "minimalism": {
             "title": "Minimalismus: Digitales Rauschen stoppen",
             "excerpt": "Jedes unnötige Detail ist eine Sekunde, die dem Fokus des Benutzers gestohlen wird. Entdecken Sie die Kraft der 'Less is more'-Philosophie im modernen Webdesign.",

@@ -12,7 +12,7 @@ type Props = {
 };
 
 // Valid slugs
-const VALID_SLUGS = ['minimalism-digital-noise', 'why-nextjs', 'luxury-digital-trust'];
+const VALID_SLUGS = ['peony-collective-digital-aesthetics', 'minimalism-digital-noise', 'why-nextjs', 'luxury-digital-trust'];
 
 export default async function InsightDetailPage({ params }: Props) {
   const { locale, slug } = await params;
@@ -31,6 +31,7 @@ export default async function InsightDetailPage({ params }: Props) {
   const articleKey = slug.split('-')[0]; // 'minimalism', 'why', 'luxury'
   // Wait, 'why-nextjs' -> 'why'. I'll just map them manually.
   const slugToKey: Record<string, string> = {
+    'peony-collective-digital-aesthetics': 'peonyArticle',
     'minimalism-digital-noise': 'minimalism',
     'why-nextjs': 'nextjs',
     'luxury-digital-trust': 'luxury'
@@ -91,6 +92,7 @@ async function InsightTitle({ locale, articleKey }: { locale: string; articleKey
 async function InsightDate({ locale, articleKey }: { locale: string; articleKey: string }) {
   // We'll just use a static date for now or fetch from a manifest
   const dates: Record<string, string> = {
+    'peonyArticle': '2025.06.01',
     'minimalism': '2025.05.01',
     'nextjs': '2025.04.15',
     'luxury': '2025.03.28'

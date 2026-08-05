@@ -20,11 +20,11 @@ export default function Works() {
     },
     {
       id: 2,
-      titleKey: 'unitedFb.title',
-      categoryKey: 'unitedFb.category',
-      descriptionKey: 'unitedFb.description',
-      year: "2024",
-      link: "https://united-fenerbah-e-fans-association.vercel.app",
+      titleKey: 'peony.title',
+      categoryKey: 'peony.category',
+      descriptionKey: 'peony.description',
+      year: "2025",
+      link: "https://www.peony-collective.com",
     },
     {
       id: 3,

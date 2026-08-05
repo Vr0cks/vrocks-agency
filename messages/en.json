@@ -26,7 +26,7 @@
         "title2": "digital legacy",
         "title3": "we build.",
         "paragraph1": "I am <strong>Ahmet Yiğit Canlı</strong>. I am 21 years old and have been challenging mediocrity in the digital world with my passion for software for the last 6 years. For me, every line of code should work perfectly like the gears of a clock and look as aesthetic as a painting.",
-        "paragraph2": "To date, I have produced Fullstack solutions for global clients, built digital authentication systems for luxury bags worth millions, and developed AI-powered automations. While continuing my MIS education at THKU, I actively hold the Head of IT role at a company and add value to brands through my freelance projects.",
+        "paragraph2": "To date, I have produced Fullstack solutions for global clients, built digital authentication systems for luxury bags worth millions, and developed AI-powered automations. While continuing my MIS education at UTAA, I actively hold the Head of IT role at a company and add value to brands through my freelance projects.",
         "paragraph3": "On-time delivery and unwavering care are my signatures. I am here to transform complex problems into simple and effective works of art using the 'Less is more' philosophy.",
         "founderName": "Yiğit Canlı.",
         "founderTitle": "Founder & Head of Design"
@@ -42,10 +42,10 @@
             "category": "TOURISM / VIP TRANSFER",
             "description": "A modern, elegant, and booking-oriented corporate website experience for luxury VIP transfer services."
         },
-        "unitedFb": {
-            "title": "United FB Assoc.",
-            "category": "COMMUNITY / FAN PLATFORM",
-            "description": "An interactive, modern community management platform specially designed for Fenerbahçe fans."
+        "peony": {
+            "title": "Peony Collective",
+            "category": "BOUTIQUE & FASHION / LUXURY DIGITAL EXPERIENCE",
+            "description": "A bespoke digital experience and modern portfolio platform combining luxury and elegance."
         },
         "karacaFile": {
             "title": "Karaca File Market",
@@ -246,6 +246,11 @@
         "readMore": "CONTINUE READING",
         "author": "AUTHOR",
         "date": "DATE",
+        "peonyArticle": {
+            "title": "Peony Collective: Where Digital Aesthetics Meets Craftsmanship",
+            "excerpt": "Explore how we pushed the boundaries of digital craftsmanship in the Peony Collective project, blending elegance, luxury, and functionality.",
+            "content": "Luxury in the digital realm is not merely about sleek visual presentation; it is a refined emotion felt through every interaction. In creating Peony Collective, our objective was to fuse classic aesthetic sensibilities with the capabilities of cutting-edge web technologies.\n\nMeticulous attention to detail in every pixel, timeless typographic harmony, and fluid transitions capture the brand's authentic identity. Beyond offering a visual feast, we ensured that user experience and performance remain uncompromised at the highest standards.\n\nAt VR0CKS, we regard digital craftsmanship as a true passion. Peony Collective stands as a tangible manifestation of this passion and our 'Less is More' philosophy."
+        },
         "minimalism": {
             "title": "Minimalism: Stopping Digital Noise",
             "excerpt": "Every unnecessary detail is a second stolen from the user's focus. Explore the power of 'Less is more' philosophy in modern web design.",

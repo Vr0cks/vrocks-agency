@@ -42,10 +42,10 @@
             "category": "TURİZM / VIP TAŞIMACILIK",
             "description": "Lüks VIP transfer hizmetleri için modern, şık ve rezervasyon odaklı bir kurumsal web sitesi deneyimi."
         },
-        "unitedFb": {
-            "title": "United FB Assoc.",
-            "category": "TOPLULUK / FAN PLATFORMU",
-            "description": "Fenerbahçe taraftarları için özel olarak kurgulanmış, etkileşimli ve modern bir topluluk yönetim platformu."
+        "peony": {
+            "title": "Peony Collective",
+            "category": "BUTİK & MODA / LÜKS DİJİTAL DENEYİM",
+            "description": "Lüks ve estetiği buluşturan, özel dikim dijital deneyim ve modern e-ticaret/portfolyo platformu."
         },
         "karacaFile": {
             "title": "Karaca File Market",
@@ -246,6 +246,11 @@
         "readMore": "OKUMAYA DEVAM ET",
         "author": "YAZAR",
         "date": "TARİH",
+        "peonyArticle": {
+            "title": "Peony Collective: Dijital Estetik ve Zanaatın Buluşması",
+            "excerpt": "Zarafet, lüks ve fonksiyonelliğin harmanlandığı Peony Collective projesinde dijital zanaatkarlığın sınırlarını nasıl zorladığımızı inceleyin.",
+            "content": "Dijital dünyada lüks, sadece şık bir görünüm sunmak değil; kullanıcının dokunduğu her etkileşimde hissedilen rafine bir duygudur. Peony Collective projesini tasarlarken ana amacımız, klasik estetiği modern web teknolojilerinin gücüyle buluşturmaktı.\n\nHer pikselinde gösterilen özen, tipografinin zamansız uyumu ve akıcı animasyonlar, markanın özgün ruhunu dijital ortama aktarıyor. Sadece görsel bir şölen sunmakla kalmayıp, kullanıcı deneyimini ve site performansını en üst seviyede tuttuk.\n\nVR0CKS olarak, dijital zanaatkarlığı bir tutku olarak görüyoruz. Peony Collective, bu tutkunun ve 'Less is More' felsefemizin somut bir yansımasıdır."
+        },
         "minimalism": {
             "title": "Minimalizm: Dijital Gürültüyü Durdurmak",
             "excerpt": "Gereksiz her detay, kullanıcının odağından çalınmış bir saniyedir. 'Less is more' felsefesinin modern web tasarımındaki gücünü keşfedin.",

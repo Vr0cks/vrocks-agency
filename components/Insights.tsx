@@ -12,6 +12,14 @@ export default function Insights() {
   const posts = [
     {
       id: 1,
+      slug: "peony-collective-digital-aesthetics",
+      date: "2025.06.01",
+      readTime: "5 min",
+      titleKey: "peonyArticle.title",
+      excerptKey: "peonyArticle.excerpt",
+    },
+    {
+      id: 2,
       slug: "minimalism-digital-noise",
       date: "2025.05.01",
       readTime: "4 min",
@@ -19,7 +27,7 @@ export default function Insights() {
       excerptKey: "minimalism.excerpt",
     },
     {
-      id: 2,
+      id: 3,
       slug: "why-nextjs",
       date: "2025.04.15",
       readTime: "6 min",
@@ -27,7 +35,7 @@ export default function Insights() {
       excerptKey: "nextjs.excerpt",
     },
     {
-      id: 3,
+      id: 4,
       slug: "luxury-digital-trust",
       date: "2025.03.28",
       readTime: "5 min",
@@ -62,7 +70,7 @@ export default function Insights() {
           <div className="h-px flex-1 bg-charcoal/10 dark:bg-white/10 hidden md:block mb-4 mx-12" />
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-0 border border-charcoal/10 dark:border-white/10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-0 border border-charcoal/10 dark:border-white/10">
           {posts.map((post, index) => (
             <Link
               href={`/insights/${post.slug}`}

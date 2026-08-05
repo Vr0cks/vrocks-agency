@@ -77,11 +77,11 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    title: "United FB Assoc.",
-    category: "TOPLULUK / FAN PLATFORMU",
-    description: "Fenerbahçe taraftarları için özel olarak kurgulanmış, etkileşimli ve modern bir topluluk yönetim platformu.",
-    year: "2024",
-    link: "https://united-fenerbah-e-fans-association.vercel.app",
+    title: "Peony Collective",
+    category: "BUTİK & MODA / LÜKS DİJİTAL DENEYİM",
+    description: "Lüks ve estetiği buluşturan, özel dikim dijital deneyim ve modern e-ticaret/portfolyo platformu.",
+    year: "2025",
+    link: "https://www.peony-collective.com",
   },
   {
     id: 3,
