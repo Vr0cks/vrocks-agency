@@ -268,6 +268,11 @@
     "readMore": "CONTINUE READING",
     "author": "AUTHOR",
     "date": "DATE",
+    "maintenance": {
+      "title": "The Invisible Work of Keeping a Site Alive",
+      "excerpt": "A site succeeds not on the day it ships, but if it is still fast and secure months later. On the maintenance nobody sees.",
+      "content": "Shipping a site is the beginning of the work, not the end. On launch day everything looks flawless: pages load fast, the design sits right, the forms work. The real question is whether the same will be true six months later.\n\nUsually it is not. A website is not a sculpture frozen at the moment it was carved; it is something that lives inside an ecosystem that keeps moving. Your framework patches security holes in its next release, browsers change their rules, search engines revise what they expect. Doing nothing is not standing still — it is falling behind.\n\nThis month we did exactly this work on our own agency site. When critical security advisories landed for the framework we run on, we sat down one morning, upgraded, audited every route, and closed it out at zero vulnerabilities. Nobody noticed. Going unnoticed was the point.\n\nThe same day we did something else: we removed a texture our site was pulling from someone else's server. It had worked fine for years. But if that project had ever gone offline, our texture would have vanished without warning. That something works is not an argument for depending on it.\n\nThis is where craftsmanship begins. A watchmaker's job does not end when the watch is sold; they open it, clean it, oil it. Because a good watch is measured not by how it gleams in the window, but by whether it still keeps time a decade on.\n\nWe see it the same way. A brand's digital presence is worth something not on the day the handover is signed, but when it is still fast, secure and current despite the time that has passed. The invisible work is the work most worth talking about."
+    },
     "peonyArticle": {
       "title": "Peony Collective: Where Digital Aesthetics Meets Craftsmanship",
       "excerpt": "Explore how we pushed the boundaries of digital craftsmanship in the Peony Collective project, blending elegance, luxury, and functionality.",

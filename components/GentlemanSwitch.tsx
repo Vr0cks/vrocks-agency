@@ -3,14 +3,20 @@
 
 import { useTheme } from 'next-themes';
 import { motion, useAnimationControls } from 'framer-motion';
-import { useEffect, useState } from 'react';
+import { useSyncExternalStore } from 'react';
+
+
+const subscribe = () => () => {};
 
 export default function GentlemanSwitch() {
-  const { theme, setTheme, resolvedTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
+  const { setTheme, resolvedTheme } = useTheme();
   const stringControls = useAnimationControls();
 
-  useEffect(() => setMounted(true), []);
+  // The lamp can only be drawn once we know the client's theme, so the server
+  // renders a placeholder. useSyncExternalStore is the hydration-safe way to
+  // say "server: not mounted, client: mounted" — setting that in an effect
+  // instead would trigger a cascading render.
+  const mounted = useSyncExternalStore(subscribe, () => true, () => false);
 
   if (!mounted) return <div className="w-12 h-24" />; // Yer tutucu
 

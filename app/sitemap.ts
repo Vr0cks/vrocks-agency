@@ -6,6 +6,7 @@ import { SITE_URL } from '@/lib/seo';
 const PAGES = ['', '/career', '/faq', '/privacy', '/terms'];
 
 const ARTICLES = [
+    'invisible-maintenance',
     'peony-collective-digital-aesthetics',
     'minimalism-digital-noise',
     'why-nextjs',

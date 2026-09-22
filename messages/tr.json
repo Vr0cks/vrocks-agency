@@ -268,6 +268,11 @@
     "readMore": "OKUMAYA DEVAM ET",
     "author": "YAZAR",
     "date": "TARİH",
+    "maintenance": {
+      "title": "Görünmeyen Bakım: Bir Siteyi Ayakta Tutan İş",
+      "excerpt": "Bir site teslim edildiği gün değil, aylar sonra hâlâ hızlı ve güvenliyse başarılıdır. Kimsenin görmediği bakım işi üzerine.",
+      "content": "Bir siteyi teslim etmek, işin bitişi değil başlangıcıdır. Yayına alınan gün her şey kusursuz görünür: sayfalar hızlı açılır, tasarım yerli yerindedir, formlar çalışır. Asıl soru şudur — aynı site altı ay sonra da böyle mi olacak?\n\nGenellikle olmaz. Çünkü bir web sitesi, kurulduğu anda dondurulmuş bir heykel değil, sürekli değişen bir ekosistemin içinde yaşayan bir organizmadır. Kullandığınız çatının yeni sürümünde güvenlik açıkları kapatılır, tarayıcılar kuralları değiştirir, arama motorları beklentilerini güncelleyir. Hiçbir şey yapmamak, yerinde saymak değil; geriye gitmektir.\n\nBu ay kendi ajans sitemizde tam da bunu yaptık. Kullandığımız çatıda kritik seviyede güvenlik açıkları duyurulduğunda, bir sabah oturup sürümü yükselttik, her sayfayı tek tek denetledik ve sıfır açıkla kapattık. Kimse fark etmedi. Fark edilmemesi zaten amaçtı.\n\nAynı gün başka bir şey daha yaptık: sitemizin dokusunu, bir başkasının sunucusundan çektiğimiz görsel dosyasından kurtardık. Yıllardır sorunsuz çalışıyordu. Ama o proje bir gün kapansaydı, sitemizin dokusu hiçbir uyarı olmadan kaybolacaktı. Çalışıyor olması, bağımlı olmayı haklı çıkarmaz.\n\nZanaatkârlık burada başlar. Bir saat ustasının işi, saati sattığı gün bitmez; onu düzenli açar, temizler, yağlar. Çünkü iyi bir saatin ölçüsü, vitrindeki parlaklığı değil, on yıl sonra hâlâ doğru zamanı göstermesidir.\n\nBiz de öyle bakıyoruz. Bir markanın dijital varlığı, teslim tutanağının imzalandığı gün değil, aradan geçen zamana rağmen hâlâ hızlı, güvenli ve güncel kaldığında değerlidir. Görünmeyen iş, en çok konuşulması gereken iştir."
+    },
     "peonyArticle": {
       "title": "Peony Collective: Dijital Estetik ve Zanaatın Buluşması",
       "excerpt": "Zarafet, lüks ve fonksiyonelliğin harmanlandığı Peony Collective projesinde dijital zanaatkarlığın sınırlarını nasıl zorladığımızı inceleyin.",

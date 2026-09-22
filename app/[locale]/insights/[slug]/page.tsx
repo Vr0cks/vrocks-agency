@@ -13,9 +13,10 @@ type Props = {
 };
 
 // Valid slugs
-const VALID_SLUGS = ['peony-collective-digital-aesthetics', 'minimalism-digital-noise', 'why-nextjs', 'luxury-digital-trust'];
+const VALID_SLUGS = ['invisible-maintenance', 'peony-collective-digital-aesthetics', 'minimalism-digital-noise', 'why-nextjs', 'luxury-digital-trust'];
 
 const SLUG_TO_KEY: Record<string, string> = {
+  'invisible-maintenance': 'maintenance',
   'peony-collective-digital-aesthetics': 'peonyArticle',
   'minimalism-digital-noise': 'minimalism',
   'why-nextjs': 'nextjs',
@@ -23,6 +24,7 @@ const SLUG_TO_KEY: Record<string, string> = {
 };
 
 const ARTICLE_DATES: Record<string, string> = {
+  'maintenance': '2026.09.22',
   'peonyArticle': '2025.06.01',
   'minimalism': '2025.05.01',
   'nextjs': '2025.04.15',

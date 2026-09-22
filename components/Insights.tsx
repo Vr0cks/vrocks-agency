@@ -11,6 +11,14 @@ export default function Insights() {
 
   const posts = [
     {
+      id: 0,
+      slug: "invisible-maintenance",
+      date: "2026.09.22",
+      readTime: "4 min",
+      titleKey: "maintenance.title",
+      excerptKey: "maintenance.excerpt",
+    },
+    {
       id: 1,
       slug: "peony-collective-digital-aesthetics",
       date: "2025.06.01",
