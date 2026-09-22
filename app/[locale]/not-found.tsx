@@ -13,7 +13,7 @@ export default function NotFound() {
 
             {/* Arka plan dokusu */}
             <div className="absolute inset-0 opacity-10 dark:opacity-20 pointer-events-none"
-                style={{ backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')" }}
+                style={{ backgroundImage: "url('/vintage-texture.svg')" }}
             />
 
             <motion.div

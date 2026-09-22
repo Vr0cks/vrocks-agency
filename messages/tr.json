@@ -2,7 +2,29 @@
   "metadata": {
     "title": "VR0CKS | Digital Craftsman",
     "description": "Ankara merkezli, global vizyonlu dijital tasarım ve yazılım stüdyosu. Markanız için özel dikilmiş, vintage estetikle harmanlanmış modern web deneyimleri.",
-    "ogDescription": "Kod yazmıyoruz, dijital miras inşa ediyoruz."
+    "ogDescription": "Kod yazmıyoruz, dijital miras inşa ediyoruz.",
+    "pages": {
+      "career": {
+        "title": "Kariyer",
+        "description": "VR0CKS ekibine katılmak isteyenler için açık pozisyonlar ve başvuru süreci."
+      },
+      "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "description": "Çalışma sürecimiz, teslim süreleri ve fiyatlandırma hakkında merak edilenler."
+      },
+      "privacy": {
+        "title": "Gizlilik Politikası",
+        "description": "VR0CKS olarak kişisel verilerinizi nasıl işlediğimize dair açıklamalar."
+      },
+      "terms": {
+        "title": "Kullanım Koşulları",
+        "description": "vr0cks.com sitesinin kullanımına ilişkin şartlar ve telif bilgileri."
+      },
+      "insights": {
+        "title": "Dijital Düşünceler",
+        "description": "Tasarım, yazılım mimarisi ve dijital zanaat üzerine yazılar."
+      }
+    }
   },
   "navbar": {
     "manifesto": "Manifesto",

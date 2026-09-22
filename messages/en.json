@@ -2,7 +2,29 @@
   "metadata": {
     "title": "VR0CKS | Digital Craftsman",
     "description": "Ankara-based, globally-minded digital design and software studio. Bespoke, vintage-infused modern web experiences tailored for your brand.",
-    "ogDescription": "We don't write code, we build digital legacy."
+    "ogDescription": "We don't write code, we build digital legacy.",
+    "pages": {
+      "career": {
+        "title": "Careers",
+        "description": "Open roles at VR0CKS and how to apply to join the studio."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "description": "How we work, delivery timelines and pricing — answered plainly."
+      },
+      "privacy": {
+        "title": "Privacy Policy",
+        "description": "How VR0CKS handles and protects your personal data."
+      },
+      "terms": {
+        "title": "Terms of Use",
+        "description": "Terms governing the use of vr0cks.com and our content rights."
+      },
+      "insights": {
+        "title": "Digital Insights",
+        "description": "Writing on design, software architecture and digital craftsmanship."
+      }
+    }
   },
   "navbar": {
     "manifesto": "Manifesto",

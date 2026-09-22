@@ -16,7 +16,7 @@ export default function Team() {
       {/* Subtle grain overlay */}
       <div
         className="absolute inset-0 opacity-[0.04] pointer-events-none mix-blend-overlay"
-        style={{ backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')" }}
+        style={{ backgroundImage: "url('/vintage-texture.svg')" }}
       />
 
       {/* Ambient red glow */}
@@ -65,7 +65,7 @@ export default function Team() {
               {/* Grain overlay */}
               <div
                 className="absolute inset-0 opacity-[0.04] pointer-events-none rounded-sm"
-                style={{ backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')" }}
+                style={{ backgroundImage: "url('/vintage-texture.svg')" }}
               />
 
               {/* Animated corner borders */}

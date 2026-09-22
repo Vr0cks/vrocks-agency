@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { routing } from '@/i18n/routing';
+import { buildMetadata } from '@/lib/seo';
 import "../globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { LoadingProvider } from "@/components/LoadingContext";
@@ -28,28 +29,26 @@ export function generateStaticParams() {
     return routing.locales.map((locale) => ({ locale }));
 }
 
-// --- SEO VE META VERİLERİ ---
-export const metadata: Metadata = {
-    title: "VR0CKS | Digital Craftsman",
-    description: "Ankara merkezli, global vizyonlu dijital tasarım ve yazılım stüdyosu. Markanız için özel dikilmiş, vintage estetikle harmanlanmış modern web deneyimleri.",
-    keywords: ["Web Tasarım", "Ankara", "Next.js", "UI/UX", "Digital Agency", "Yazılım Ajansı", "Kurumsal Kimlik", "React"],
-    authors: [{ name: "Yiğit Canlı", url: "https://my-portfolio-ochre-ten-83.vercel.app/tr" }],
-    creator: "VR0CKS Agency",
-    icons: {
-        icon: '/vrc-logo.png',
-    },
-    openGraph: {
-        title: "VR0CKS | Digital Craftsman",
-        description: "Kod yazmıyoruz, dijital miras inşa ediyoruz.",
-        type: "website",
-        locale: "tr_TR",
-    },
-};
-
 type Props = {
     children: React.ReactNode;
     params: Promise<{ locale: string }>;
 };
+
+// --- SEO VE META VERİLERİ ---
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+    const { locale } = await params;
+    const base = await buildMetadata(locale);
+
+    return {
+        ...base,
+        keywords: ["Web Tasarım", "Ankara", "Next.js", "UI/UX", "Digital Agency", "Yazılım Ajansı", "Kurumsal Kimlik", "React"],
+        authors: [{ name: "Yiğit Canlı", url: "https://yigit.vr0cks.com" }],
+        creator: "VR0CKS Agency",
+        icons: {
+            icon: '/vrc-logo.png',
+        },
+    };
+}
 
 export default async function LocaleLayout({
     children,

@@ -65,18 +65,18 @@ export default function Preloader() {
             className="fixed inset-0 z-[99999] flex items-center justify-center bg-[#0f0202]"
           >
             <div className="absolute inset-0 opacity-10 mix-blend-overlay pointer-events-none" 
-                 style={{ backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')" }} 
+                 style={{ backgroundImage: "url('/vintage-texture.svg')" }} 
             />
             
             <div className="flex flex-col items-center z-50">
-              <motion.h1 
+              <motion.div 
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, ease: "easeOut" }}
                 className="font-serif text-5xl md:text-7xl tracking-[0.2em] font-black text-[#F2F0E6]"
               >
                 VR<span className="font-sans font-bold text-[0.9em]">0</span>CKS<span className="text-vintage-red">.</span>
-              </motion.h1>
+              </motion.div>
               
               <div className="w-48 h-[2px] bg-white/10 mt-6 rounded-full overflow-hidden relative">
                 <motion.div 

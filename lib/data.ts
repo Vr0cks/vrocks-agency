@@ -81,7 +81,7 @@ export const projects: Project[] = [
     category: "BUTİK & MODA / LÜKS DİJİTAL DENEYİM",
     description: "Lüks ve estetiği buluşturan, özel dikim dijital deneyim ve modern e-ticaret/portfolyo platformu.",
     year: "2025",
-    link: "https://www.peony-collective.com",
+    link: "https://www.peonycollective.com",
   },
   {
     id: 3,

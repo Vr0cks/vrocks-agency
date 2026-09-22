@@ -50,7 +50,7 @@ export default function Services() {
             {/* Noise Texture */}
             <div
                 className="absolute inset-0 opacity-[0.05] pointer-events-none mix-blend-overlay"
-                style={{ backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')" }}
+                style={{ backgroundImage: "url('/vintage-texture.svg')" }}
             />
 
             <div className="max-w-7xl mx-auto relative z-10">
@@ -100,7 +100,7 @@ export default function Services() {
                                 {/* Noise Overlay */}
                                 <div
                                     className="absolute inset-0 opacity-[0.03] pointer-events-none rounded-lg"
-                                    style={{ backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')" }}
+                                    style={{ backgroundImage: "url('/vintage-texture.svg')" }}
                                 />
 
                                 {/* Animated Corner Lines */}

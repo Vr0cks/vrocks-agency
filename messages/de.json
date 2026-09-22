@@ -2,7 +2,29 @@
   "metadata": {
     "title": "VR0CKS | Digital Craftsman",
     "description": "In Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software. Maßgeschneiderte, mit Vintage-Ästhetik verfeinerte moderne Web-Erlebnisse.",
-    "ogDescription": "Wir schreiben keinen Code, wir bauen digitales Erbe."
+    "ogDescription": "Wir schreiben keinen Code, wir bauen digitales Erbe.",
+    "pages": {
+      "career": {
+        "title": "Karriere",
+        "description": "Offene Stellen bei VR0CKS und wie Sie sich bewerben können."
+      },
+      "faq": {
+        "title": "Häufig gestellte Fragen",
+        "description": "Arbeitsweise, Lieferzeiten und Preise — klar beantwortet."
+      },
+      "privacy": {
+        "title": "Datenschutzrichtlinie",
+        "description": "Wie VR0CKS Ihre personenbezogenen Daten verarbeitet und schützt."
+      },
+      "terms": {
+        "title": "Nutzungsbedingungen",
+        "description": "Bedingungen für die Nutzung von vr0cks.com und Urheberrechte."
+      },
+      "insights": {
+        "title": "Digitale Einblicke",
+        "description": "Texte über Design, Softwarearchitektur und digitales Handwerk."
+      }
+    }
   },
   "navbar": {
     "manifesto": "Manifest",

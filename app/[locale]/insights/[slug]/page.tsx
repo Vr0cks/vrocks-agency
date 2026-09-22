@@ -1,6 +1,7 @@
 // app/[locale]/insights/[slug]/page.tsx
-import { useTranslations } from 'next-intl';
-import { getMessages, setRequestLocale } from 'next-intl/server';
+import type { Metadata } from 'next';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
+import { buildMetadata } from '@/lib/seo';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -14,6 +15,37 @@ type Props = {
 // Valid slugs
 const VALID_SLUGS = ['peony-collective-digital-aesthetics', 'minimalism-digital-noise', 'why-nextjs', 'luxury-digital-trust'];
 
+const SLUG_TO_KEY: Record<string, string> = {
+  'peony-collective-digital-aesthetics': 'peonyArticle',
+  'minimalism-digital-noise': 'minimalism',
+  'why-nextjs': 'nextjs',
+  'luxury-digital-trust': 'luxury'
+};
+
+const ARTICLE_DATES: Record<string, string> = {
+  'peonyArticle': '2025.06.01',
+  'minimalism': '2025.05.01',
+  'nextjs': '2025.04.15',
+  'luxury': '2025.03.28'
+};
+
+export function generateStaticParams() {
+  return VALID_SLUGS.map((slug) => ({ slug }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale, slug } = await params;
+  const key = SLUG_TO_KEY[slug];
+  if (!key) return buildMetadata(locale, 'insights');
+
+  const t = await getTranslations({ locale, namespace: 'insights' });
+  return buildMetadata(locale, 'insights', {
+    title: `${t(`${key}.title`)} | VR0CKS`,
+    description: t(`${key}.excerpt`),
+    path: `/insights/${slug}`
+  });
+}
+
 export default async function InsightDetailPage({ params }: Props) {
   const { locale, slug } = await params;
 
@@ -25,19 +57,7 @@ export default async function InsightDetailPage({ params }: Props) {
   // Enable static rendering
   setRequestLocale(locale);
 
-  // We use useTranslations in a Server Component by calling it here
-  // But since we need dynamic keys based on slug, we'll use the 'insights.articles' namespace
-  // We'll map the slug to a key
-  const articleKey = slug.split('-')[0]; // 'minimalism', 'why', 'luxury'
-  // Wait, 'why-nextjs' -> 'why'. I'll just map them manually.
-  const slugToKey: Record<string, string> = {
-    'peony-collective-digital-aesthetics': 'peonyArticle',
-    'minimalism-digital-noise': 'minimalism',
-    'why-nextjs': 'nextjs',
-    'luxury-digital-trust': 'luxury'
-  };
-  
-  const key = slugToKey[slug];
+  const key = SLUG_TO_KEY[slug];
 
   return (
     <main className="bg-aged-paper dark:bg-[#0f0202] min-h-screen transition-colors duration-700">
@@ -63,7 +83,7 @@ export default async function InsightDetailPage({ params }: Props) {
               </div>
               <div className="flex flex-col gap-1">
                 <span className="text-[9px] uppercase tracking-widest opacity-40"><InsightLabel locale={locale} labelKey="date" /></span>
-                <span className="text-xs font-serif opacity-70"><InsightDate locale={locale} articleKey={key} /></span>
+                <span className="text-xs font-serif opacity-70"><InsightDate articleKey={key} /></span>
               </div>
             </div>
           </header>
@@ -81,23 +101,13 @@ export default async function InsightDetailPage({ params }: Props) {
 }
 
 // Helper components to access translations in Server Component
-// In Next-Intl Server Components, we use useTranslations or await getTranslations
-import { getTranslations } from 'next-intl/server';
-
 async function InsightTitle({ locale, articleKey }: { locale: string; articleKey: string }) {
   const t = await getTranslations({ locale, namespace: 'insights' });
   return t(`${articleKey}.title`);
 }
 
-async function InsightDate({ locale, articleKey }: { locale: string; articleKey: string }) {
-  // We'll just use a static date for now or fetch from a manifest
-  const dates: Record<string, string> = {
-    'peonyArticle': '2025.06.01',
-    'minimalism': '2025.05.01',
-    'nextjs': '2025.04.15',
-    'luxury': '2025.03.28'
-  };
-  return dates[articleKey];
+async function InsightDate({ articleKey }: { articleKey: string }) {
+  return ARTICLE_DATES[articleKey];
 }
 
 async function InsightContent({ locale, articleKey }: { locale: string; articleKey: string }) {

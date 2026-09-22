@@ -28,10 +28,10 @@ export default function Navbar() {
         className="fixed top-0 left-0 right-0 z-50 flex items-start justify-between px-6 pt-6 pb-4 md:px-12 backdrop-blur-md bg-[#F0EAD6]/90 dark:bg-[#0f0202]/90 border-b border-charcoal/10 dark:border-white/10 transition-colors duration-500"
       >
         {/* --- SOL: LOGO --- */}
-        <Link href="/" className="group z-50 mt-1 relative">
-          <h1 className="font-serif text-2xl tracking-wider text-charcoal dark:text-white transition-colors duration-300 group-hover:text-vintage-red">
+        <Link href="/" aria-label="VR0CKS" className="group z-50 mt-1 relative">
+          <span className="block font-serif text-2xl tracking-wider text-charcoal dark:text-white transition-colors duration-300 group-hover:text-vintage-red">
             VR<span className="font-sans font-bold">0</span>CKS<span className="text-vintage-red">.</span>
-          </h1>
+          </span>
         </Link>
 
         {/* --- SAĞ TARAF (LAMBA + MENÜ) --- */}

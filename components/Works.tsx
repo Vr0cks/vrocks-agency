@@ -24,7 +24,7 @@ export default function Works() {
       categoryKey: 'peony.category',
       descriptionKey: 'peony.description',
       year: "2025",
-      link: "https://www.peony-collective.com",
+      link: "https://www.peonycollective.com",
     },
     {
       id: 3,
@@ -43,7 +43,7 @@ export default function Works() {
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-vintage-red/10 rounded-full blur-[120px] pointer-events-none" />
 
       <div className="absolute inset-0 opacity-[0.05] pointer-events-none mix-blend-overlay"
-        style={{ backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')" }}
+        style={{ backgroundImage: "url('/vintage-texture.svg')" }}
       />
 
       <div className="max-w-7xl mx-auto relative z-10">
@@ -65,6 +65,7 @@ export default function Works() {
             <motion.a
               href={project.link}
               target="_blank"
+              rel="noopener noreferrer"
               key={project.id}
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -86,7 +87,7 @@ export default function Works() {
               ">
 
                 <div className="absolute inset-0 opacity-[0.05] pointer-events-none"
-                  style={{ backgroundImage: "url('https://grainy-gradients.vercel.app/noise.svg')" }}
+                  style={{ backgroundImage: "url('/vintage-texture.svg')" }}
                 />
 
                 <div className="absolute top-0 right-0 w-0 h-[1px] bg-vintage-red transition-all duration-500 group-hover:w-full" />
@@ -109,7 +110,7 @@ export default function Works() {
                   {tProjects(project.descriptionKey)}
                 </p>
 
-                <div className="flex items-center gap-2 text-vintage-red text-xs tracking-widest uppercase opacity-0 transform translate-x-[-10px] group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-500">
+                <div className="flex items-center gap-2 text-vintage-red text-xs tracking-widest uppercase opacity-100 md:opacity-0 transform md:translate-x-[-10px] group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-500">
                   <span>{t('viewProject')}</span>
                   <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="M5 12h14M12 5l7 7-7 7" />
