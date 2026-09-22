@@ -2,7 +2,7 @@
   "metadata": {
     "title": "VR0CKS | Digital Craftsman",
     "description": "Ankara merkezli, global vizyonlu dijital tasarım ve yazılım stüdyosu. Markanız için özel dikilmiş, vintage estetikle harmanlanmış modern web deneyimleri.",
-    "ogDescription": "Kod yazmıyoruz, dijital miras inşa ediyoruz.",
+    "ogDescription": "Kod yazmıyorum, dijital miras inşa ediyorum.",
     "pages": {
       "career": {
         "title": "Kariyer",
@@ -39,14 +39,14 @@
     "subtitle": "Dıgıtal Craftsman",
     "title": "Less is",
     "titleAccent": "More.",
-    "description": "Kodun matematiğini, tasarımın zarafetiyle harmanlıyoruz. Markanız için özel dikilmiş, dijital bir smokin.",
+    "description": "Kodun matematiğini, tasarımın zarafetiyle harmanlıyorum. Markanız için özel dikilmiş, dijital bir smokin.",
     "cta": "Projeyi Başlat",
     "discover": "Keşfet"
   },
   "manifesto": {
-    "title1": "Kod yazmıyoruz,",
+    "title1": "Kod yazmıyorum,",
     "title2": "dijital miras",
-    "title3": "inşa ediyoruz.",
+    "title3": "inşa ediyorum.",
     "paragraph1": "Ben <strong>Ahmet Yiğit Canlı</strong>. 21 yaşındayım ve 6 yıldır süregelen yazılım tutkumla dijital dünyada sıradanlığa meydan okuyorum. Benim için her satır kod, bir saatin dişlileri gibi kusursuz çalışmalı ve bir tablo gibi estetik görünmeli.",
     "paragraph2": "Bugüne kadar global müşterilerim için Fullstack çözümler ürettim, milyonluk lüks çantaların dijital doğrulama sistemlerini kurdum ve AI destekli otomasyonlar geliştirdim. Şu an THKÜ'de MIS eğitimime devam ederken, Peony Collective'de Tech Lead ve Karaca File'da Lead Fullstack Developer olarak markalara değer katıyorum.",
     "paragraph3": "Zamanında teslimat ve sarsılmaz bir özen benim imzamdır. Karmaşık sorunları, 'Less is more' felsefesiyle yalın ve etkili sanat eserlerine dönüştürmek için buradayım.",
@@ -54,31 +54,67 @@
     "founderTitle": "Founder & Head of Design"
   },
   "works": {
-    "title": "Beauty's That",
-    "titleAccent": "We Create.",
-    "viewProject": "İncele"
+    "title": "Yaptığım İşler,",
+    "titleAccent": "çıkan sonuçlar.",
+    "viewProject": "İncele",
+    "privateLabel": "Kapalı sistem"
   },
   "projects": {
-    "jnrVip": {
-      "title": "JNR VIP Transfer",
-      "category": "TURİZM / VIP TAŞIMACILIK",
-      "description": "Lüks VIP transfer hizmetleri için modern, şık ve rezervasyon odaklı bir kurumsal web sitesi deneyimi."
-    },
     "peony": {
       "title": "Peony Collective",
-      "category": "BUTİK & MODA / LÜKS DİJİTAL DENEYİM",
-      "description": "Lüks ve estetiği buluşturan, özel dikim dijital deneyim ve modern e-ticaret/portfolyo platformu."
+      "category": "LÜKS PAZARYERİ",
+      "description": "Türkiye'nin ilk orijinallik garantili lüks ikinci el pazaryeri. Teknoloji tarafını baştan sona ben yürütüyorum.",
+      "outcomes": [
+        "Alıcı ve satıcıyı koruyan güvenli ödeme ve emanet akışı",
+        "Orijinallik doğrulaması satın alma sürecinin içine yerleştirildi",
+        "Mobil uygulamalar App Store ve Google Play üzerinde yayında"
+      ]
+    },
+    "peonyOps": {
+      "title": "Peony İç Sistemi",
+      "category": "OPERASYON ALTYAPISI",
+      "description": "Pazaryerinin arkasında çalışan, ürün ve satıcı süreçlerini yöneten özel panel.",
+      "outcomes": [
+        "Ürün doğrulama ve listeleme adımları otomatikleştirildi",
+        "Satıcı, stok ve sipariş takibi tek merkezde toplandı",
+        "Elle yapılan tekrarlı işler operasyondan kaldırıldı"
+      ]
     },
     "karacaFile": {
       "title": "Karaca File Market",
-      "category": "E-TİCARET / TEKSTİL & GÜVENLİK",
-      "description": "Güvenlik fileleri ve endüstriyel tekstil çözümleri sunan, kapsamlı ürün kataloğuna sahip e-ticaret platformu."
+      "category": "B2B E-TİCARET",
+      "description": "Güvenlik fileleri ve endüstriyel tekstil için sıfırdan kurulan e-ticaret platformu.",
+      "outcomes": [
+        "Kapsamlı ürün kataloğu ve sektöre özel sipariş akışı",
+        "Proforma fatura gibi B2B ihtiyaçlarına özel modüller",
+        "Yayına alınmasının ardından ölçülebilir ciro artışı"
+      ]
+    },
+    "karacaErp": {
+      "title": "Karaca Micro ERP",
+      "category": "KURUMSAL SİSTEM",
+      "description": "İşletmenin günlük operasyonunu dijitalleştiren, tamamen özel yazılmış ERP sistemi.",
+      "outcomes": [
+        "Sipariş, stok ve faturalama süreçleri tek panelde birleşti",
+        "Mağaza ile ERP arasında otomatik veri akışı kuruldu",
+        "Tablo ve kağıtla yürüyen takip tamamen sistem üzerine taşındı"
+      ]
+    },
+    "jnrVip": {
+      "title": "JNR VIP Transfer",
+      "category": "TURİZM / VIP TAŞIMACILIK",
+      "description": "Lüks transfer hizmetleri için uçtan uca rezervasyon deneyimi.",
+      "outcomes": [
+        "Rezervasyon süreci baştan sona site üzerinden yürüyor",
+        "Araç ve sürücü takibi için özel yönetim paneli",
+        "Telefonda alınan taleplerin yerini dijital akış aldı"
+      ]
     }
   },
   "concierge": {
     "sectionTitle": "Sizler için de",
     "sectionTitleAccent": "tasarlayalım.",
-    "sectionDescription": "Aşağıdaki asistanı kullanarak hayalinizdeki projeyi tarif edin, detayları konuşmak için size ulaşalım.",
+    "sectionDescription": "Aşağıdaki asistanı kullanarak hayalinizdeki projeyi tarif edin, detayları konuşmak için size ulaşayım.",
     "completionTitle": "Mükemmel Seçim.",
     "completionDescription": "Vizyonunuzu anladım. Sizin için modern teknolojiyi klasik bir estetikle harmanlayarak,",
     "completionHighlight": "zamansız bir deneyim",
@@ -127,7 +163,7 @@
   "directContact": {
     "subtitle": "Klasik Yöntem",
     "title": "Quizlerle aranız yok mu?",
-    "description": "Sorun değil. Bazen en iyi projeler basit bir \"Merhaba\" ile başlar. Fiziksel sınırlara inanmıyoruz. Bize doğrudan e-posta gönderebilir, projenizi dijital masamızda tartışabiliriz.",
+    "description": "Sorun değil. Bazen en iyi projeler basit bir \"Merhaba\" ile başlar. Aşağıdaki formu doldurun, en kısa sürede size dönüş yapayım.",
     "emailLabel": "E-Posta",
     "email": "vr0cksdev@gmail.com",
     "hqLabel": "Merkez (HQ)",
@@ -136,30 +172,30 @@
     "phoneValue": "+90 546 296 18 48"
   },
   "services": {
-    "subtitle": "UZMANLIK ALANLARIMIZ",
+    "subtitle": "UZMANLIK ALANLARIM",
     "title": "Dijital zanaatın",
     "titleAccent": "üç sütunu.",
-    "description": "Sıradan web siteleri yapmıyoruz. Markanızı dijital dünyada bir sanat eseri gibi konumlandırıyoruz.",
+    "description": "Sıradan web siteleri yapmıyorum. Markanızı dijital dünyada bir sanat eseri gibi konumlandırıyorum.",
     "list": {
       "architecture": {
         "title": "Dijital Mimari",
         "badge": "Yazılım",
-        "description": "Performanslı, ölçeklenebilir ve gelecek vadeden yazılım altyapıları. Next.js ile hızın ve güvenliğin zirvesindeyiz."
+        "description": "Performanslı, ölçeklenebilir ve gelecek vadeden yazılım altyapıları. Next.js ile hızın ve güvenliğin zirvesindeyim."
       },
       "design": {
         "title": "Görsel Şiir",
         "badge": "Tasarım",
-        "description": "Minimalist estetikle harmanlanmış, premium UI/UX deneyimleri. Markanızın ruhunu piksellere işliyoruz."
+        "description": "Minimalist estetikle harmanlanmış, premium UI/UX deneyimleri. Markanızın ruhunu piksellere işliyorum."
       },
       "strategy": {
         "title": "Büyüme Mühendisliği",
         "badge": "Strateji",
-        "description": "SEO, veri analitiği ve global vizyon. Sadece görünmüyoruz, doğru kitleye doğru mesajla ulaşıyoruz."
+        "description": "SEO, veri analitiği ve global vizyon. Sadece görünmekle kalmıyor, doğru kitleye doğru mesajla ulaşıyorum."
       }
     }
   },
   "footer": {
-    "brandDescription": "Sıradanlığa meydan okuyan markalar için; Ankara merkezli, global vizyonlu, dijital tasarım ve yazılım stüdyosu.",
+    "brandDescription": "Sıradanlığa meydan okuyan markalar için; Ankara merkezli, global vizyonlu dijital tasarım ve yazılım stüdyosu.",
     "corporate": "Kurumsal",
     "projects": "Projeler",
     "career": "Kariyer",
@@ -169,17 +205,17 @@
     "privacy": "Gizlilik Politikası",
     "terms": "Kullanım Koşulları",
     "followUs": "Takip Et",
-    "listenWithUs": "Bizimle Dinleyin",
-    "agencyPlaylist": "Ajans Seçkisi",
+    "listenWithUs": "Benimle Dinleyin",
+    "agencyPlaylist": "Stüdyo Seçkisi",
     "playlistName": "Whiskey Blues",
     "team": "Ekip",
-    "copyright": "© 2025 VR0CKS AGENCY — TÜM HAKLARI SAKLIDIR.",
+    "copyright": "© 2026 VR0CKS — TÜM HAKLARI SAKLIDIR.",
     "signature": "EST. ANKARA —",
     "signatureAccent": "DIGITAL CRAFTSMANSHIP"
   },
   "cookie": {
     "title": "Dijital Nezaket",
-    "description": "Deneyiminizi kusursuzlaştırmak için çerez (cookie) kullanıyoruz. Tıpkı iyi bir viskinin yanındaki çikolata gibi; küçük ama etkili.",
+    "description": "Deneyiminizi kusursuzlaştırmak için çerez (cookie) kullanıyorum. Tıpkı iyi bir viskinin yanındaki çikolata gibi; küçük ama etkili.",
     "accept": "Kabul Et",
     "reject": "Reddet"
   },
@@ -193,38 +229,38 @@
   },
   "notFound": {
     "title": "Yanlış Sokağa Saptınız.",
-    "description": "Aradığınız sayfa ya taşındı ya da hiç var olmadı. Merak etmeyin, sizi ana merkeze geri götürebiliriz.",
+    "description": "Aradığınız sayfa ya taşındı ya da hiç var olmadı. Merak etmeyin, sizi ana merkeze geri götürebilirim.",
     "backHome": "Ana Sayfaya Dön"
   },
   "career": {
     "icon": "🚧",
-    "title": "Henüz Tuğlaları Diziyoruz.",
-    "description": "Şu an ekibimiz kahve molas... şaka şaka. Bu sayfayı mükemmelleştirmek için kodların arasında kaybolduk. Yakında burada harika fırsatlar olacak.",
-    "signature": "— VR0CKS İNŞAAT EKİBİ"
+    "title": "Henüz Tuğlaları Diziyorum.",
+    "description": "Şu an kahve molası... şaka şaka. Bu sayfayı mükemmelleştirmek için kodların arasında kayboldum. Yakında burada harika fırsatlar olacak.",
+    "signature": "— VR0CKS"
   },
   "faq": {
     "title": "Merak Edilenler.",
-    "subtitle": "Aklınızdaki soruların cevaplarını en yalın haliyle derledik.",
+    "subtitle": "Aklınızdaki soruların cevaplarını en yalın haliyle derledim.",
     "items": [
       {
         "question": "Süreç nasıl işliyor, ne zaman teslim alırım?",
-        "answer": "Karmaşık süreçlerle sizi yormuyoruz. Önce hedeflerinizi konuşuyoruz, ardından size özel tasarımı hazırlayıp onayınıza sunuyoruz. Onaydan sonra kodlamayı tamamlayıp, ortalama 2-4 hafta içinde sitenizi yayına alıyoruz."
+        "answer": "Karmaşık süreçlerle sizi yormuyorum. Önce hedeflerinizi konuşuyoruz, ardından size özel tasarımı hazırlayıp onayınıza sunuyorum. Onaydan sonra kodlamayı tamamlayıp, ortalama 2-4 hafta içinde sitenizi yayına alıyorum."
       },
       {
         "question": "Sitem Google'da üst sıralarda çıkar mı?",
-        "answer": "Kesinlikle. Yaptığımız siteler sadece şık görünmekle kalmaz; Google'ın en sevdiği altyapı ile (SEO uyumlu, çok hızlı ve mobil dostu) kodlanır. Bu da sizi rakiplerinizden 1-0 önde başlatır."
+        "answer": "Kesinlikle. Yaptığım siteler sadece şık görünmekle kalmaz; Google'ın en sevdiği altyapı ile (SEO uyumlu, çok hızlı ve mobil dostu) kodlanır. Bu da sizi rakiplerinizden 1-0 önde başlatır."
       },
       {
         "question": "Siteyi daha sonra kendim güncelleyebilir miyim?",
-        "answer": "Evet. İsterseniz sitenize kullanımı çok kolay bir yönetim paneli entegre ediyoruz. Kod bilmenize gerek kalmadan yazılarınızı, resimlerinizi veya ürünlerinizi bir Instagram gönderisi paylaşır gibi güncelleyebilirsiniz."
+        "answer": "Evet. İsterseniz sitenize kullanımı çok kolay bir yönetim paneli entegre ediyorum. Kod bilmenize gerek kalmadan yazılarınızı, resimlerinizi veya ürünlerinizi bir Instagram gönderisi paylaşır gibi güncelleyebilirsiniz."
       },
       {
         "question": "Fiyatlandırma neye göre belirleniyor?",
-        "answer": "Her işletmenin ihtiyacı farklıdır. Hazır kalıp (şablon) siteler yerine, size özel dikilmiş bir 'dijital takım elbise' yapıyoruz. Projenin kapsamına göre en adil ve şeffaf teklifi sunuyoruz."
+        "answer": "Her işletmenin ihtiyacı farklıdır. Hazır kalıp (şablon) siteler yerine, size özel dikilmiş bir 'dijital takım elbise' yapıyorum. Projenin kapsamına göre en adil ve şeffaf teklifi sunuyorum."
       },
       {
         "question": "Site bittikten sonra destek veriyor musunuz?",
-        "answer": "Bizimle çalışmak bir defalık bir iş değil, uzun vadeli bir ortaklıktır. Site yayına girdikten sonra da teknik destek, bakım ve güncelleme konularında her zaman yanınızdayız."
+        "answer": "Benimle çalışmak bir defalık bir iş değil, uzun vadeli bir ortaklıktır. Site yayına girdikten sonra da teknik destek, bakım ve güncelleme konularında her zaman yanınızdayım."
       }
     ]
   },
@@ -233,7 +269,7 @@
     "lastUpdate": "Son Güncelleme:",
     "lastUpdateDate": "29 Kasım 2025",
     "section1Title": "1. Veri Toplama",
-    "section1Content": "VR0CKS Agency olarak, dijital mahremiyetinize saygı duyuyoruz. Web sitemizi ziyaret ettiğinizde, deneyiminizi iyileştirmek adına sadece temel analitik verileri (çerezler aracılığıyla) topluyoruz.",
+    "section1Content": "VR0CKS olarak dijital mahremiyetinize saygı duyuyorum. Web sitemi ziyaret ettiğinizde, deneyiminizi iyileştirmek adına sadece temel analitik verileri (çerezler aracılığıyla) topluyorum.",
     "section2Title": "2. Kullanım Amacı",
     "section2Content": "Toplanan veriler sadece şu amaçlarla kullanılır:",
     "section2List": [
@@ -245,7 +281,7 @@
     "section3Content": "Verileriniz asla reklam amaçlı üçüncü taraflara satılmaz. Sadece yasal zorunluluk durumlarında ilgili mercilerle paylaşılabilir.",
     "contactNote": "Bu politika hakkında sorularınız varsa,",
     "contactEmail": "vr0cksdev@gmail.com",
-    "contactSuffix": "adresinden bize ulaşabilirsiniz."
+    "contactSuffix": "adresinden bana ulaşabilirsiniz."
   },
   "terms": {
     "title": "Kullanım Koşulları",
@@ -271,27 +307,27 @@
     "maintenance": {
       "title": "Görünmeyen Bakım: Bir Siteyi Ayakta Tutan İş",
       "excerpt": "Bir site teslim edildiği gün değil, aylar sonra hâlâ hızlı ve güvenliyse başarılıdır. Kimsenin görmediği bakım işi üzerine.",
-      "content": "Bir siteyi teslim etmek, işin bitişi değil başlangıcıdır. Yayına alınan gün her şey kusursuz görünür: sayfalar hızlı açılır, tasarım yerli yerindedir, formlar çalışır. Asıl soru şudur — aynı site altı ay sonra da böyle mi olacak?\n\nGenellikle olmaz. Çünkü bir web sitesi, kurulduğu anda dondurulmuş bir heykel değil, sürekli değişen bir ekosistemin içinde yaşayan bir organizmadır. Kullandığınız çatının yeni sürümünde güvenlik açıkları kapatılır, tarayıcılar kuralları değiştirir, arama motorları beklentilerini güncelleyir. Hiçbir şey yapmamak, yerinde saymak değil; geriye gitmektir.\n\nBu ay kendi ajans sitemizde tam da bunu yaptık. Kullandığımız çatıda kritik seviyede güvenlik açıkları duyurulduğunda, bir sabah oturup sürümü yükselttik, her sayfayı tek tek denetledik ve sıfır açıkla kapattık. Kimse fark etmedi. Fark edilmemesi zaten amaçtı.\n\nAynı gün başka bir şey daha yaptık: sitemizin dokusunu, bir başkasının sunucusundan çektiğimiz görsel dosyasından kurtardık. Yıllardır sorunsuz çalışıyordu. Ama o proje bir gün kapansaydı, sitemizin dokusu hiçbir uyarı olmadan kaybolacaktı. Çalışıyor olması, bağımlı olmayı haklı çıkarmaz.\n\nZanaatkârlık burada başlar. Bir saat ustasının işi, saati sattığı gün bitmez; onu düzenli açar, temizler, yağlar. Çünkü iyi bir saatin ölçüsü, vitrindeki parlaklığı değil, on yıl sonra hâlâ doğru zamanı göstermesidir.\n\nBiz de öyle bakıyoruz. Bir markanın dijital varlığı, teslim tutanağının imzalandığı gün değil, aradan geçen zamana rağmen hâlâ hızlı, güvenli ve güncel kaldığında değerlidir. Görünmeyen iş, en çok konuşulması gereken iştir."
+      "content": "Bir siteyi teslim etmek, işin bitişi değil başlangıcıdır. Yayına alınan gün her şey kusursuz görünür: sayfalar hızlı açılır, tasarım yerli yerindedir, formlar çalışır. Asıl soru şudur — aynı site altı ay sonra da böyle mi olacak?\n\nGenellikle olmaz. Çünkü bir web sitesi, kurulduğu anda dondurulmuş bir heykel değil, sürekli değişen bir ekosistemin içinde yaşayan bir organizmadır. Kullandığınız çatının yeni sürümünde güvenlik açıkları kapatılır, tarayıcılar kuralları değiştirir, arama motorları beklentilerini günceller. Hiçbir şey yapmamak, yerinde saymak değil; geriye gitmektir.\n\nBu ay kendi sitemde tam da bunu yaptım. Kullandığım çatıda kritik seviyede güvenlik açıkları duyurulduğunda, bir sabah oturup sürümü yükselttim, her sayfayı tek tek denetledim ve sıfır açıkla kapattım. Kimse fark etmedi. Fark edilmemesi zaten amaçtı.\n\nAynı gün başka bir şey daha yaptım: sitemin dokusunu, bir başkasının sunucusundan çektiğim görsel dosyasından kurtardım. Yıllardır sorunsuz çalışıyordu. Ama o proje bir gün kapansaydı, sitemin dokusu hiçbir uyarı olmadan kaybolacaktı. Çalışıyor olması, bağımlı olmayı haklı çıkarmaz.\n\nZanaatkârlık burada başlar. Bir saat ustasının işi, saati sattığı gün bitmez; onu düzenli açar, temizler, yağlar. Çünkü iyi bir saatin ölçüsü, vitrindeki parlaklığı değil, on yıl sonra hâlâ doğru zamanı göstermesidir.\n\nBen de öyle bakıyorum. Bir markanın dijital varlığı, teslim tutanağının imzalandığı gün değil, aradan geçen zamana rağmen hâlâ hızlı, güvenli ve güncel kaldığında değerlidir. Görünmeyen iş, en çok konuşulması gereken iştir."
     },
     "peonyArticle": {
       "title": "Peony Collective: Dijital Estetik ve Zanaatın Buluşması",
       "excerpt": "Zarafet, lüks ve fonksiyonelliğin harmanlandığı Peony Collective projesinde dijital zanaatkarlığın sınırlarını nasıl zorladığımızı inceleyin.",
-      "content": "Dijital dünyada lüks, sadece şık bir görünüm sunmak değil; kullanıcının dokunduğu her etkileşimde hissedilen rafine bir duygudur. Peony Collective projesini tasarlarken ana amacımız, klasik estetiği modern web teknolojilerinin gücüyle buluşturmaktı.\n\nHer pikselinde gösterilen özen, tipografinin zamansız uyumu ve akıcı animasyonlar, markanın özgün ruhunu dijital ortama aktarıyor. Sadece görsel bir şölen sunmakla kalmayıp, kullanıcı deneyimini ve site performansını en üst seviyede tuttuk.\n\nVR0CKS olarak, dijital zanaatkarlığı bir tutku olarak görüyoruz. Peony Collective, bu tutkunun ve 'Less is More' felsefemizin somut bir yansımasıdır."
+      "content": "Dijital dünyada lüks, sadece şık bir görünüm sunmak değil; kullanıcının dokunduğu her etkileşimde hissedilen rafine bir duygudur. Peony Collective projesini tasarlarken ana amacım, klasik estetiği modern web teknolojilerinin gücüyle buluşturmaktı.\n\nHer pikselinde gösterilen özen, tipografinin zamansız uyumu ve akıcı animasyonlar, markanın özgün ruhunu dijital ortama aktarıyor. Sadece görsel bir şölen sunmakla kalmayıp, kullanıcı deneyimini ve site performansını en üst seviyede tuttuk.\n\nVR0CKS olarak dijital zanaatkarlığı bir tutku olarak görüyorum. Peony Collective, bu tutkunun ve 'Less is More' felsefemizin somut bir yansımasıdır."
     },
     "minimalism": {
       "title": "Minimalizm: Dijital Gürültüyü Durdurmak",
       "excerpt": "Gereksiz her detay, kullanıcının odağından çalınmış bir saniyedir. 'Less is more' felsefesinin modern web tasarımındaki gücünü keşfedin.",
-      "content": "Dijital dünyada 'daha fazla' her zaman 'daha iyi' demek değildir. Aksine, gereksiz her animasyon, her parlak renk ve her karmaşık menü, kullanıcının asıl amacından çalınmış birer hırsızdır.\n\nMinimalizm, sadece boşluk bırakmak değil, en önemli olanı parlatmaktır. VR0CKS olarak projelerimizde 'sessizliğin gücünü' kullanıyoruz. Kullanıcının gözlerini yormayan, zihnini bulandırmayan ve onu gitmek istediği yere en zarif şekilde ulaştıran arayüzler tasarlıyoruz.\n\nBir web sitesi bir sanat eseri olabilir, ancak bu sanatın işlevselliği öldürmesine izin vermiyoruz. Dijital zanaatkarlık, estetikle hızın kusursuz dengesini bulmaktır."
+      "content": "Dijital dünyada 'daha fazla' her zaman 'daha iyi' demek değildir. Aksine, gereksiz her animasyon, her parlak renk ve her karmaşık menü, kullanıcının asıl amacından çalınmış birer hırsızdır.\n\nMinimalizm, sadece boşluk bırakmak değil, en önemli olanı parlatmaktır. VR0CKS olarak projelerimde 'sessizliğin gücünü' kullanıyorum. Kullanıcının gözlerini yormayan, zihnini bulandırmayan ve onu gitmek istediği yere en zarif şekilde ulaştıran arayüzler tasarlıyorum.\n\nBir web sitesi bir sanat eseri olabilir, ancak bu sanatın işlevselliği öldürmesine izin vermiyorum. Dijital zanaatkarlık, estetikle hızın kusursuz dengesini bulmaktır."
     },
     "nextjs": {
       "title": "Neden Next.js? Performansın Ötesi",
-      "excerpt": "Sadece hız değil, SEO ve geliştirici deneyimi. VR0CKS projelerinde neden her zaman en modern altyapıyı tercih ediyoruz?",
-      "content": "Modern web dünyasında saniyeler altın değerindedir. Bir sitenin 1 saniye geç açılması, potansiyel bir müşterinin kapıdan dönmesi demektir. Bu yüzden VR0CKS olarak altyapımızda ödün vermiyoruz.\n\nNext.js, bize sadece hız değil, aynı zamanda arama motorları (SEO) için mükemmel bir görünürlük sağlıyor. Sunucu taraflı render (SSR) ve statik üretim (SSG) teknolojileriyle, siteniz hem bir mobil uygulama kadar akıcı hem de bir kütüphane kadar düzenli hale geliyor.\n\nYazılım, markanızın iskeletidir. Biz bu iskeleti en sağlam ve en modern çelikten inşa ediyoruz."
+      "excerpt": "Sadece hız değil, SEO ve geliştirici deneyimi. VR0CKS projelerinde neden her zaman en modern altyapıyı tercih ediyorum?",
+      "content": "Modern web dünyasında saniyeler altın değerindedir. Bir sitenin 1 saniye geç açılması, potansiyel bir müşterinin kapıdan dönmesi demektir. Bu yüzden VR0CKS olarak altyapımdan ödün vermiyorum.\n\nNext.js bana sadece hız değil, aynı zamanda arama motorları (SEO) için mükemmel bir görünürlük sağlıyor. Sunucu taraflı render (SSR) ve statik üretim (SSG) teknolojileriyle, siteniz hem bir mobil uygulama kadar akıcı hem de bir kütüphane kadar düzenli hale geliyor.\n\nYazılım, markanızın iskeletidir. Ben bu iskeleti en sağlam ve en modern çelikten inşa ediyorum."
     },
     "luxury": {
       "title": "Lüks ve Dijital: Bir Güven İnşası",
       "excerpt": "Milyonluk değerdeki ürünlerin dijital doğrulanması ve lüks segmentte kullanıcı deneyimi tasarımı üzerine derin bir bakış.",
-      "content": "Lüks, sadece yüksek bir fiyat etiketi değildir; bir güven ve kusursuzluk vaadidir. Milyonluk çantaların veya nadir eserlerin dünyasında, dijital deneyim de bu ağırlığı taşımalıdır.\n\nGeçmişte gerçekleştirdiğim milyonluk ürün doğrulama projelerinde gördüm ki, dijital arayüz güven vermediği an tüm prestij sarsılıyor. Lüks markalar için tasarladığımız sistemlerde, mikro-etkileşimlerden güvenlik protokollerine kadar her detayı bu 'sessiz lüks' anlayışıyla kurguluyoruz.\n\nDijital dünyada güven inşa etmek, piksellerin ötesinde bir zanaattır. Biz bu zanaatı lüksün kurallarıyla harmanlıyoruz."
+      "content": "Lüks, sadece yüksek bir fiyat etiketi değildir; bir güven ve kusursuzluk vaadidir. Milyonluk çantaların veya nadir eserlerin dünyasında, dijital deneyim de bu ağırlığı taşımalıdır.\n\nGeçmişte gerçekleştirdiğim milyonluk ürün doğrulama projelerinde gördüm ki, dijital arayüz güven vermediği an tüm prestij sarsılıyor. Lüks markalar için tasarladığım sistemlerde, mikro-etkileşimlerden güvenlik protokollerine kadar her detayı bu 'sessiz lüks' anlayışıyla kurguluyorum.\n\nDijital dünyada güven inşa etmek, piksellerin ötesinde bir zanaattır. Bu zanaatı lüksün kurallarıyla harmanlıyorum."
     }
   },
   "languageSwitcher": {
@@ -308,5 +344,21 @@
     "title2": "DİJİTAL ZANAATKAR",
     "bio": "Sanat ve mühendisliğin kesişim noktasında, markaların dijital mirasını inşa eden baş mimar. Estetikle kodun dansını yaratır.",
     "viewPortfolio": "PORTFOLYOYU İNCELE"
+  },
+  "inquiry": {
+    "nameLabel": "Ad Soyad",
+    "namePlaceholder": "Adınız",
+    "emailLabel": "E-Posta",
+    "emailPlaceholder": "ornek@sirket.com",
+    "messageLabel": "Projeniz",
+    "messagePlaceholder": "Nasıl bir iş yapmak istediğinizi birkaç cümleyle anlatın.",
+    "submit": "Gönder",
+    "sending": "Gönderiliyor...",
+    "successTitle": "Mesajınız Ulaştı",
+    "successBody": "En kısa sürede size dönüş yapacağım. İlginiz için teşekkür ederim.",
+    "errors": {
+      "invalid": "Lütfen alanları kontrol edin.",
+      "failed": "Mesaj gönderilemedi. Doğrudan vr0cksdev@gmail.com adresine yazabilirsiniz."
+    }
   }
 }

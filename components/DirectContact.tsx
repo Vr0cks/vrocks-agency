@@ -3,32 +3,10 @@
 
 import { useTranslations } from 'next-intl';
 import { motion } from 'framer-motion';
+import InquiryForm from '@/components/InquiryForm';
 
 export default function DirectContact() {
   const t = useTranslations('directContact');
-
-  const generateMailLink = () => {
-    const email = "vr0cksdev@gmail.com";
-    const subject = encodeURIComponent("Hello vr0cks! Let's Create Something Amazing 🚀");
-    const body = encodeURIComponent(
-      `Hi vr0cks Team,
-
-I found your agency website and I'm impressed by your work! I'd love to discuss a potential project with you.
-
-Here's a bit about what I'm looking for:
-• Project Type: [Website / Web App / E-commerce / Other]
-• Brief Description: [Tell us about your vision]
-• Timeline: [When do you need this completed?]
-• Budget Range: [Optional]
-
-Looking forward to hearing from you!
-
-Best regards,
-[Your Name]
-[Your Company/Brand]`
-    );
-    return `mailto:${email}?subject=${subject}&body=${body}`;
-  };
 
   return (
     // ZEMİN: Gündüz Krem (#F0EAD6), Gece Siyah (#0f0202)
@@ -44,7 +22,7 @@ Best regards,
           initial={{ opacity: 0, x: -20 }}
           whileInView={{ opacity: 1, x: 0 }}
           viewport={{ once: true }}
-          className="max-w-md"
+          className="max-w-md w-full"
         >
           <h2 className="text-vintage-red text-xs tracking-[0.2em] uppercase font-bold mb-4">
             {t('subtitle')}
@@ -54,9 +32,11 @@ Best regards,
             {t('title')}
           </h3>
           {/* METİN: Gündüz Koyu, Gece Açık */}
-          <p className="text-[#1A1716]/60 dark:text-white/50 text-sm leading-relaxed font-light transition-colors duration-500">
+          <p className="text-[#1A1716]/60 dark:text-white/50 text-sm leading-relaxed font-light transition-colors duration-500 mb-10">
             {t('description')}
           </p>
+
+          <InquiryForm />
         </motion.div>
 
         {/* SAĞ */}
@@ -71,11 +51,11 @@ Best regards,
           </span>
 
           <a
-            href={generateMailLink()}
+            href={`mailto:${t('email')}`}
             className="group relative inline-block"
           >
             {/* MAİL: Gündüz Siyah, Gece Beyaz */}
-            <span className="font-serif text-4xl md:text-6xl text-[#1A1716] dark:text-white group-hover:text-vintage-red transition-colors duration-300">
+            <span className="font-serif text-2xl md:text-3xl text-[#1A1716] dark:text-white group-hover:text-vintage-red transition-colors duration-300">
               {t('email')}
             </span>
             <span className="absolute bottom-0 left-0 w-0 h-[1px] bg-vintage-red transition-all duration-300 group-hover:w-full" />

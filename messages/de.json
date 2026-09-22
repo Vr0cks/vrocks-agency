@@ -2,7 +2,7 @@
   "metadata": {
     "title": "VR0CKS | Digital Craftsman",
     "description": "In Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software. Maßgeschneiderte, mit Vintage-Ästhetik verfeinerte moderne Web-Erlebnisse.",
-    "ogDescription": "Wir schreiben keinen Code, wir bauen digitales Erbe.",
+    "ogDescription": "Ich schreibe keinen Code, ich baue digitales Erbe.",
     "pages": {
       "career": {
         "title": "Karriere",
@@ -39,14 +39,14 @@
     "subtitle": "Digital Craftsman",
     "title": "Less is",
     "titleAccent": "More.",
-    "description": "Wir verbinden die Mathematik des Codes mit der Eleganz des Designs. Ein maßgeschneiderter digitaler Smoking, speziell für Ihre Marke.",
+    "description": "Ich verbinde die Mathematik des Codes mit der Eleganz des Designs. Ein digitaler Smoking, maßgeschneidert für Ihre Marke.",
     "cta": "Projekt Starten",
     "discover": "Entdecken"
   },
   "manifesto": {
-    "title1": "Wir schreiben keinen Code,",
+    "title1": "Ich schreibe keinen Code,",
     "title2": "digitales Erbe",
-    "title3": "wir bauen.",
+    "title3": "ich baue es.",
     "paragraph1": "Ich bin <strong>Ahmet Yiğit Canlı</strong>. Ich bin 21 Jahre alt und fordere seit 6 Jahren die Mittelmäßigkeit in der digitalen Welt mit meiner Leidenschaft für Software heraus. Für mich sollte jede Zeile Code wie die Zahnräder einer Uhr perfekt funktionieren und so ästhetisch wie ein Gemälde aussehen.",
     "paragraph2": "Bisher habe ich Fullstack-Lösungen für globale Kunden entwickelt, digitale Authentifizierungssysteme für Luxustaschen im Wert von Millionen gebaut und KI-gestützte Automatisierungen entwickelt. Während ich mein MIS-Studium an der UTAA fortsetze, bin ich Tech Lead bei Peony Collective und Lead Fullstack Developer bei Karaca File und schaffe Mehrwert für Marken.",
     "paragraph3": "Pünktliche Lieferung und unermüdliche Sorgfalt sind mein Markenzeichen. Ich bin hier, um komplexe Probleme mit der 'Less is more'-Philosophie in einfache und effektive Kunstwerke zu verwandeln.",
@@ -54,31 +54,67 @@
     "founderTitle": "Gründer & Head of Design"
   },
   "works": {
-    "title": "Beauty's That",
-    "titleAccent": "We Create.",
-    "viewProject": "Ansehen"
+    "title": "Die Arbeit,",
+    "titleAccent": "und was daraus wurde.",
+    "viewProject": "Ansehen",
+    "privateLabel": "Internes System"
   },
   "projects": {
-    "jnrVip": {
-      "title": "JNR VIP Transfer",
-      "category": "TOURISMUS / VIP-TRANSFER",
-      "description": "Eine moderne, elegante und buchungsintensive Website für luxuriöse VIP-Transferdienste."
-    },
     "peony": {
       "title": "Peony Collective",
-      "category": "BOUTIQUE & FASHION / LUXUS DIGITAL ERLEBNIS",
-      "description": "Ein maßgeschneidertes digitales Erlebnis und eine moderne Portfolio-Plattform, die Luxus und Eleganz vereint."
+      "category": "LUXUS-MARKTPLATZ",
+      "description": "Der erste Luxus-Secondhand-Marktplatz der Türkei mit Echtheitsgarantie. Ich verantworte die Technik von Anfang bis Ende.",
+      "outcomes": [
+        "Sichere Zahlung mit Treuhand-Abwicklung für beide Seiten",
+        "Echtheitsprüfung direkt in den Kaufprozess integriert",
+        "Mobile Apps im App Store und bei Google Play veröffentlicht"
+      ]
+    },
+    "peonyOps": {
+      "title": "Peony Internes System",
+      "category": "OPERATIVE PLATTFORM",
+      "description": "Das maßgeschneiderte Backoffice hinter dem Marktplatz für Produkt- und Verkäuferprozesse.",
+      "outcomes": [
+        "Prüf- und Einstellschritte in einen automatisierten Ablauf überführt",
+        "Verkäufer, Bestand und Bestellungen an einer Stelle gebündelt",
+        "Wiederkehrende Handarbeit aus dem Tagesgeschäft entfernt"
+      ]
     },
     "karacaFile": {
       "title": "Karaca File Market",
-      "category": "E-COMMERCE / TEXTIL & SICHERHEIT",
-      "description": "Eine E-Commerce-Plattform mit einem umfassenden Produktkatalog für Sicherheitsnetze und industrielle Textillösungen."
+      "category": "B2B-E-COMMERCE",
+      "description": "Eine von Grund auf gebaute B2B-Plattform für Sicherheitsnetze und Industrietextilien.",
+      "outcomes": [
+        "Umfangreicher Katalog mit branchengerechtem Bestellablauf",
+        "Branchenspezifische Module wie Proforma-Rechnungen",
+        "Messbares Umsatzwachstum nach dem Livegang"
+      ]
+    },
+    "karacaErp": {
+      "title": "Karaca Micro ERP",
+      "category": "UNTERNEHMENSSYSTEM",
+      "description": "Ein vollständig maßgeschneidertes ERP, das den Betriebsalltag digitalisiert hat.",
+      "outcomes": [
+        "Bestellungen, Bestand und Rechnungen in einem Panel vereint",
+        "Automatischer Datenfluss zwischen Shop und ERP",
+        "Tabellen und Papier vollständig abgelöst"
+      ]
+    },
+    "jnrVip": {
+      "title": "JNR VIP Transfer",
+      "category": "TOURISMUS / VIP-TRANSPORT",
+      "description": "Ein durchgängiges Buchungserlebnis für Luxus-Transferdienste.",
+      "outcomes": [
+        "Buchungen laufen vollständig über die Website",
+        "Eigenes Dashboard für Flotten- und Fahrerverwaltung",
+        "Digitaler Ablauf statt telefonischer Anfragen"
+      ]
     }
   },
   "concierge": {
     "sectionTitle": "Lassen Sie uns auch",
     "sectionTitleAccent": "für Sie gestalten.",
-    "sectionDescription": "Beschreiben Sie Ihr Traumprojekt mit dem untenstehenden Assistenten, und wir melden uns, um die Details zu besprechen.",
+    "sectionDescription": "Beschreiben Sie Ihr Wunschprojekt mit dem Assistenten unten, und ich melde mich, um die Details zu besprechen.",
     "completionTitle": "Perfekte Wahl.",
     "completionDescription": "Ich verstehe Ihre Vision. Durch die Verbindung von moderner Technologie mit klassischer Ästhetik,",
     "completionHighlight": "ein zeitloses Erlebnis",
@@ -127,7 +163,7 @@
   "directContact": {
     "subtitle": "Klassische Methode",
     "title": "Keine Lust auf Quizze?",
-    "description": "Kein Problem. Manchmal beginnen die besten Projekte mit einem einfachen \"Hallo\". Wir glauben nicht an physische Grenzen. Sie können uns direkt eine E-Mail schicken und Ihr Projekt an unserem digitalen Schreibtisch besprechen.",
+    "description": "Kein Problem. Manchmal beginnen die besten Projekte mit einem einfachen \"Hallo\". Füllen Sie das Formular aus, ich melde mich in Kürze.",
     "emailLabel": "E-Mail",
     "email": "vr0cksdev@gmail.com",
     "hqLabel": "Hauptquartier (HQ)",
@@ -136,25 +172,25 @@
     "phoneValue": "+90 546 296 18 48"
   },
   "services": {
-    "subtitle": "UNSERE EXPERTISE",
+    "subtitle": "MEINE LEISTUNGEN",
     "title": "Die drei Säulen der",
     "titleAccent": "digitalen Kunst.",
-    "description": "Wir bauen keine gewöhnlichen Websites. Wir positionieren Ihre Marke als Meisterwerk in der digitalen Welt.",
+    "description": "Ich baue keine gewöhnlichen Websites. Ich positioniere Ihre Marke in der digitalen Welt wie ein Kunstwerk.",
     "list": {
       "architecture": {
         "title": "Digitale Architektur",
         "badge": "Software",
-        "description": "Performante, skalierbare und zukunftssichere Software-Grundlagen. Mit Next.js sind wir an der Spitze von Geschwindigkeit und Sicherheit."
+        "description": "Performante, skalierbare und zukunftssichere Software-Grundlagen. Mit Next.js arbeite ich an der Spitze von Geschwindigkeit und Sicherheit."
       },
       "design": {
         "title": "Visuelle Poesie",
         "badge": "Design",
-        "description": "Premium UI/UX-Erlebnisse gepaart mit minimalistischer Ästhetik. Wir weben die Seele Ihrer Marke in jedes Pixel."
+        "description": "Premium-UI/UX-Erlebnisse mit minimalistischer Ästhetik. Ich übersetze die Seele Ihrer Marke in Pixel."
       },
       "strategy": {
         "title": "Growth Engineering",
         "badge": "Strategie",
-        "description": "SEO, Datenanalyse und globale Vision. Wir erscheinen nicht nur; wir erreichen die richtige Zielgruppe mit der richtigen Botschaft."
+        "description": "SEO, Datenanalyse und globaler Blick. Ich sorge nicht nur für Sichtbarkeit, sondern erreiche die richtige Zielgruppe mit der richtigen Botschaft."
       }
     }
   },
@@ -169,17 +205,17 @@
     "privacy": "Datenschutz",
     "terms": "Nutzungsbedingungen",
     "followUs": "Folgen Sie Uns",
-    "listenWithUs": "Mit Uns Hören",
-    "agencyPlaylist": "Agentur-Auswahl",
+    "listenWithUs": "Hören Sie mit mir",
+    "agencyPlaylist": "Studio-Auswahl",
     "playlistName": "Whiskey Blues",
     "team": "Team",
-    "copyright": "© 2025 VR0CKS AGENCY — ALLE RECHTE VORBEHALTEN.",
+    "copyright": "© 2026 VR0CKS — ALLE RECHTE VORBEHALTEN.",
     "signature": "EST. ANKARA —",
     "signatureAccent": "DIGITAL CRAFTSMANSHIP"
   },
   "cookie": {
     "title": "Digitale Etikette",
-    "description": "Wir verwenden Cookies, um Ihr Erlebnis zu perfektionieren. Wie eine feine Schokolade zu einem guten Whiskey; klein aber wirkungsvoll.",
+    "description": "Ich verwende Cookies, um Ihr Erlebnis perfekt zu machen. Wie die Schokolade neben einem guten Whisky; klein, aber wirkungsvoll.",
     "accept": "Akzeptieren",
     "reject": "Ablehnen"
   },
@@ -193,18 +229,18 @@
   },
   "notFound": {
     "title": "Falsch Abgebogen.",
-    "description": "Die gesuchte Seite wurde entweder verschoben oder hat nie existiert. Keine Sorge, wir können Sie zurück zur Zentrale bringen.",
+    "description": "Die gesuchte Seite wurde verschoben oder hat nie existiert. Keine Sorge, ich bringe Sie zurück zur Zentrale.",
     "backHome": "Zurück zur Startseite"
   },
   "career": {
     "icon": "🚧",
     "title": "Wir Legen Noch Die Steine.",
     "description": "Unser Team macht Kaffeepause... nur Spaß. Wir haben uns im Code verloren, um diese Seite zu perfektionieren. Tolle Möglichkeiten kommen bald.",
-    "signature": "— VR0CKS BAU-CREW"
+    "signature": "— VR0CKS"
   },
   "faq": {
     "title": "Häufig Gefragt.",
-    "subtitle": "Wir haben die Antworten auf Ihre Fragen in einfachster Form zusammengestellt.",
+    "subtitle": "Ich habe die Antworten auf Ihre Fragen in einfachster Form zusammengestellt.",
     "items": [
       {
         "question": "Wie läuft der Prozess ab, wann bekomme ich die Lieferung?",
@@ -245,7 +281,7 @@
     "section3Content": "Ihre Daten werden niemals zu Werbezwecken an Dritte verkauft. Sie können nur bei gesetzlicher Verpflichtung an zuständige Behörden weitergegeben werden.",
     "contactNote": "Wenn Sie Fragen zu dieser Richtlinie haben,",
     "contactEmail": "vr0cksdev@gmail.com",
-    "contactSuffix": "können Sie uns erreichen unter"
+    "contactSuffix": "können Sie mich unter dieser Adresse erreichen."
   },
   "terms": {
     "title": "Nutzungsbedingungen",
@@ -271,27 +307,27 @@
     "maintenance": {
       "title": "Die unsichtbare Arbeit, eine Website am Leben zu halten",
       "excerpt": "Eine Website gelingt nicht am Tag der Übergabe, sondern wenn sie Monate später noch schnell und sicher ist. Über die Wartung, die niemand sieht.",
-      "content": "Eine Website zu übergeben ist der Anfang der Arbeit, nicht ihr Ende. Am Launch-Tag wirkt alles makellos: Seiten laden schnell, das Design sitzt, die Formulare funktionieren. Die eigentliche Frage ist, ob das in sechs Monaten noch gilt.\n\nMeistens nicht. Eine Website ist keine Skulptur, die im Moment ihrer Entstehung erstarrt; sie lebt in einem Ökosystem, das sich ständig bewegt. Ihr Framework schließt in der nächsten Version Sicherheitslücken, Browser ändern ihre Regeln, Suchmaschinen passen ihre Erwartungen an. Nichts zu tun heißt nicht stillzustehen — es heißt zurückzufallen.\n\nGenau diese Arbeit haben wir diesen Monat an unserer eigenen Agenturseite geleistet. Als für unser Framework kritische Sicherheitshinweise veröffentlicht wurden, haben wir uns an einem Morgen hingesetzt, aktualisiert, jede Route geprüft und mit null Schwachstellen abgeschlossen. Niemand hat es bemerkt. Unbemerkt zu bleiben war der Sinn der Sache.\n\nAm selben Tag kam noch etwas hinzu: Wir haben eine Textur entfernt, die unsere Seite vom Server eines Fremden lud. Jahrelang lief das einwandfrei. Wäre jenes Projekt aber eines Tages offline gegangen, wäre unsere Textur ohne Vorwarnung verschwunden. Dass etwas funktioniert, rechtfertigt keine Abhängigkeit.\n\nHier beginnt Handwerk. Die Arbeit eines Uhrmachers endet nicht mit dem Verkauf der Uhr; er öffnet sie, reinigt sie, ölt sie. Denn eine gute Uhr misst sich nicht an ihrem Glanz im Schaufenster, sondern daran, ob sie ein Jahrzehnt später noch richtig geht.\n\nWir sehen es genauso. Die digitale Präsenz einer Marke ist nicht am Tag der Abnahme etwas wert, sondern dann, wenn sie trotz vergangener Zeit noch schnell, sicher und aktuell ist. Die unsichtbare Arbeit ist die, über die am meisten zu sprechen wäre."
+      "content": "Eine Website zu übergeben ist der Anfang der Arbeit, nicht ihr Ende. Am Launch-Tag wirkt alles makellos: Seiten laden schnell, das Design sitzt, die Formulare funktionieren. Die eigentliche Frage ist, ob das in sechs Monaten noch gilt.\n\nMeistens nicht. Eine Website ist keine Skulptur, die im Moment ihrer Entstehung erstarrt; sie lebt in einem Ökosystem, das sich ständig bewegt. Ihr Framework schließt in der nächsten Version Sicherheitslücken, Browser ändern ihre Regeln, Suchmaschinen passen ihre Erwartungen an. Nichts zu tun heißt nicht stillzustehen — es heißt zurückzufallen.\n\nGenau diese Arbeit habe ich diesen Monat an meiner eigenen Website geleistet. Als für mein Framework kritische Sicherheitshinweise veröffentlicht wurden, habe ich mich an einem Morgen hingesetzt, aktualisiert, jede Route geprüft und mit null Schwachstellen abgeschlossen. Niemand hat es bemerkt. Unbemerkt zu bleiben war der Sinn der Sache.\n\nAm selben Tag kam noch etwas hinzu: Ich habe eine Textur entfernt, die meine Seite vom Server eines Fremden lud. Jahrelang lief das einwandfrei. Wäre jenes Projekt aber eines Tages offline gegangen, wäre meine Textur ohne Vorwarnung verschwunden. Dass etwas funktioniert, rechtfertigt keine Abhängigkeit.\n\nHier beginnt Handwerk. Die Arbeit eines Uhrmachers endet nicht mit dem Verkauf der Uhr; er öffnet sie, reinigt sie, ölt sie. Denn eine gute Uhr misst sich nicht an ihrem Glanz im Schaufenster, sondern daran, ob sie ein Jahrzehnt später noch richtig geht.\n\nIch sehe es genauso. Die digitale Präsenz einer Marke ist nicht am Tag der Abnahme etwas wert, sondern dann, wenn sie trotz vergangener Zeit noch schnell, sicher und aktuell ist. Die unsichtbare Arbeit ist die, über die am meisten zu sprechen wäre."
     },
     "peonyArticle": {
       "title": "Peony Collective: Wo digitale Ästhetik auf Handwerkskunst trifft",
-      "excerpt": "Erfahren Sie, wie wir im Projekt Peony Collective die Grenzen der digitalen Handwerkskunst erweitert haben, indem wir Eleganz, Luxus und Funktionalität vereinen.",
-      "content": "Luxus in der digitalen Welt bedeutet nicht nur eine elegante Optik; es ist ein raffiniertes Gefühl, das bei jeder Interaktion spürbar wird. Bei der Gestaltung von Peony Collective war es unser Ziel, klassische Ästhetik mit der Leistungsfähigkeit moderner Webtechnologien zu verschmelzen.\n\nSorgfalt in jedem Pixel, zeitlose typografische Harmonie und flüssige Übergänge fangen die authentische Identität der Marke ein. Neben einem visuellen Erlebnis haben wir sichergestellt, dass Benutzererfahrung und Performance auf höchstem Niveau bleiben.\n\nBei VR0CKS betrachten wir digitale Handwerkskunst als Leidenschaft. Peony Collective ist ein sichtbarer Ausdruck dieser Leidenschaft und unserer 'Less is More'-Philosophie."
+      "excerpt": "Erfahren Sie, wie ich im Projekt Peony Collective die Grenzen der digitalen Handwerkskunst erweitert habe, indem ich Eleganz, Luxus und Funktionalität vereine.",
+      "content": "Luxus in der digitalen Welt bedeutet nicht nur eine elegante Optik; es ist ein raffiniertes Gefühl, das bei jeder Interaktion spürbar wird. Bei der Gestaltung von Peony Collective war es mein Ziel, klassische Ästhetik mit der Leistungsfähigkeit moderner Webtechnologien zu verschmelzen.\n\nSorgfalt in jedem Pixel, zeitlose typografische Harmonie und flüssige Übergänge fangen die authentische Identität der Marke ein. Neben einem visuellen Erlebnis habe ich sichergestellt, dass Benutzererfahrung und Performance auf höchstem Niveau bleiben.\n\nBei VR0CKS betrachte ich digitale Handwerkskunst als Leidenschaft. Peony Collective ist ein sichtbarer Ausdruck dieser Leidenschaft und unserer 'Less is More'-Philosophie."
     },
     "minimalism": {
       "title": "Minimalismus: Digitales Rauschen stoppen",
       "excerpt": "Jedes unnötige Detail ist eine Sekunde, die dem Fokus des Benutzers gestohlen wird. Entdecken Sie die Kraft der 'Less is more'-Philosophie im modernen Webdesign.",
-      "content": "In der digitalen Welt bedeutet 'mehr' nicht immer 'besser'. Im Gegenteil, jede unnötige Animation, jede grelle Farbe und jedes komplexe Menü ist ein Dieb, der dem Hauptzweck des Benutzers gestohlen wurde.\n\nMinimalismus geht es nicht nur darum, Platz zu lassen, sondern darum, das Wichtigste zum Strahlen zu bringen. Als VR0CKS nutzen wir in unseren Projekten die 'Kraft der Stille'. Wir entwerfen Schnittstellen, die die Augen des Benutzers nicht ermüden, seinen Geist nicht trüben und ihn auf eleganteste Weise dorthin bringen, wo er hin möchte.\n\nEine Website kann ein Kunstwerk sein, aber wir lassen nicht zu, dass diese Kunst die Funktionalität beeinträchtigt. Digitale Handwerkskunst bedeutet, die perfekte Balance zwischen Ästhetik und Geschwindigkeit zu finden."
+      "content": "In der digitalen Welt bedeutet 'mehr' nicht immer 'besser'. Im Gegenteil, jede unnötige Animation, jede grelle Farbe und jedes komplexe Menü ist ein Dieb, der dem Hauptzweck des Benutzers gestohlen wurde.\n\nMinimalismus geht es nicht nur darum, Platz zu lassen, sondern darum, das Wichtigste zum Strahlen zu bringen. Als VR0CKS nutze ich in meinen Projekten die 'Kraft der Stille'. Ich entwerfe Schnittstellen, die die Augen des Benutzers nicht ermüden, seinen Geist nicht trüben und ihn auf eleganteste Weise dorthin bringen, wo er hin möchte.\n\nEine Website kann ein Kunstwerk sein, aber ich lasse nicht zu, dass diese Kunst die Funktionalität beeinträchtigt. Digitale Handwerkskunst bedeutet, die perfekte Balance zwischen Ästhetik und Geschwindigkeit zu finden."
     },
     "nextjs": {
       "title": "Warum Next.js? Jenseits der Performance",
-      "excerpt": "Nicht nur Geschwindigkeit, sondern SEO und Entwicklererfahrung. Warum wählen wir bei VR0CKS-Projekten immer die modernste Infrastruktur?",
-      "content": "In der modernen Webwelt sind Sekunden Gold wert. Eine Verzögerung von 1 Sekunde beim Öffnen einer Website bedeutet, dass ein potenzieller Kunde an der Tür umkehrt. Deshalb gehen wir bei VR0CKS keine Kompromisse bei unserer Infrastruktur ein.\n\nNext.js bietet uns nicht nur Geschwindigkeit, sondern auch eine hervorragende Sichtbarkeit für Suchmaschinen (SEO). Mit Server-Side-Rendering (SSR) und Static-Site-Generation (SSG)-Technologien wird Ihre Website so flüssig wie eine mobile Anwendung und so organisiert wie eine Bibliothek.\n\nSoftware ist das Skelett Ihrer Marke. Wir bauen dieses Skelett aus dem stärksten und modernsten Stahl."
+      "excerpt": "Nicht nur Geschwindigkeit, sondern SEO und Entwicklererfahrung. Warum wähle ich bei VR0CKS-Projekten immer die modernste Infrastruktur?",
+      "content": "In der modernen Webwelt sind Sekunden Gold wert. Eine Verzögerung von 1 Sekunde beim Öffnen einer Website bedeutet, dass ein potenzieller Kunde an der Tür umkehrt. Deshalb gehe ich bei VR0CKS keine Kompromisse bei meiner Infrastruktur ein.\n\nNext.js bietet mir nicht nur Geschwindigkeit, sondern auch eine hervorragende Sichtbarkeit für Suchmaschinen (SEO). Mit Server-Side-Rendering (SSR) und Static-Site-Generation (SSG)-Technologien wird Ihre Website so flüssig wie eine mobile Anwendung und so organisiert wie eine Bibliothek.\n\nSoftware ist das Skelett Ihrer Marke. Ich baue dieses Skelett aus dem stärksten und modernsten Stahl."
     },
     "luxury": {
       "title": "Luxus und Digital: Vertrauen aufbauen",
       "excerpt": "Ein tiefer Einblick in die digitale Authentifizierung von Millionen-Dollar-Produkten und das User Experience Design im Luxussegment.",
-      "content": "Luxus ist nicht nur ein hoher Preis; es ist ein Versprechen von Vertrauen und Perfektion. In der Welt der Millionen-Dollar-Taschen oder seltener Kunstwerke muss auch das digitale Erlebnis dieses Gewicht tragen.\n\nIn den Projekten zur Authentifizierung von Millionen-Dollar-Produkten, die ich in der Vergangenheit durchgeführt habe, habe ich gesehen, dass in dem Moment, in dem die digitale Schnittstelle kein Vertrauen erweckt, das gesamte Prestige erschüttert wird. In den Systemen, die wir für Luxusmarken entwerfen, bauen wir jedes Detail von Mikro-Interaktionen bis hin zu Sicherheitsprotokollen mit diesem Verständnis von 'stillem Luxus' auf.\n\nVertrauen in der digitalen Welt aufzubauen ist ein Handwerk jenseits von Pixeln. Wir verbinden dieses Handwerk mit den Regeln des Luxus."
+      "content": "Luxus ist nicht nur ein hoher Preis; es ist ein Versprechen von Vertrauen und Perfektion. In der Welt der Millionen-Dollar-Taschen oder seltener Kunstwerke muss auch das digitale Erlebnis dieses Gewicht tragen.\n\nIn den Projekten zur Authentifizierung von Millionen-Dollar-Produkten, die ich in der Vergangenheit durchgeführt habe, habe ich gesehen, dass in dem Moment, in dem die digitale Schnittstelle kein Vertrauen erweckt, das gesamte Prestige erschüttert wird. In den Systemen, die ich für Luxusmarken entwerfe, baue ich jedes Detail von Mikro-Interaktionen bis hin zu Sicherheitsprotokollen mit diesem Verständnis von 'stillem Luxus' auf.\n\nVertrauen in der digitalen Welt aufzubauen ist ein Handwerk jenseits von Pixeln. Ich verbinde dieses Handwerk mit den Regeln des Luxus."
     }
   },
   "languageSwitcher": {
@@ -308,5 +344,21 @@
     "title2": "DIGITALER HANDWERKER",
     "bio": "Der Chefarchitekt, der das digitale Erbe von Marken an der Schnittstelle von Kunst und Ingenieurwesen aufbaut. Erschafft den perfekten Tanz aus Code und Ästhetik.",
     "viewPortfolio": "PORTFOLIO ANSEHEN"
+  },
+  "inquiry": {
+    "nameLabel": "Name",
+    "namePlaceholder": "Ihr Name",
+    "emailLabel": "E-Mail",
+    "emailPlaceholder": "sie@firma.com",
+    "messageLabel": "Ihr Projekt",
+    "messagePlaceholder": "Beschreiben Sie in wenigen Sätzen, was Sie umsetzen möchten.",
+    "submit": "Senden",
+    "sending": "Wird gesendet...",
+    "successTitle": "Nachricht erhalten",
+    "successBody": "Ich melde mich in Kürze bei Ihnen. Vielen Dank für Ihre Anfrage.",
+    "errors": {
+      "invalid": "Bitte überprüfen Sie die Felder.",
+      "failed": "Die Nachricht konnte nicht gesendet werden. Sie können direkt an vr0cksdev@gmail.com schreiben."
+    }
   }
 }

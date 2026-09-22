@@ -4,6 +4,7 @@
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { motion, AnimatePresence } from 'framer-motion';
+import InquiryForm from '@/components/InquiryForm';
 
 export default function Concierge() {
   const t = useTranslations('concierge');
@@ -70,26 +71,13 @@ export default function Concierge() {
     }, 300);
   };
 
-  const generateMailLink = () => {
-    const subject = encodeURIComponent("Hey vr0cks! I'd Love to Work With You 🚀");
-    const body = encodeURIComponent(
-      `Hi vr0cks Team,
-
-I just completed the Concierge quiz on your website and I'm excited to explore working together!
-
-Here are my preferences:
-• Project Type: ${answers[1] || 'Not specified'}
-• Preferred Style: ${answers[2] || 'Not specified'}
-• Key Priority: ${answers[3] || 'Not specified'}
-• Timeline: ${answers[4] || 'Not specified'}
-
-I'd love to discuss my project in more detail. Looking forward to hearing from you!
-
-Best regards,
-[Your Name]`
-    );
-    return `mailto:vr0cksdev@gmail.com?subject=${subject}&body=${body}`;
-  };
+  // Quiz answers travel with the inquiry so the brief arrives already filled in.
+  const brief = [
+    `Project: ${answers[1] || '-'}`,
+    `Style: ${answers[2] || '-'}`,
+    `Priority: ${answers[3] || '-'}`,
+    `Timeline: ${answers[4] || '-'}`,
+  ].join(' | ');
 
   const transitionVariants = {
     initial: { opacity: 0, x: 50 },
@@ -175,22 +163,9 @@ Best regards,
               {t('completionEnd')}
             </p>
 
-            <motion.a
-              href={generateMailLink()}
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-              className="
-                inline-block mt-6 px-10 py-4 
-                border border-bourbon dark:border-vintage-red 
-                text-bourbon dark:text-vintage-red 
-                font-semibold tracking-widest uppercase text-xs rounded-sm 
-                transition-colors duration-300
-                hover:bg-bourbon hover:text-white
-                dark:hover:bg-vintage-red dark:hover:text-[#121212]
-              "
-            >
-              {t('startProject')}
-            </motion.a>
+            <div className="mt-10 max-w-md mx-auto text-left">
+              <InquiryForm brief={brief} />
+            </div>
 
             <div className="pt-8">
               <p className="text-xs text-[#1A1716]/40 dark:text-ash/30 font-mono uppercase tracking-[0.2em]">

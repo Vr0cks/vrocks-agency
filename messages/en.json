@@ -2,7 +2,7 @@
   "metadata": {
     "title": "VR0CKS | Digital Craftsman",
     "description": "Ankara-based, globally-minded digital design and software studio. Bespoke, vintage-infused modern web experiences tailored for your brand.",
-    "ogDescription": "We don't write code, we build digital legacy.",
+    "ogDescription": "I don't write code, I build digital legacy.",
     "pages": {
       "career": {
         "title": "Careers",
@@ -39,14 +39,14 @@
     "subtitle": "Digital Craftsman",
     "title": "Less is",
     "titleAccent": "More.",
-    "description": "We blend the mathematics of code with the elegance of design. A bespoke digital tuxedo, tailored for your brand.",
+    "description": "I blend the mathematics of code with the elegance of design. A digital tuxedo, tailored for your brand.",
     "cta": "Start Project",
     "discover": "Discover"
   },
   "manifesto": {
-    "title1": "We don't write code,",
+    "title1": "I don't write code,",
     "title2": "digital legacy",
-    "title3": "we build.",
+    "title3": "I build it.",
     "paragraph1": "I am <strong>Ahmet Yiğit Canlı</strong>. I am 21 years old and have been challenging mediocrity in the digital world with my passion for software for the last 6 years. For me, every line of code should work perfectly like the gears of a clock and look as aesthetic as a painting.",
     "paragraph2": "To date, I have produced Fullstack solutions for global clients, built digital authentication systems for luxury bags worth millions, and developed AI-powered automations. While continuing my MIS education at UTAA, I serve as Tech Lead at Peony Collective and Lead Fullstack Developer at Karaca File, adding value to brands.",
     "paragraph3": "On-time delivery and unwavering care are my signatures. I am here to transform complex problems into simple and effective works of art using the 'Less is more' philosophy.",
@@ -54,31 +54,67 @@
     "founderTitle": "Founder & Head of Design"
   },
   "works": {
-    "title": "Beauty's That",
-    "titleAccent": "We Create.",
-    "viewProject": "View"
+    "title": "The work,",
+    "titleAccent": "and what came of it.",
+    "viewProject": "View",
+    "privateLabel": "Private system"
   },
   "projects": {
-    "jnrVip": {
-      "title": "JNR VIP Transfer",
-      "category": "TOURISM / VIP TRANSFER",
-      "description": "A modern, elegant, and booking-oriented corporate website experience for luxury VIP transfer services."
-    },
     "peony": {
       "title": "Peony Collective",
-      "category": "BOUTIQUE & FASHION / LUXURY DIGITAL EXPERIENCE",
-      "description": "A bespoke digital experience and modern portfolio platform combining luxury and elegance."
+      "category": "LUXURY MARKETPLACE",
+      "description": "Turkey's first authenticated luxury resale marketplace. I lead the technology side end to end.",
+      "outcomes": [
+        "Secure payment and escrow flow protecting both sides of a sale",
+        "Authenticity verification built into the buying journey",
+        "Mobile apps live on the App Store and Google Play"
+      ]
+    },
+    "peonyOps": {
+      "title": "Peony Internal System",
+      "category": "OPERATIONS PLATFORM",
+      "description": "The custom back office behind the marketplace, running product and seller operations.",
+      "outcomes": [
+        "Verification and listing steps turned into an automated flow",
+        "Seller, stock and order tracking brought into one place",
+        "Repetitive manual work removed from daily operations"
+      ]
     },
     "karacaFile": {
       "title": "Karaca File Market",
-      "category": "E-COMMERCE / TEXTILE & SAFETY",
-      "description": "An e-commerce platform with a comprehensive product catalog offering safety nets and industrial textile solutions."
+      "category": "B2B E-COMMERCE",
+      "description": "A B2B commerce platform built from scratch for security netting and industrial textiles.",
+      "outcomes": [
+        "Full product catalogue with an order flow shaped around the trade",
+        "Industry-specific modules such as proforma invoicing",
+        "Measurable revenue growth after going live"
+      ]
+    },
+    "karacaErp": {
+      "title": "Karaca Micro ERP",
+      "category": "ENTERPRISE SYSTEM",
+      "description": "A fully bespoke ERP that digitised the day-to-day running of the business.",
+      "outcomes": [
+        "Orders, stock and invoicing unified in a single panel",
+        "Automatic data flow between the storefront and the ERP",
+        "Spreadsheet-and-paper tracking replaced end to end"
+      ]
+    },
+    "jnrVip": {
+      "title": "JNR VIP Transfer",
+      "category": "TOURISM / VIP TRANSPORT",
+      "description": "An end-to-end booking experience for luxury transfer services.",
+      "outcomes": [
+        "Bookings handled entirely through the site",
+        "Dedicated dashboard for fleet and driver tracking",
+        "A digital flow in place of requests taken over the phone"
+      ]
     }
   },
   "concierge": {
     "sectionTitle": "Let us design",
     "sectionTitleAccent": "for you too.",
-    "sectionDescription": "Describe your dream project using the assistant below, and we'll reach out to discuss the details.",
+    "sectionDescription": "Describe the project you have in mind using the assistant below, and I will reach out to discuss the details.",
     "completionTitle": "Perfect Choice.",
     "completionDescription": "I understand your vision. By blending modern technology with classic aesthetics,",
     "completionHighlight": "a timeless experience",
@@ -127,7 +163,7 @@
   "directContact": {
     "subtitle": "Classic Method",
     "title": "Not a fan of quizzes?",
-    "description": "No problem. Sometimes the best projects start with a simple \"Hello\". We don't believe in physical boundaries. You can email us directly and discuss your project at our digital desk.",
+    "description": "No problem. Sometimes the best projects start with a simple \"Hello\". Fill in the form below and I will get back to you shortly.",
     "emailLabel": "E-Mail",
     "email": "vr0cksdev@gmail.com",
     "hqLabel": "Headquarters (HQ)",
@@ -136,25 +172,25 @@
     "phoneValue": "+90 546 296 18 48"
   },
   "services": {
-    "subtitle": "OUR EXPERTISE",
+    "subtitle": "WHAT I DO",
     "title": "The three pillars of",
     "titleAccent": "digital craft.",
-    "description": "We don't build ordinary websites. We position your brand as a masterpiece in the digital world.",
+    "description": "I don't build ordinary websites. I position your brand in the digital world like a work of art.",
     "list": {
       "architecture": {
         "title": "Digital Architecture",
         "badge": "Software",
-        "description": "Performant, scalable, and future-proof software foundations. We are at the peak of speed and security with Next.js."
+        "description": "Performant, scalable and future-proof software foundations. With Next.js I work at the peak of speed and security."
       },
       "design": {
         "title": "Visual Poetry",
         "badge": "Design",
-        "description": "Premium UI/UX experiences blended with minimalist aesthetics. We weave the soul of your brand into every pixel."
+        "description": "Premium UI/UX experiences infused with minimalist aesthetics. I translate your brand's soul into pixels."
       },
       "strategy": {
         "title": "Growth Engineering",
         "badge": "Strategy",
-        "description": "SEO, data analytics, and global vision. We don't just appear; we reach the right audience with the right message."
+        "description": "SEO, data analytics and a global outlook. I do more than get you seen: I reach the right audience with the right message."
       }
     }
   },
@@ -169,17 +205,17 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Use",
     "followUs": "Follow Us",
-    "listenWithUs": "Listen With Us",
-    "agencyPlaylist": "Agency Selection",
+    "listenWithUs": "Listen With Me",
+    "agencyPlaylist": "Studio Selection",
     "playlistName": "Whiskey Blues",
     "team": "Team",
-    "copyright": "© 2025 VR0CKS AGENCY — ALL RIGHTS RESERVED.",
+    "copyright": "© 2026 VR0CKS — ALL RIGHTS RESERVED.",
     "signature": "EST. ANKARA —",
     "signatureAccent": "DIGITAL CRAFTSMANSHIP"
   },
   "cookie": {
     "title": "Digital Etiquette",
-    "description": "We use cookies to perfect your experience. Like a fine chocolate alongside a good whiskey; small but effective.",
+    "description": "I use cookies to make your experience flawless. Like the chocolate beside a good whisky; small but effective.",
     "accept": "Accept",
     "reject": "Reject"
   },
@@ -193,18 +229,18 @@
   },
   "notFound": {
     "title": "Wrong Turn.",
-    "description": "The page you're looking for has either moved or never existed. Don't worry, we can take you back to headquarters.",
+    "description": "The page you're looking for either moved or never existed. Don't worry, I can take you back to headquarters.",
     "backHome": "Back to Home"
   },
   "career": {
     "icon": "🚧",
     "title": "Still Laying The Bricks.",
     "description": "Our team is on a coffee break... just kidding. We got lost in the code trying to perfect this page. Great opportunities coming soon.",
-    "signature": "— VR0CKS CONSTRUCTION CREW"
+    "signature": "— VR0CKS"
   },
   "faq": {
     "title": "Frequently Asked.",
-    "subtitle": "We've compiled the answers to your questions in the simplest form.",
+    "subtitle": "I've compiled the answers to your questions in the simplest form.",
     "items": [
       {
         "question": "How does the process work, when do I get delivery?",
@@ -245,7 +281,7 @@
     "section3Content": "Your data is never sold to third parties for advertising purposes. It may only be shared with relevant authorities in cases of legal obligation.",
     "contactNote": "If you have questions about this policy,",
     "contactEmail": "vr0cksdev@gmail.com",
-    "contactSuffix": "you can reach us at"
+    "contactSuffix": "you can reach me at this address."
   },
   "terms": {
     "title": "Terms of Use",
@@ -271,27 +307,27 @@
     "maintenance": {
       "title": "The Invisible Work of Keeping a Site Alive",
       "excerpt": "A site succeeds not on the day it ships, but if it is still fast and secure months later. On the maintenance nobody sees.",
-      "content": "Shipping a site is the beginning of the work, not the end. On launch day everything looks flawless: pages load fast, the design sits right, the forms work. The real question is whether the same will be true six months later.\n\nUsually it is not. A website is not a sculpture frozen at the moment it was carved; it is something that lives inside an ecosystem that keeps moving. Your framework patches security holes in its next release, browsers change their rules, search engines revise what they expect. Doing nothing is not standing still — it is falling behind.\n\nThis month we did exactly this work on our own agency site. When critical security advisories landed for the framework we run on, we sat down one morning, upgraded, audited every route, and closed it out at zero vulnerabilities. Nobody noticed. Going unnoticed was the point.\n\nThe same day we did something else: we removed a texture our site was pulling from someone else's server. It had worked fine for years. But if that project had ever gone offline, our texture would have vanished without warning. That something works is not an argument for depending on it.\n\nThis is where craftsmanship begins. A watchmaker's job does not end when the watch is sold; they open it, clean it, oil it. Because a good watch is measured not by how it gleams in the window, but by whether it still keeps time a decade on.\n\nWe see it the same way. A brand's digital presence is worth something not on the day the handover is signed, but when it is still fast, secure and current despite the time that has passed. The invisible work is the work most worth talking about."
+      "content": "Shipping a site is the beginning of the work, not the end. On launch day everything looks flawless: pages load fast, the design sits right, the forms work. The real question is whether the same will be true six months later.\n\nUsually it is not. A website is not a sculpture frozen at the moment it was carved; it is something that lives inside an ecosystem that keeps moving. Your framework patches security holes in its next release, browsers change their rules, search engines revise what they expect. Doing nothing is not standing still — it is falling behind.\n\nThis month I did exactly this work on my own site. When critical security advisories landed for the framework I run on, I sat down one morning, upgraded, audited every route, and closed it out at zero vulnerabilities. Nobody noticed. Going unnoticed was the point.\n\nThe same day I did something else: I removed a texture my site was pulling from someone else's server. It had worked fine for years. But if that project had ever gone offline, my texture would have vanished without warning. That something works is not an argument for depending on it.\n\nThis is where craftsmanship begins. A watchmaker's job does not end when the watch is sold; they open it, clean it, oil it. Because a good watch is measured not by how it gleams in the window, but by whether it still keeps time a decade on.\n\nI see it the same way. A brand's digital presence is worth something not on the day the handover is signed, but when it is still fast, secure and current despite the time that has passed. The invisible work is the work most worth talking about."
     },
     "peonyArticle": {
       "title": "Peony Collective: Where Digital Aesthetics Meets Craftsmanship",
-      "excerpt": "Explore how we pushed the boundaries of digital craftsmanship in the Peony Collective project, blending elegance, luxury, and functionality.",
-      "content": "Luxury in the digital realm is not merely about sleek visual presentation; it is a refined emotion felt through every interaction. In creating Peony Collective, our objective was to fuse classic aesthetic sensibilities with the capabilities of cutting-edge web technologies.\n\nMeticulous attention to detail in every pixel, timeless typographic harmony, and fluid transitions capture the brand's authentic identity. Beyond offering a visual feast, we ensured that user experience and performance remain uncompromised at the highest standards.\n\nAt VR0CKS, we regard digital craftsmanship as a true passion. Peony Collective stands as a tangible manifestation of this passion and our 'Less is More' philosophy."
+      "excerpt": "Explore how I pushed the boundaries of digital craftsmanship in the Peony Collective project, blending elegance, luxury, and functionality.",
+      "content": "Luxury in the digital realm is not merely about sleek visual presentation; it is a refined emotion felt through every interaction. In creating Peony Collective, my objective was to fuse classic aesthetic sensibilities with the capabilities of cutting-edge web technologies.\n\nMeticulous attention to detail in every pixel, timeless typographic harmony, and fluid transitions capture the brand's authentic identity. Beyond offering a visual feast, I made sure user experience and performance remain uncompromised at the highest standards.\n\nAt VR0CKS, I regard digital craftsmanship as a true passion. Peony Collective stands as a tangible manifestation of this passion and my 'Less is More' philosophy."
     },
     "minimalism": {
       "title": "Minimalism: Stopping Digital Noise",
       "excerpt": "Every unnecessary detail is a second stolen from the user's focus. Explore the power of 'Less is more' philosophy in modern web design.",
-      "content": "In the digital world, 'more' does not always mean 'better'. On the contrary, every unnecessary animation, every bright color, and every complex menu is a thief stolen from the user's main purpose.\n\nMinimalism is not just about leaving space, it is about making what is most important shine. As VR0CKS, we use the 'power of silence' in our projects. We design interfaces that do not tire the user's eyes, do not cloud their mind, and reach them where they want to go in the most elegant way.\n\nA website can be a work of art, but we do not allow this art to kill functionality. Digital craftsmanship is about finding the perfect balance between aesthetics and speed."
+      "content": "In the digital world, 'more' does not always mean 'better'. On the contrary, every unnecessary animation, every bright color, and every complex menu is a thief stolen from the user's main purpose.\n\nMinimalism is not just about leaving space, it is about making what is most important shine. As VR0CKS, I use the 'power of silence' in my projects. I design interfaces that do not tire the user's eyes, do not cloud their mind, and reach them where they want to go in the most elegant way.\n\nA website can be a work of art, but I do not allow this art to kill functionality. Digital craftsmanship is about finding the perfect balance between aesthetics and speed."
     },
     "nextjs": {
       "title": "Why Next.js? Beyond Performance",
-      "excerpt": "Not just speed, but SEO and developer experience. Why do we always choose the most modern infrastructure in VR0CKS projects?",
-      "content": "In the modern web world, seconds are worth gold. A 1-second delay in opening a site means a potential customer turning away at the door. That's why we don't compromise on our infrastructure at VR0CKS.\n\nNext.js provides us not only with speed, but also with excellent visibility for search engines (SEO). With server-side rendering (SSR) and static site generation (SSG) technologies, your site becomes as fluid as a mobile application and as organized as a library.\n\nSoftware is the skeleton of your brand. We build this skeleton from the strongest and most modern steel."
+      "excerpt": "Not just speed, but SEO and developer experience. Why do I always choose the most modern infrastructure in VR0CKS projects?",
+      "content": "In the modern web world, seconds are worth gold. A 1-second delay in opening a site means a potential customer turning away at the door. That's why I don't compromise on my infrastructure at VR0CKS.\n\nNext.js provides me not only with speed, but also with excellent visibility for search engines (SEO). With server-side rendering (SSR) and static site generation (SSG) technologies, your site becomes as fluid as a mobile application and as organized as a library.\n\nSoftware is the skeleton of your brand. I build this skeleton from the strongest and most modern steel."
     },
     "luxury": {
       "title": "Luxury and Digital: Building Trust",
       "excerpt": "A deep look into the digital authentication of million-dollar products and user experience design in the luxury segment.",
-      "content": "Luxury is not just a high price tag; it is a promise of trust and perfection. In the world of million-dollar bags or rare works of art, the digital experience must also carry this weight.\n\nIn the million-dollar product authentication projects I've carried out in the past, I've seen that the moment the digital interface doesn't give confidence, all prestige is shaken. In the systems we design for luxury brands, we build every detail from micro-interactions to security protocols with this 'silent luxury' understanding.\n\nBuilding trust in the digital world is a craft beyond pixels. We blend this craft with the rules of luxury."
+      "content": "Luxury is not just a high price tag; it is a promise of trust and perfection. In the world of million-dollar bags or rare works of art, the digital experience must also carry this weight.\n\nIn the million-dollar product authentication projects I've carried out in the past, I've seen that the moment the digital interface doesn't give confidence, all prestige is shaken. In the systems I design for luxury brands, I build every detail from micro-interactions to security protocols with this 'silent luxury' understanding.\n\nBuilding trust in the digital world is a craft beyond pixels. I blend this craft with the rules of luxury."
     }
   },
   "languageSwitcher": {
@@ -308,5 +344,21 @@
     "title2": "DIGITAL CRAFTSMAN",
     "bio": "The chief architect building the digital legacy of brands at the intersection of art and engineering. Creating the perfect dance of code and aesthetics.",
     "viewPortfolio": "VIEW PORTFOLIO"
+  },
+  "inquiry": {
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@company.com",
+    "messageLabel": "Your project",
+    "messagePlaceholder": "Tell me in a few sentences what you want to build.",
+    "submit": "Send",
+    "sending": "Sending...",
+    "successTitle": "Message Received",
+    "successBody": "I'll get back to you shortly. Thank you for reaching out.",
+    "errors": {
+      "invalid": "Please check the fields.",
+      "failed": "The message could not be sent. You can write to vr0cksdev@gmail.com directly."
+    }
   }
 }
