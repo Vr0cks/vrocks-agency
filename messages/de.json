@@ -1,285 +1,285 @@
 {
-    "metadata": {
-        "title": "VR0CKS | Digital Craftsman",
-        "description": "In Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software. Maßgeschneiderte, mit Vintage-Ästhetik verfeinerte moderne Web-Erlebnisse.",
-        "ogDescription": "Wir schreiben keinen Code, wir bauen digitales Erbe."
+  "metadata": {
+    "title": "VR0CKS | Digital Craftsman",
+    "description": "In Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software. Maßgeschneiderte, mit Vintage-Ästhetik verfeinerte moderne Web-Erlebnisse.",
+    "ogDescription": "Wir schreiben keinen Code, wir bauen digitales Erbe."
+  },
+  "navbar": {
+    "manifesto": "Manifest",
+    "works": "Werke",
+    "contact": "KONTAKT",
+    "getQuote": "ANGEBOT",
+    "menu": "Menü",
+    "close": "Schließen",
+    "team": "TEAM"
+  },
+  "hero": {
+    "subtitle": "Digital Craftsman",
+    "title": "Less is",
+    "titleAccent": "More.",
+    "description": "Wir verbinden die Mathematik des Codes mit der Eleganz des Designs. Ein maßgeschneiderter digitaler Smoking, speziell für Ihre Marke.",
+    "cta": "Projekt Starten",
+    "discover": "Entdecken"
+  },
+  "manifesto": {
+    "title1": "Wir schreiben keinen Code,",
+    "title2": "digitales Erbe",
+    "title3": "wir bauen.",
+    "paragraph1": "Ich bin <strong>Ahmet Yiğit Canlı</strong>. Ich bin 21 Jahre alt und fordere seit 6 Jahren die Mittelmäßigkeit in der digitalen Welt mit meiner Leidenschaft für Software heraus. Für mich sollte jede Zeile Code wie die Zahnräder einer Uhr perfekt funktionieren und so ästhetisch wie ein Gemälde aussehen.",
+    "paragraph2": "Bisher habe ich Fullstack-Lösungen für globale Kunden entwickelt, digitale Authentifizierungssysteme für Luxustaschen im Wert von Millionen gebaut und KI-gestützte Automatisierungen entwickelt. Während ich mein MIS-Studium an der UTAA fortsetze, bin ich Tech Lead bei Peony Collective und Lead Fullstack Developer bei Karaca File und schaffe Mehrwert für Marken.",
+    "paragraph3": "Pünktliche Lieferung und unermüdliche Sorgfalt sind mein Markenzeichen. Ich bin hier, um komplexe Probleme mit der 'Less is more'-Philosophie in einfache und effektive Kunstwerke zu verwandeln.",
+    "founderName": "Yiğit Canlı.",
+    "founderTitle": "Gründer & Head of Design"
+  },
+  "works": {
+    "title": "Beauty's That",
+    "titleAccent": "We Create.",
+    "viewProject": "Ansehen"
+  },
+  "projects": {
+    "jnrVip": {
+      "title": "JNR VIP Transfer",
+      "category": "TOURISMUS / VIP-TRANSFER",
+      "description": "Eine moderne, elegante und buchungsintensive Website für luxuriöse VIP-Transferdienste."
     },
-    "navbar": {
-        "manifesto": "Manifest",
-        "works": "Werke",
-        "contact": "KONTAKT",
-        "getQuote": "ANGEBOT",
-        "menu": "Menü",
-        "close": "Schließen",
-        "team": "TEAM"
+    "peony": {
+      "title": "Peony Collective",
+      "category": "BOUTIQUE & FASHION / LUXUS DIGITAL ERLEBNIS",
+      "description": "Ein maßgeschneidertes digitales Erlebnis und eine moderne Portfolio-Plattform, die Luxus und Eleganz vereint."
     },
-    "hero": {
-        "subtitle": "Digital Craftsman",
-        "title": "Less is",
-        "titleAccent": "More.",
-        "description": "Wir verbinden die Mathematik des Codes mit der Eleganz des Designs. Ein maßgeschneiderter digitaler Smoking, speziell für Ihre Marke.",
-        "cta": "Projekt Starten",
-        "discover": "Entdecken"
-    },
-    "manifesto": {
-        "title1": "Wir schreiben keinen Code,",
-        "title2": "digitales Erbe",
-        "title3": "wir bauen.",
-        "paragraph1": "Ich bin <strong>Ahmet Yiğit Canlı</strong>. Ich bin 21 Jahre alt und fordere seit 6 Jahren die Mittelmäßigkeit in der digitalen Welt mit meiner Leidenschaft für Software heraus. Für mich sollte jede Zeile Code wie die Zahnräder einer Uhr perfekt funktionieren und so ästhetisch wie ein Gemälde aussehen.",
-        "paragraph2": "Bisher habe ich Fullstack-Lösungen für globale Kunden entwickelt, digitale Authentifizierungssysteme für Luxustaschen im Wert von Millionen gebaut und KI-gestützte Automatisierungen entwickelt. Während ich mein MIS-Studium an der UTAA fortsetze, bekleide ich aktiv die Rolle des Head of IT in einem Unternehmen und schaffe Mehrwert für Marken durch meine Freelance-Projekte.",
-        "paragraph3": "Pünktliche Lieferung und unermüdliche Sorgfalt sind mein Markenzeichen. Ich bin hier, um komplexe Probleme mit der 'Less is more'-Philosophie in einfache und effektive Kunstwerke zu verwandeln.",
-        "founderName": "Yiğit Canlı.",
-        "founderTitle": "Gründer & Head of Design"
-    },
-    "works": {
-        "title": "Beauty's That",
-        "titleAccent": "We Create.",
-        "viewProject": "Ansehen"
-    },
-    "projects": {
-        "jnrVip": {
-            "title": "JNR VIP Transfer",
-            "category": "TOURISMUS / VIP-TRANSFER",
-            "description": "Eine moderne, elegante und buchungsintensive Website für luxuriöse VIP-Transferdienste."
-        },
-        "peony": {
-            "title": "Peony Collective",
-            "category": "BOUTIQUE & FASHION / LUXUS DIGITAL ERLEBNIS",
-            "description": "Ein maßgeschneidertes digitales Erlebnis und eine moderne Portfolio-Plattform, die Luxus und Eleganz vereint."
-        },
-        "karacaFile": {
-            "title": "Karaca File Market",
-            "category": "E-COMMERCE / TEXTIL & SICHERHEIT",
-            "description": "Eine E-Commerce-Plattform mit einem umfassenden Produktkatalog für Sicherheitsnetze und industrielle Textillösungen."
-        }
-    },
-    "concierge": {
-        "sectionTitle": "Lassen Sie uns auch",
-        "sectionTitleAccent": "für Sie gestalten.",
-        "sectionDescription": "Beschreiben Sie Ihr Traumprojekt mit dem untenstehenden Assistenten, und wir melden uns, um die Details zu besprechen.",
-        "completionTitle": "Perfekte Wahl.",
-        "completionDescription": "Ich verstehe Ihre Vision. Durch die Verbindung von moderner Technologie mit klassischer Ästhetik,",
-        "completionHighlight": "ein zeitloses Erlebnis",
-        "completionEnd": "kann ich für Sie gestalten.",
-        "startProject": "Projekt Starten",
-        "agencyFooter": "VR0CKS AGENCY — ANKARA"
-    },
-    "questions": {
-        "q1": {
-            "question": "Was ist der Hauptzweck Ihrer digitalen Präsenz?",
-            "options": {
-                "branding": "Prestige & Markenbekanntheit",
-                "ecommerce": "Produktverkauf (E-Commerce)",
-                "portfolio": "Portfolio-Präsentation",
-                "corporate": "Corporate Identity"
-            }
-        },
-        "q2": {
-            "question": "Wenn Ihre Marke ein physischer Ort wäre, welcher wäre es?",
-            "options": {
-                "modern": "Ein Modernes Plaza",
-                "cozy": "Ein Boutique-Café",
-                "artistic": "Eine Kunstgalerie",
-                "luxury": "Eine Luxushotel-Lobby"
-            }
-        },
-        "q3": {
-            "question": "Was sollte das unverzichtbare 'Signatur'-Feature Ihrer Website sein?",
-            "options": {
-                "conversion": "Schnelle Buchung/Verkauf",
-                "visual": "Visuelles Fest/Galerie",
-                "content": "Blog & Content-Flow",
-                "interactive": "Interaktives Erlebnis"
-            }
-        },
-        "q4": {
-            "question": "Wann sollten wir auf dieses Projekt anstoßen?",
-            "options": {
-                "asap": "Sofort (MVP)",
-                "month": "Innerhalb von 1 Monat",
-                "perfect": "Keine Eile (Perfektionist)",
-                "flexible": "Sie bestimmen das Datum"
-            }
-        }
-    },
-    "directContact": {
-        "subtitle": "Klassische Methode",
-        "title": "Keine Lust auf Quizze?",
-        "description": "Kein Problem. Manchmal beginnen die besten Projekte mit einem einfachen \"Hallo\". Wir glauben nicht an physische Grenzen. Sie können uns direkt eine E-Mail schicken und Ihr Projekt an unserem digitalen Schreibtisch besprechen.",
-        "emailLabel": "E-Mail",
-        "email": "vr0cksdev@gmail.com",
-        "hqLabel": "Hauptquartier (HQ)",
-        "hqValue": "Ankara, TR (Remote)",
-        "phoneLabel": "Telefon",
-        "phoneValue": "+90 546 296 18 48"
-    },
-    "services": {
-        "subtitle": "UNSERE EXPERTISE",
-        "title": "Die drei Säulen der",
-        "titleAccent": "digitalen Kunst.",
-        "description": "Wir bauen keine gewöhnlichen Websites. Wir positionieren Ihre Marke als Meisterwerk in der digitalen Welt.",
-        "list": {
-            "architecture": {
-                "title": "Digitale Architektur",
-                "badge": "Software",
-                "description": "Performante, skalierbare und zukunftssichere Software-Grundlagen. Mit Next.js sind wir an der Spitze von Geschwindigkeit und Sicherheit."
-            },
-            "design": {
-                "title": "Visuelle Poesie",
-                "badge": "Design",
-                "description": "Premium UI/UX-Erlebnisse gepaart mit minimalistischer Ästhetik. Wir weben die Seele Ihrer Marke in jedes Pixel."
-            },
-            "strategy": {
-                "title": "Growth Engineering",
-                "badge": "Strategie",
-                "description": "SEO, Datenanalyse und globale Vision. Wir erscheinen nicht nur; wir erreichen die richtige Zielgruppe mit der richtigen Botschaft."
-            }
-        }
-    },
-    "footer": {
-        "brandDescription": "Für Marken, die Mittelmäßigkeit herausfordern; in Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software.",
-        "corporate": "Unternehmen",
-        "projects": "Projekte",
-        "career": "Karriere",
-        "contact": "Kontakt",
-        "legal": "Rechtliches",
-        "faq": "FAQ",
-        "privacy": "Datenschutz",
-        "terms": "Nutzungsbedingungen",
-        "followUs": "Folgen Sie Uns",
-        "listenWithUs": "Mit Uns Hören",
-        "agencyPlaylist": "Agentur-Auswahl",
-        "playlistName": "Whiskey Blues",
-        "team": "Team",
-        "copyright": "© 2025 VR0CKS AGENCY — ALLE RECHTE VORBEHALTEN.",
-        "signature": "EST. ANKARA —",
-        "signatureAccent": "DIGITAL CRAFTSMANSHIP"
-    },
-    "cookie": {
-        "title": "Digitale Etikette",
-        "description": "Wir verwenden Cookies, um Ihr Erlebnis zu perfektionieren. Wie eine feine Schokolade zu einem guten Whiskey; klein aber wirkungsvoll.",
-        "accept": "Akzeptieren",
-        "reject": "Ablehnen"
-    },
-    "mobileMenu": {
-        "close": "Schließen",
-        "manifesto": "Manifest",
-        "works": "Arbeiten",
-        "team": "Team",
-        "contact": "Kontakt",
-        "getQuote": "Angebot"
-    },
-    "notFound": {
-        "title": "Falsch Abgebogen.",
-        "description": "Die gesuchte Seite wurde entweder verschoben oder hat nie existiert. Keine Sorge, wir können Sie zurück zur Zentrale bringen.",
-        "backHome": "Zurück zur Startseite"
-    },
-    "career": {
-        "icon": "🚧",
-        "title": "Wir Legen Noch Die Steine.",
-        "description": "Unser Team macht Kaffeepause... nur Spaß. Wir haben uns im Code verloren, um diese Seite zu perfektionieren. Tolle Möglichkeiten kommen bald.",
-        "signature": "— VR0CKS BAU-CREW"
-    },
-    "faq": {
-        "title": "Häufig Gefragt.",
-        "subtitle": "Wir haben die Antworten auf Ihre Fragen in einfachster Form zusammengestellt.",
-        "items": [
-            {
-                "question": "Wie läuft der Prozess ab, wann bekomme ich die Lieferung?",
-                "answer": "Wir ermüden Sie nicht mit komplizierten Prozessen. Zuerst besprechen wir Ihre Ziele, dann bereiten wir ein individuelles Design für Ihre Genehmigung vor. Nach der Genehmigung schließen wir die Programmierung ab und starten Ihre Website innerhalb von durchschnittlich 2-4 Wochen."
-            },
-            {
-                "question": "Wird meine Website bei Google weit oben ranken?",
-                "answer": "Absolut. Unsere Websites sehen nicht nur stilvoll aus; sie sind mit Googles bevorzugter Infrastruktur codiert (SEO-freundlich, ultraschnell und mobilfreundlich). Das bringt Sie 1-0 vor Ihre Konkurrenten."
-            },
-            {
-                "question": "Kann ich die Website später selbst aktualisieren?",
-                "answer": "Ja. Wenn Sie möchten, integrieren wir ein sehr einfach zu bedienendes Verwaltungspanel in Ihre Website. Sie können Ihre Texte, Bilder oder Produkte aktualisieren, wie einen Instagram-Post teilen, ohne Programmierkenntnisse."
-            },
-            {
-                "question": "Wie wird die Preisgestaltung bestimmt?",
-                "answer": "Jedes Unternehmen hat unterschiedliche Bedürfnisse. Statt Template-Websites erstellen wir einen 'digitalen Anzug', der nur für Sie maßgeschneidert ist. Wir bieten das fairste und transparenteste Angebot basierend auf dem Projektumfang."
-            },
-            {
-                "question": "Bieten Sie Support nach der Fertigstellung der Website an?",
-                "answer": "Mit uns zu arbeiten ist kein einmaliger Job, es ist eine langfristige Partnerschaft. Wir sind auch nach dem Start der Website immer an Ihrer Seite für technischen Support, Wartung und Updates."
-            }
-        ]
-    },
-    "privacy": {
-        "title": "Datenschutzrichtlinie",
-        "lastUpdate": "Zuletzt Aktualisiert:",
-        "lastUpdateDate": "29. November 2025",
-        "section1Title": "1. Datenerfassung",
-        "section1Content": "Als VR0CKS Agency respektieren wir Ihre digitale Privatsphäre. Wenn Sie unsere Website besuchen, erfassen wir nur grundlegende analytische Daten (durch Cookies), um Ihr Erlebnis zu verbessern.",
-        "section2Title": "2. Verwendungszweck",
-        "section2Content": "Erfasste Daten werden nur für folgende Zwecke verwendet:",
-        "section2List": [
-            "Zur Analyse der Website-Performance.",
-            "Um Ihnen ein besseres Benutzererlebnis zu bieten.",
-            "Um über Kontaktformulare zu antworten."
-        ],
-        "section3Title": "3. Dritte Parteien",
-        "section3Content": "Ihre Daten werden niemals zu Werbezwecken an Dritte verkauft. Sie können nur bei gesetzlicher Verpflichtung an zuständige Behörden weitergegeben werden.",
-        "contactNote": "Wenn Sie Fragen zu dieser Richtlinie haben,",
-        "contactEmail": "vr0cksdev@gmail.com",
-        "contactSuffix": "können Sie uns erreichen unter"
-    },
-    "terms": {
-        "title": "Nutzungsbedingungen",
-        "effectiveDate": "Gültigkeitsdatum:",
-        "effectiveDateValue": "29. November 2025",
-        "section1Title": "1. Einführung",
-        "section1Content": "Durch die Nutzung dieser Website (vr0cks.com) akzeptieren Sie die folgenden Bedingungen. Bitte lesen Sie sorgfältig, bevor Sie unsere Dienste nutzen.",
-        "section2Title": "2. Geistiges Eigentum",
-        "section2Content": "Alle Designs, Code-Strukturen, Texte und Bilder auf der Website gehören VR0CKS Agency. Unbefugtes Kopieren, Vervielfältigen oder kommerzielle Nutzung ist verboten.",
-        "section3Title": "3. Leistungsumfang",
-        "section3Content": "Die von uns angebotenen Web-Design- und Entwicklungsdienstleistungen werden durch projektbasierte Verträge bestimmt. Die hier enthaltenen Informationen dienen allgemeinen Informationszwecken.",
-        "legalNote": "Für rechtliche Fragen",
-        "legalEmail": "legal@vr0cks.com",
-        "legalSuffix": "können Sie uns kontaktieren."
-    },
-    "insights": {
-        "title": "Digitale",
-        "titleAccent": "Einblicke.",
-        "subtitle": "BLOG & VISION",
-        "readMore": "WEITERLESEN",
-        "author": "AUTOR",
-        "date": "DATUM",
-        "peonyArticle": {
-            "title": "Peony Collective: Wo digitale Ästhetik auf Handwerkskunst trifft",
-            "excerpt": "Erfahren Sie, wie wir im Projekt Peony Collective die Grenzen der digitalen Handwerkskunst erweitert haben, indem wir Eleganz, Luxus und Funktionalität vereinen.",
-            "content": "Luxus in der digitalen Welt bedeutet nicht nur eine elegante Optik; es ist ein raffiniertes Gefühl, das bei jeder Interaktion spürbar wird. Bei der Gestaltung von Peony Collective war es unser Ziel, klassische Ästhetik mit der Leistungsfähigkeit moderner Webtechnologien zu verschmelzen.\n\nSorgfalt in jedem Pixel, zeitlose typografische Harmonie und flüssige Übergänge fangen die authentische Identität der Marke ein. Neben einem visuellen Erlebnis haben wir sichergestellt, dass Benutzererfahrung und Performance auf höchstem Niveau bleiben.\n\nBei VR0CKS betrachten wir digitale Handwerkskunst als Leidenschaft. Peony Collective ist ein sichtbarer Ausdruck dieser Leidenschaft und unserer 'Less is More'-Philosophie."
-        },
-        "minimalism": {
-            "title": "Minimalismus: Digitales Rauschen stoppen",
-            "excerpt": "Jedes unnötige Detail ist eine Sekunde, die dem Fokus des Benutzers gestohlen wird. Entdecken Sie die Kraft der 'Less is more'-Philosophie im modernen Webdesign.",
-            "content": "In der digitalen Welt bedeutet 'mehr' nicht immer 'besser'. Im Gegenteil, jede unnötige Animation, jede grelle Farbe und jedes komplexe Menü ist ein Dieb, der dem Hauptzweck des Benutzers gestohlen wurde.\n\nMinimalismus geht es nicht nur darum, Platz zu lassen, sondern darum, das Wichtigste zum Strahlen zu bringen. Als VR0CKS nutzen wir in unseren Projekten die 'Kraft der Stille'. Wir entwerfen Schnittstellen, die die Augen des Benutzers nicht ermüden, seinen Geist nicht trüben und ihn auf eleganteste Weise dorthin bringen, wo er hin möchte.\n\nEine Website kann ein Kunstwerk sein, aber wir lassen nicht zu, dass diese Kunst die Funktionalität beeinträchtigt. Digitale Handwerkskunst bedeutet, die perfekte Balance zwischen Ästhetik und Geschwindigkeit zu finden."
-        },
-        "nextjs": {
-            "title": "Warum Next.js? Jenseits der Performance",
-            "excerpt": "Nicht nur Geschwindigkeit, sondern SEO und Entwicklererfahrung. Warum wählen wir bei VR0CKS-Projekten immer die modernste Infrastruktur?",
-            "content": "In der modernen Webwelt sind Sekunden Gold wert. Eine Verzögerung von 1 Sekunde beim Öffnen einer Website bedeutet, dass ein potenzieller Kunde an der Tür umkehrt. Deshalb gehen wir bei VR0CKS keine Kompromisse bei unserer Infrastruktur ein.\n\nNext.js bietet uns nicht nur Geschwindigkeit, sondern auch eine hervorragende Sichtbarkeit für Suchmaschinen (SEO). Mit Server-Side-Rendering (SSR) und Static-Site-Generation (SSG)-Technologien wird Ihre Website so flüssig wie eine mobile Anwendung und so organisiert wie eine Bibliothek.\n\nSoftware ist das Skelett Ihrer Marke. Wir bauen dieses Skelett aus dem stärksten und modernsten Stahl."
-        },
-        "luxury": {
-            "title": "Luxus und Digital: Vertrauen aufbauen",
-            "excerpt": "Ein tiefer Einblick in die digitale Authentifizierung von Millionen-Dollar-Produkten und das User Experience Design im Luxussegment.",
-            "content": "Luxus ist nicht nur ein hoher Preis; es ist ein Versprechen von Vertrauen und Perfektion. In der Welt der Millionen-Dollar-Taschen oder seltener Kunstwerke muss auch das digitale Erlebnis dieses Gewicht tragen.\n\nIn den Projekten zur Authentifizierung von Millionen-Dollar-Produkten, die ich in der Vergangenheit durchgeführt habe, habe ich gesehen, dass in dem Moment, in dem die digitale Schnittstelle kein Vertrauen erweckt, das gesamte Prestige erschüttert wird. In den Systemen, die wir für Luxusmarken entwerfen, bauen wir jedes Detail von Mikro-Interaktionen bis hin zu Sicherheitsprotokollen mit diesem Verständnis von 'stillem Luxus' auf.\n\nVertrauen in der digitalen Welt aufzubauen ist ein Handwerk jenseits von Pixeln. Wir verbinden dieses Handwerk mit den Regeln des Luxus."
-        }
-    },
-    "languageSwitcher": {
-        "tr": "TR",
-        "en": "EN",
-        "de": "DE"
-    },
-    "team": {
-        "subtitle": "KOMMANDOZENTRALE",
-        "title": "Treffen Sie",
-        "titleAccent": "Den Gründer.",
-        "role": "INGENIEUR & DESIGNER",
-        "since": "EST. 2005",
-        "title2": "DIGITALER HANDWERKER",
-        "bio": "Der Chefarchitekt, der das digitale Erbe von Marken an der Schnittstelle von Kunst und Ingenieurwesen aufbaut. Erschafft den perfekten Tanz aus Code und Ästhetik.",
-        "viewPortfolio": "PORTFOLIO ANSEHEN"
+    "karacaFile": {
+      "title": "Karaca File Market",
+      "category": "E-COMMERCE / TEXTIL & SICHERHEIT",
+      "description": "Eine E-Commerce-Plattform mit einem umfassenden Produktkatalog für Sicherheitsnetze und industrielle Textillösungen."
     }
+  },
+  "concierge": {
+    "sectionTitle": "Lassen Sie uns auch",
+    "sectionTitleAccent": "für Sie gestalten.",
+    "sectionDescription": "Beschreiben Sie Ihr Traumprojekt mit dem untenstehenden Assistenten, und wir melden uns, um die Details zu besprechen.",
+    "completionTitle": "Perfekte Wahl.",
+    "completionDescription": "Ich verstehe Ihre Vision. Durch die Verbindung von moderner Technologie mit klassischer Ästhetik,",
+    "completionHighlight": "ein zeitloses Erlebnis",
+    "completionEnd": "kann ich für Sie gestalten.",
+    "startProject": "Projekt Starten",
+    "agencyFooter": "VR0CKS AGENCY — ANKARA"
+  },
+  "questions": {
+    "q1": {
+      "question": "Was ist der Hauptzweck Ihrer digitalen Präsenz?",
+      "options": {
+        "branding": "Prestige & Markenbekanntheit",
+        "ecommerce": "Produktverkauf (E-Commerce)",
+        "portfolio": "Portfolio-Präsentation",
+        "corporate": "Corporate Identity"
+      }
+    },
+    "q2": {
+      "question": "Wenn Ihre Marke ein physischer Ort wäre, welcher wäre es?",
+      "options": {
+        "modern": "Ein Modernes Plaza",
+        "cozy": "Ein Boutique-Café",
+        "artistic": "Eine Kunstgalerie",
+        "luxury": "Eine Luxushotel-Lobby"
+      }
+    },
+    "q3": {
+      "question": "Was sollte das unverzichtbare 'Signatur'-Feature Ihrer Website sein?",
+      "options": {
+        "conversion": "Schnelle Buchung/Verkauf",
+        "visual": "Visuelles Fest/Galerie",
+        "content": "Blog & Content-Flow",
+        "interactive": "Interaktives Erlebnis"
+      }
+    },
+    "q4": {
+      "question": "Wann sollten wir auf dieses Projekt anstoßen?",
+      "options": {
+        "asap": "Sofort (MVP)",
+        "month": "Innerhalb von 1 Monat",
+        "perfect": "Keine Eile (Perfektionist)",
+        "flexible": "Sie bestimmen das Datum"
+      }
+    }
+  },
+  "directContact": {
+    "subtitle": "Klassische Methode",
+    "title": "Keine Lust auf Quizze?",
+    "description": "Kein Problem. Manchmal beginnen die besten Projekte mit einem einfachen \"Hallo\". Wir glauben nicht an physische Grenzen. Sie können uns direkt eine E-Mail schicken und Ihr Projekt an unserem digitalen Schreibtisch besprechen.",
+    "emailLabel": "E-Mail",
+    "email": "vr0cksdev@gmail.com",
+    "hqLabel": "Hauptquartier (HQ)",
+    "hqValue": "Ankara, TR (Remote)",
+    "phoneLabel": "Telefon",
+    "phoneValue": "+90 546 296 18 48"
+  },
+  "services": {
+    "subtitle": "UNSERE EXPERTISE",
+    "title": "Die drei Säulen der",
+    "titleAccent": "digitalen Kunst.",
+    "description": "Wir bauen keine gewöhnlichen Websites. Wir positionieren Ihre Marke als Meisterwerk in der digitalen Welt.",
+    "list": {
+      "architecture": {
+        "title": "Digitale Architektur",
+        "badge": "Software",
+        "description": "Performante, skalierbare und zukunftssichere Software-Grundlagen. Mit Next.js sind wir an der Spitze von Geschwindigkeit und Sicherheit."
+      },
+      "design": {
+        "title": "Visuelle Poesie",
+        "badge": "Design",
+        "description": "Premium UI/UX-Erlebnisse gepaart mit minimalistischer Ästhetik. Wir weben die Seele Ihrer Marke in jedes Pixel."
+      },
+      "strategy": {
+        "title": "Growth Engineering",
+        "badge": "Strategie",
+        "description": "SEO, Datenanalyse und globale Vision. Wir erscheinen nicht nur; wir erreichen die richtige Zielgruppe mit der richtigen Botschaft."
+      }
+    }
+  },
+  "footer": {
+    "brandDescription": "Für Marken, die Mittelmäßigkeit herausfordern; in Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software.",
+    "corporate": "Unternehmen",
+    "projects": "Projekte",
+    "career": "Karriere",
+    "contact": "Kontakt",
+    "legal": "Rechtliches",
+    "faq": "FAQ",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "followUs": "Folgen Sie Uns",
+    "listenWithUs": "Mit Uns Hören",
+    "agencyPlaylist": "Agentur-Auswahl",
+    "playlistName": "Whiskey Blues",
+    "team": "Team",
+    "copyright": "© 2025 VR0CKS AGENCY — ALLE RECHTE VORBEHALTEN.",
+    "signature": "EST. ANKARA —",
+    "signatureAccent": "DIGITAL CRAFTSMANSHIP"
+  },
+  "cookie": {
+    "title": "Digitale Etikette",
+    "description": "Wir verwenden Cookies, um Ihr Erlebnis zu perfektionieren. Wie eine feine Schokolade zu einem guten Whiskey; klein aber wirkungsvoll.",
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen"
+  },
+  "mobileMenu": {
+    "close": "Schließen",
+    "manifesto": "Manifest",
+    "works": "Arbeiten",
+    "team": "Team",
+    "contact": "Kontakt",
+    "getQuote": "Angebot"
+  },
+  "notFound": {
+    "title": "Falsch Abgebogen.",
+    "description": "Die gesuchte Seite wurde entweder verschoben oder hat nie existiert. Keine Sorge, wir können Sie zurück zur Zentrale bringen.",
+    "backHome": "Zurück zur Startseite"
+  },
+  "career": {
+    "icon": "🚧",
+    "title": "Wir Legen Noch Die Steine.",
+    "description": "Unser Team macht Kaffeepause... nur Spaß. Wir haben uns im Code verloren, um diese Seite zu perfektionieren. Tolle Möglichkeiten kommen bald.",
+    "signature": "— VR0CKS BAU-CREW"
+  },
+  "faq": {
+    "title": "Häufig Gefragt.",
+    "subtitle": "Wir haben die Antworten auf Ihre Fragen in einfachster Form zusammengestellt.",
+    "items": [
+      {
+        "question": "Wie läuft der Prozess ab, wann bekomme ich die Lieferung?",
+        "answer": "Wir ermüden Sie nicht mit komplizierten Prozessen. Zuerst besprechen wir Ihre Ziele, dann bereiten wir ein individuelles Design für Ihre Genehmigung vor. Nach der Genehmigung schließen wir die Programmierung ab und starten Ihre Website innerhalb von durchschnittlich 2-4 Wochen."
+      },
+      {
+        "question": "Wird meine Website bei Google weit oben ranken?",
+        "answer": "Absolut. Unsere Websites sehen nicht nur stilvoll aus; sie sind mit Googles bevorzugter Infrastruktur codiert (SEO-freundlich, ultraschnell und mobilfreundlich). Das bringt Sie 1-0 vor Ihre Konkurrenten."
+      },
+      {
+        "question": "Kann ich die Website später selbst aktualisieren?",
+        "answer": "Ja. Wenn Sie möchten, integrieren wir ein sehr einfach zu bedienendes Verwaltungspanel in Ihre Website. Sie können Ihre Texte, Bilder oder Produkte aktualisieren, wie einen Instagram-Post teilen, ohne Programmierkenntnisse."
+      },
+      {
+        "question": "Wie wird die Preisgestaltung bestimmt?",
+        "answer": "Jedes Unternehmen hat unterschiedliche Bedürfnisse. Statt Template-Websites erstellen wir einen 'digitalen Anzug', der nur für Sie maßgeschneidert ist. Wir bieten das fairste und transparenteste Angebot basierend auf dem Projektumfang."
+      },
+      {
+        "question": "Bieten Sie Support nach der Fertigstellung der Website an?",
+        "answer": "Mit uns zu arbeiten ist kein einmaliger Job, es ist eine langfristige Partnerschaft. Wir sind auch nach dem Start der Website immer an Ihrer Seite für technischen Support, Wartung und Updates."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdate": "Zuletzt Aktualisiert:",
+    "lastUpdateDate": "29. November 2025",
+    "section1Title": "1. Datenerfassung",
+    "section1Content": "Als VR0CKS Agency respektieren wir Ihre digitale Privatsphäre. Wenn Sie unsere Website besuchen, erfassen wir nur grundlegende analytische Daten (durch Cookies), um Ihr Erlebnis zu verbessern.",
+    "section2Title": "2. Verwendungszweck",
+    "section2Content": "Erfasste Daten werden nur für folgende Zwecke verwendet:",
+    "section2List": [
+      "Zur Analyse der Website-Performance.",
+      "Um Ihnen ein besseres Benutzererlebnis zu bieten.",
+      "Um über Kontaktformulare zu antworten."
+    ],
+    "section3Title": "3. Dritte Parteien",
+    "section3Content": "Ihre Daten werden niemals zu Werbezwecken an Dritte verkauft. Sie können nur bei gesetzlicher Verpflichtung an zuständige Behörden weitergegeben werden.",
+    "contactNote": "Wenn Sie Fragen zu dieser Richtlinie haben,",
+    "contactEmail": "vr0cksdev@gmail.com",
+    "contactSuffix": "können Sie uns erreichen unter"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "effectiveDate": "Gültigkeitsdatum:",
+    "effectiveDateValue": "29. November 2025",
+    "section1Title": "1. Einführung",
+    "section1Content": "Durch die Nutzung dieser Website (vr0cks.com) akzeptieren Sie die folgenden Bedingungen. Bitte lesen Sie sorgfältig, bevor Sie unsere Dienste nutzen.",
+    "section2Title": "2. Geistiges Eigentum",
+    "section2Content": "Alle Designs, Code-Strukturen, Texte und Bilder auf der Website gehören VR0CKS Agency. Unbefugtes Kopieren, Vervielfältigen oder kommerzielle Nutzung ist verboten.",
+    "section3Title": "3. Leistungsumfang",
+    "section3Content": "Die von uns angebotenen Web-Design- und Entwicklungsdienstleistungen werden durch projektbasierte Verträge bestimmt. Die hier enthaltenen Informationen dienen allgemeinen Informationszwecken.",
+    "legalNote": "Für rechtliche Fragen",
+    "legalEmail": "legal@vr0cks.com",
+    "legalSuffix": "können Sie uns kontaktieren."
+  },
+  "insights": {
+    "title": "Digitale",
+    "titleAccent": "Einblicke.",
+    "subtitle": "BLOG & VISION",
+    "readMore": "WEITERLESEN",
+    "author": "AUTOR",
+    "date": "DATUM",
+    "peonyArticle": {
+      "title": "Peony Collective: Wo digitale Ästhetik auf Handwerkskunst trifft",
+      "excerpt": "Erfahren Sie, wie wir im Projekt Peony Collective die Grenzen der digitalen Handwerkskunst erweitert haben, indem wir Eleganz, Luxus und Funktionalität vereinen.",
+      "content": "Luxus in der digitalen Welt bedeutet nicht nur eine elegante Optik; es ist ein raffiniertes Gefühl, das bei jeder Interaktion spürbar wird. Bei der Gestaltung von Peony Collective war es unser Ziel, klassische Ästhetik mit der Leistungsfähigkeit moderner Webtechnologien zu verschmelzen.\n\nSorgfalt in jedem Pixel, zeitlose typografische Harmonie und flüssige Übergänge fangen die authentische Identität der Marke ein. Neben einem visuellen Erlebnis haben wir sichergestellt, dass Benutzererfahrung und Performance auf höchstem Niveau bleiben.\n\nBei VR0CKS betrachten wir digitale Handwerkskunst als Leidenschaft. Peony Collective ist ein sichtbarer Ausdruck dieser Leidenschaft und unserer 'Less is More'-Philosophie."
+    },
+    "minimalism": {
+      "title": "Minimalismus: Digitales Rauschen stoppen",
+      "excerpt": "Jedes unnötige Detail ist eine Sekunde, die dem Fokus des Benutzers gestohlen wird. Entdecken Sie die Kraft der 'Less is more'-Philosophie im modernen Webdesign.",
+      "content": "In der digitalen Welt bedeutet 'mehr' nicht immer 'besser'. Im Gegenteil, jede unnötige Animation, jede grelle Farbe und jedes komplexe Menü ist ein Dieb, der dem Hauptzweck des Benutzers gestohlen wurde.\n\nMinimalismus geht es nicht nur darum, Platz zu lassen, sondern darum, das Wichtigste zum Strahlen zu bringen. Als VR0CKS nutzen wir in unseren Projekten die 'Kraft der Stille'. Wir entwerfen Schnittstellen, die die Augen des Benutzers nicht ermüden, seinen Geist nicht trüben und ihn auf eleganteste Weise dorthin bringen, wo er hin möchte.\n\nEine Website kann ein Kunstwerk sein, aber wir lassen nicht zu, dass diese Kunst die Funktionalität beeinträchtigt. Digitale Handwerkskunst bedeutet, die perfekte Balance zwischen Ästhetik und Geschwindigkeit zu finden."
+    },
+    "nextjs": {
+      "title": "Warum Next.js? Jenseits der Performance",
+      "excerpt": "Nicht nur Geschwindigkeit, sondern SEO und Entwicklererfahrung. Warum wählen wir bei VR0CKS-Projekten immer die modernste Infrastruktur?",
+      "content": "In der modernen Webwelt sind Sekunden Gold wert. Eine Verzögerung von 1 Sekunde beim Öffnen einer Website bedeutet, dass ein potenzieller Kunde an der Tür umkehrt. Deshalb gehen wir bei VR0CKS keine Kompromisse bei unserer Infrastruktur ein.\n\nNext.js bietet uns nicht nur Geschwindigkeit, sondern auch eine hervorragende Sichtbarkeit für Suchmaschinen (SEO). Mit Server-Side-Rendering (SSR) und Static-Site-Generation (SSG)-Technologien wird Ihre Website so flüssig wie eine mobile Anwendung und so organisiert wie eine Bibliothek.\n\nSoftware ist das Skelett Ihrer Marke. Wir bauen dieses Skelett aus dem stärksten und modernsten Stahl."
+    },
+    "luxury": {
+      "title": "Luxus und Digital: Vertrauen aufbauen",
+      "excerpt": "Ein tiefer Einblick in die digitale Authentifizierung von Millionen-Dollar-Produkten und das User Experience Design im Luxussegment.",
+      "content": "Luxus ist nicht nur ein hoher Preis; es ist ein Versprechen von Vertrauen und Perfektion. In der Welt der Millionen-Dollar-Taschen oder seltener Kunstwerke muss auch das digitale Erlebnis dieses Gewicht tragen.\n\nIn den Projekten zur Authentifizierung von Millionen-Dollar-Produkten, die ich in der Vergangenheit durchgeführt habe, habe ich gesehen, dass in dem Moment, in dem die digitale Schnittstelle kein Vertrauen erweckt, das gesamte Prestige erschüttert wird. In den Systemen, die wir für Luxusmarken entwerfen, bauen wir jedes Detail von Mikro-Interaktionen bis hin zu Sicherheitsprotokollen mit diesem Verständnis von 'stillem Luxus' auf.\n\nVertrauen in der digitalen Welt aufzubauen ist ein Handwerk jenseits von Pixeln. Wir verbinden dieses Handwerk mit den Regeln des Luxus."
+    }
+  },
+  "languageSwitcher": {
+    "tr": "TR",
+    "en": "EN",
+    "de": "DE"
+  },
+  "team": {
+    "subtitle": "KOMMANDOZENTRALE",
+    "title": "Treffen Sie",
+    "titleAccent": "Den Gründer.",
+    "role": "INGENIEUR & DESIGNER",
+    "since": "EST. 2005",
+    "title2": "DIGITALER HANDWERKER",
+    "bio": "Der Chefarchitekt, der das digitale Erbe von Marken an der Schnittstelle von Kunst und Ingenieurwesen aufbaut. Erschafft den perfekten Tanz aus Code und Ästhetik.",
+    "viewPortfolio": "PORTFOLIO ANSEHEN"
+  }
 }

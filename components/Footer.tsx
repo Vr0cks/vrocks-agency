@@ -15,7 +15,7 @@ export default function Footer() {
       <div
         className="absolute inset-0 z-0 pointer-events-none opacity-10 dark:opacity-20 mix-blend-multiply dark:mix-blend-luminosity"
         style={{
-          backgroundImage: "url('/cat-bg.jpg')",
+          backgroundImage: "url('/cat-bg.png')",
           backgroundSize: 'cover',
           backgroundPosition: 'center bottom',
           backgroundRepeat: 'no-repeat'

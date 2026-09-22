@@ -29,12 +29,11 @@ export default function HomePage() {
 
                 {/* DOKU */}
                 <div
-                    className="absolute inset-0 z-0 pointer-events-none opacity-10 dark:opacity-30 mix-blend-multiply dark:mix-blend-overlay"
+                    className="absolute inset-0 z-0 pointer-events-none opacity-[0.07] dark:opacity-[0.16] mix-blend-multiply dark:mix-blend-overlay"
                     style={{
-                        backgroundImage: "url('/vintage-bg.png')",
-                        backgroundSize: 'cover',
-                        backgroundPosition: 'center',
-                        backgroundRepeat: 'no-repeat'
+                        backgroundImage: "url('/vintage-texture.svg')",
+                        backgroundSize: '300px 300px',
+                        backgroundRepeat: 'repeat'
                     }}
                 />
 
