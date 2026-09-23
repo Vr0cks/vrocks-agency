@@ -3,7 +3,7 @@ import type { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { SITE_URL } from '@/lib/seo';
 
-const PAGES = ['', '/career', '/faq', '/privacy', '/terms'];
+const PAGES = ['', '/faq', '/privacy', '/terms'];
 
 const ARTICLES = [
     'invisible-maintenance',

@@ -4,10 +4,6 @@
     "description": "Ankara-based, globally-minded digital design and software studio. Bespoke, vintage-infused modern web experiences tailored for your brand.",
     "ogDescription": "I don't write code, I build digital legacy.",
     "pages": {
-      "career": {
-        "title": "Careers",
-        "description": "Open roles at VR0CKS and how to apply to join the studio."
-      },
       "faq": {
         "title": "Frequently Asked Questions",
         "description": "How we work, delivery timelines and pricing — answered plainly."
@@ -198,7 +194,6 @@
     "brandDescription": "For brands that challenge mediocrity; Ankara-based, globally-minded,  digital design and software studio.",
     "corporate": "Corporate",
     "projects": "Projects",
-    "career": "Career",
     "contact": "Contact",
     "legal": "Legal",
     "faq": "FAQ",
@@ -231,12 +226,6 @@
     "title": "Wrong Turn.",
     "description": "The page you're looking for either moved or never existed. Don't worry, I can take you back to headquarters.",
     "backHome": "Back to Home"
-  },
-  "career": {
-    "icon": "🚧",
-    "title": "Still Laying The Bricks.",
-    "description": "Our team is on a coffee break... just kidding. We got lost in the code trying to perfect this page. Great opportunities coming soon.",
-    "signature": "— VR0CKS"
   },
   "faq": {
     "title": "Frequently Asked.",

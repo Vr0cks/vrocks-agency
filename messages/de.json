@@ -4,10 +4,6 @@
     "description": "In Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software. Maßgeschneiderte, mit Vintage-Ästhetik verfeinerte moderne Web-Erlebnisse.",
     "ogDescription": "Ich schreibe keinen Code, ich baue digitales Erbe.",
     "pages": {
-      "career": {
-        "title": "Karriere",
-        "description": "Offene Stellen bei VR0CKS und wie Sie sich bewerben können."
-      },
       "faq": {
         "title": "Häufig gestellte Fragen",
         "description": "Arbeitsweise, Lieferzeiten und Preise — klar beantwortet."
@@ -198,7 +194,6 @@
     "brandDescription": "Für Marken, die Mittelmäßigkeit herausfordern; in Ankara ansässiges, global ausgerichtetes Studio für digitales Design und Software.",
     "corporate": "Unternehmen",
     "projects": "Projekte",
-    "career": "Karriere",
     "contact": "Kontakt",
     "legal": "Rechtliches",
     "faq": "FAQ",
@@ -231,12 +226,6 @@
     "title": "Falsch Abgebogen.",
     "description": "Die gesuchte Seite wurde verschoben oder hat nie existiert. Keine Sorge, ich bringe Sie zurück zur Zentrale.",
     "backHome": "Zurück zur Startseite"
-  },
-  "career": {
-    "icon": "🚧",
-    "title": "Wir Legen Noch Die Steine.",
-    "description": "Unser Team macht Kaffeepause... nur Spaß. Wir haben uns im Code verloren, um diese Seite zu perfektionieren. Tolle Möglichkeiten kommen bald.",
-    "signature": "— VR0CKS"
   },
   "faq": {
     "title": "Häufig Gefragt.",

@@ -4,10 +4,6 @@
     "description": "Ankara merkezli, global vizyonlu dijital tasarım ve yazılım stüdyosu. Markanız için özel dikilmiş, vintage estetikle harmanlanmış modern web deneyimleri.",
     "ogDescription": "Kod yazmıyorum, dijital miras inşa ediyorum.",
     "pages": {
-      "career": {
-        "title": "Kariyer",
-        "description": "VR0CKS ekibine katılmak isteyenler için açık pozisyonlar ve başvuru süreci."
-      },
       "faq": {
         "title": "Sıkça Sorulan Sorular",
         "description": "Çalışma sürecimiz, teslim süreleri ve fiyatlandırma hakkında merak edilenler."
@@ -198,7 +194,6 @@
     "brandDescription": "Sıradanlığa meydan okuyan markalar için; Ankara merkezli, global vizyonlu dijital tasarım ve yazılım stüdyosu.",
     "corporate": "Kurumsal",
     "projects": "Projeler",
-    "career": "Kariyer",
     "contact": "İletişim",
     "legal": "Yasal",
     "faq": "S.S.S (FAQ)",
@@ -231,12 +226,6 @@
     "title": "Yanlış Sokağa Saptınız.",
     "description": "Aradığınız sayfa ya taşındı ya da hiç var olmadı. Merak etmeyin, sizi ana merkeze geri götürebilirim.",
     "backHome": "Ana Sayfaya Dön"
-  },
-  "career": {
-    "icon": "🚧",
-    "title": "Henüz Tuğlaları Diziyorum.",
-    "description": "Şu an kahve molası... şaka şaka. Bu sayfayı mükemmelleştirmek için kodların arasında kayboldum. Yakında burada harika fırsatlar olacak.",
-    "signature": "— VR0CKS"
   },
   "faq": {
     "title": "Merak Edilenler.",
