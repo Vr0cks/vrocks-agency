@@ -6,7 +6,7 @@
     "pages": {
       "faq": {
         "title": "Frequently Asked Questions",
-        "description": "How we work, delivery timelines and pricing — answered plainly."
+        "description": "How I work, delivery timelines and pricing — answered plainly."
       },
       "privacy": {
         "title": "Privacy Policy",
@@ -14,7 +14,7 @@
       },
       "terms": {
         "title": "Terms of Use",
-        "description": "Terms governing the use of vr0cks.com and our content rights."
+        "description": "Terms governing the use of vr0cks.com and my content rights."
       },
       "insights": {
         "title": "Digital Insights",
@@ -108,7 +108,7 @@
     }
   },
   "concierge": {
-    "sectionTitle": "Let us design",
+    "sectionTitle": "Let me design",
     "sectionTitleAccent": "for you too.",
     "sectionDescription": "Describe the project you have in mind using the assistant below, and I will reach out to discuss the details.",
     "completionTitle": "Perfect Choice.",
@@ -199,7 +199,7 @@
     "faq": "FAQ",
     "privacy": "Privacy Policy",
     "terms": "Terms of Use",
-    "followUs": "Follow Us",
+    "followUs": "Follow",
     "listenWithUs": "Listen With Me",
     "agencyPlaylist": "Studio Selection",
     "playlistName": "Whiskey Blues",
@@ -233,23 +233,23 @@
     "items": [
       {
         "question": "How does the process work, when do I get delivery?",
-        "answer": "We don't tire you with complicated processes. First we discuss your goals, then we prepare a custom design for your approval. After approval, we complete the coding and launch your site within an average of 2-4 weeks."
+        "answer": "I don't tire you with complicated processes. First we discuss your goals, then I prepare a custom design for your approval. After approval, I complete the coding and launch your site within an average of 2-4 weeks."
       },
       {
         "question": "Will my site rank high on Google?",
-        "answer": "Absolutely. Our sites don't just look stylish; they're coded with Google's favorite infrastructure (SEO-friendly, ultra-fast, and mobile-friendly). This puts you 1-0 ahead of your competitors."
+        "answer": "Absolutely. The sites I build don't just look stylish; they're coded with Google's favorite infrastructure (SEO-friendly, ultra-fast, and mobile-friendly). This puts you 1-0 ahead of your competitors."
       },
       {
         "question": "Can I update the site myself later?",
-        "answer": "Yes. If you wish, we integrate a very easy-to-use management panel to your site. You can update your texts, images, or products like sharing an Instagram post without any coding knowledge."
+        "answer": "Yes. If you wish, I integrate a very easy-to-use management panel into your site. You can update your texts, images, or products like sharing an Instagram post without any coding knowledge."
       },
       {
         "question": "How is pricing determined?",
-        "answer": "Every business has different needs. Instead of template sites, we make a 'digital suit' tailored just for you. We offer the fairest and most transparent quote based on the project scope."
+        "answer": "Every business has different needs. Instead of template sites, I make a 'digital suit' tailored just for you, and offer the fairest and most transparent quote based on the project scope."
       },
       {
         "question": "Do you provide support after the site is finished?",
-        "answer": "Working with us isn't a one-time job, it's a long-term partnership. We're always by your side for technical support, maintenance, and updates even after the site goes live."
+        "answer": "Working with me isn't a one-time job, it's a long-term partnership. I'm always by your side for technical support, maintenance, and updates even after the site goes live."
       }
     ]
   },
@@ -258,7 +258,7 @@
     "lastUpdate": "Last Updated:",
     "lastUpdateDate": "November 29, 2025",
     "section1Title": "1. Data Collection",
-    "section1Content": "As VR0CKS Agency, we respect your digital privacy. When you visit our website, we only collect basic analytical data (through cookies) to improve your experience.",
+    "section1Content": "As VR0CKS, I respect your digital privacy. When you visit my website, I only collect basic analytical data (through cookies) to improve your experience.",
     "section2Title": "2. Purpose of Use",
     "section2Content": "Collected data is only used for the following purposes:",
     "section2List": [
@@ -277,14 +277,14 @@
     "effectiveDate": "Effective Date:",
     "effectiveDateValue": "November 29, 2025",
     "section1Title": "1. Introduction",
-    "section1Content": "By using this website (vr0cks.com), you accept the following terms. Please read carefully before using our services.",
+    "section1Content": "By using this website (vr0cks.com), you accept the following terms. Please read carefully before using my services.",
     "section2Title": "2. Intellectual Property",
-    "section2Content": "All designs, code structures, texts, and visuals on the site belong to VR0CKS Agency. Unauthorized copying, reproduction, or commercial use is prohibited.",
+    "section2Content": "All designs, code structures, texts, and visuals on the site belong to VR0CKS. Unauthorized copying, reproduction, or commercial use is prohibited.",
     "section3Title": "3. Service Scope",
-    "section3Content": "The web design and development services we offer are determined by project-based contracts. The information here is for general informational purposes.",
+    "section3Content": "The web design and development services I offer are determined by project-based contracts. The information here is for general informational purposes.",
     "legalNote": "For legal questions",
     "legalEmail": "legal@vr0cks.com",
-    "legalSuffix": "you can contact us."
+    "legalSuffix": "you can contact me."
   },
   "insights": {
     "title": "Digital",
