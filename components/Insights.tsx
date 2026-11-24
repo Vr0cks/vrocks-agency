@@ -33,14 +33,6 @@ export default function Insights() {
       readTime: "6 min",
       titleKey: "nextjs.title",
       excerptKey: "nextjs.excerpt",
-    },
-    {
-      id: 4,
-      slug: "luxury-digital-trust",
-      date: "2025.03.28",
-      readTime: "5 min",
-      titleKey: "luxury.title",
-      excerptKey: "luxury.excerpt",
     }
   ];
 

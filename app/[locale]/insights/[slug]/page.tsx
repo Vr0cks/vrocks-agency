@@ -13,20 +13,18 @@ type Props = {
 };
 
 // Valid slugs
-const VALID_SLUGS = ['invisible-maintenance', 'minimalism-digital-noise', 'why-nextjs', 'luxury-digital-trust'];
+const VALID_SLUGS = ['invisible-maintenance', 'minimalism-digital-noise', 'why-nextjs'];
 
 const SLUG_TO_KEY: Record<string, string> = {
   'invisible-maintenance': 'maintenance',
   'minimalism-digital-noise': 'minimalism',
-  'why-nextjs': 'nextjs',
-  'luxury-digital-trust': 'luxury'
+  'why-nextjs': 'nextjs'
 };
 
 const ARTICLE_DATES: Record<string, string> = {
   'maintenance': '2026.09.22',
   'minimalism': '2025.05.01',
-  'nextjs': '2025.04.15',
-  'luxury': '2025.03.28'
+  'nextjs': '2025.04.15'
 };
 
 export function generateStaticParams() {

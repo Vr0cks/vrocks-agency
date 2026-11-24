@@ -9,7 +9,6 @@ const ARTICLES = [
     'invisible-maintenance',
     'minimalism-digital-noise',
     'why-nextjs',
-    'luxury-digital-trust',
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

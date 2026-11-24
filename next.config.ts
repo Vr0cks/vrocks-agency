@@ -18,6 +18,16 @@ const nextConfig: NextConfig = {
         destination: '/insights',
         permanent: true,
       },
+      {
+        source: '/:locale(tr|en|de)/insights/luxury-digital-trust',
+        destination: '/:locale/insights',
+        permanent: true,
+      },
+      {
+        source: '/insights/luxury-digital-trust',
+        destination: '/insights',
+        permanent: true,
+      },
     ];
   },
 };
