@@ -11,17 +11,6 @@ export default function Works() {
   // Project data. `link` is omitted for systems that are not publicly reachable.
   const projects = [
     {
-      id: 1,
-      key: 'peony',
-      year: "2026",
-      link: "https://www.peonycollective.com",
-    },
-    {
-      id: 2,
-      key: 'peonyOps',
-      year: "2026",
-    },
-    {
       id: 3,
       key: 'karacaFile',
       year: "2026",

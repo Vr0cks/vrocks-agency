@@ -44,7 +44,7 @@
     "title2": "digitales Erbe",
     "title3": "ich baue es.",
     "paragraph1": "Ich bin <strong>Ahmet Yiğit Canlı</strong>. Ich bin 21 Jahre alt und fordere seit 6 Jahren die Mittelmäßigkeit in der digitalen Welt mit meiner Leidenschaft für Software heraus. Für mich sollte jede Zeile Code wie die Zahnräder einer Uhr perfekt funktionieren und so ästhetisch wie ein Gemälde aussehen.",
-    "paragraph2": "Bisher habe ich Fullstack-Lösungen für globale Kunden entwickelt, digitale Authentifizierungssysteme für Luxustaschen im Wert von Millionen gebaut und KI-gestützte Automatisierungen entwickelt. Während ich mein MIS-Studium an der UTAA fortsetze, bin ich Tech Lead bei Peony Collective und Lead Fullstack Developer bei Karaca File und schaffe Mehrwert für Marken.",
+    "paragraph2": "Bisher habe ich Fullstack-Lösungen für globale Kunden entwickelt, E-Commerce-Infrastrukturen aufgebaut und KI-gestützte Automatisierungen entwickelt. Während ich mein MIS-Studium an der UTAA fortsetze, bin ich Lead Fullstack Developer bei Karaca File und schaffe Mehrwert für Marken.",
     "paragraph3": "Pünktliche Lieferung und unermüdliche Sorgfalt sind mein Markenzeichen. Ich bin hier, um komplexe Probleme mit der 'Less is more'-Philosophie in einfache und effektive Kunstwerke zu verwandeln.",
     "founderName": "Yiğit Canlı.",
     "founderTitle": "Gründer & Head of Design"
@@ -56,26 +56,6 @@
     "privateLabel": "Internes System"
   },
   "projects": {
-    "peony": {
-      "title": "Peony Collective",
-      "category": "LUXUS-MARKTPLATZ",
-      "description": "Der erste Luxus-Secondhand-Marktplatz der Türkei mit Echtheitsgarantie. Ich verantworte die Technik von Anfang bis Ende.",
-      "outcomes": [
-        "Sichere Zahlung mit Treuhand-Abwicklung für beide Seiten",
-        "Echtheitsprüfung direkt in den Kaufprozess integriert",
-        "Mobile-App-Entwicklung und Verwaltung der App-Store-Kontoinfrastruktur"
-      ]
-    },
-    "peonyOps": {
-      "title": "Peony Internes System",
-      "category": "OPERATIVE PLATTFORM",
-      "description": "Das maßgeschneiderte Backoffice hinter dem Marktplatz für Produkt- und Verkäuferprozesse.",
-      "outcomes": [
-        "Prüf- und Einstellschritte in einen automatisierten Ablauf überführt",
-        "Verkäufer, Bestand und Bestellungen an einer Stelle gebündelt",
-        "Wiederkehrende Handarbeit aus dem Tagesgeschäft entfernt"
-      ]
-    },
     "karacaFile": {
       "title": "Karaca File Market",
       "category": "B2B-E-COMMERCE",
@@ -297,11 +277,6 @@
       "title": "Die unsichtbare Arbeit, eine Website am Leben zu halten",
       "excerpt": "Eine Website gelingt nicht am Tag der Übergabe, sondern wenn sie Monate später noch schnell und sicher ist. Über die Wartung, die niemand sieht.",
       "content": "Eine Website zu übergeben ist der Anfang der Arbeit, nicht ihr Ende. Am Launch-Tag wirkt alles makellos: Seiten laden schnell, das Design sitzt, die Formulare funktionieren. Die eigentliche Frage ist, ob das in sechs Monaten noch gilt.\n\nMeistens nicht. Eine Website ist keine Skulptur, die im Moment ihrer Entstehung erstarrt; sie lebt in einem Ökosystem, das sich ständig bewegt. Ihr Framework schließt in der nächsten Version Sicherheitslücken, Browser ändern ihre Regeln, Suchmaschinen passen ihre Erwartungen an. Nichts zu tun heißt nicht stillzustehen — es heißt zurückzufallen.\n\nGenau diese Arbeit habe ich diesen Monat an meiner eigenen Website geleistet. Als für mein Framework kritische Sicherheitshinweise veröffentlicht wurden, habe ich mich an einem Morgen hingesetzt, aktualisiert, jede Route geprüft und mit null Schwachstellen abgeschlossen. Niemand hat es bemerkt. Unbemerkt zu bleiben war der Sinn der Sache.\n\nAm selben Tag kam noch etwas hinzu: Ich habe eine Textur entfernt, die meine Seite vom Server eines Fremden lud. Jahrelang lief das einwandfrei. Wäre jenes Projekt aber eines Tages offline gegangen, wäre meine Textur ohne Vorwarnung verschwunden. Dass etwas funktioniert, rechtfertigt keine Abhängigkeit.\n\nHier beginnt Handwerk. Die Arbeit eines Uhrmachers endet nicht mit dem Verkauf der Uhr; er öffnet sie, reinigt sie, ölt sie. Denn eine gute Uhr misst sich nicht an ihrem Glanz im Schaufenster, sondern daran, ob sie ein Jahrzehnt später noch richtig geht.\n\nIch sehe es genauso. Die digitale Präsenz einer Marke ist nicht am Tag der Abnahme etwas wert, sondern dann, wenn sie trotz vergangener Zeit noch schnell, sicher und aktuell ist. Die unsichtbare Arbeit ist die, über die am meisten zu sprechen wäre."
-    },
-    "peonyArticle": {
-      "title": "Peony Collective: Wo digitale Ästhetik auf Handwerkskunst trifft",
-      "excerpt": "Erfahren Sie, wie ich im Projekt Peony Collective die Grenzen der digitalen Handwerkskunst erweitert habe, indem ich Eleganz, Luxus und Funktionalität vereine.",
-      "content": "Luxus in der digitalen Welt bedeutet nicht nur eine elegante Optik; es ist ein raffiniertes Gefühl, das bei jeder Interaktion spürbar wird. Bei der Gestaltung von Peony Collective war es mein Ziel, klassische Ästhetik mit der Leistungsfähigkeit moderner Webtechnologien zu verschmelzen.\n\nSorgfalt in jedem Pixel, zeitlose typografische Harmonie und flüssige Übergänge fangen die authentische Identität der Marke ein. Neben einem visuellen Erlebnis habe ich sichergestellt, dass Benutzererfahrung und Performance auf höchstem Niveau bleiben.\n\nBei VR0CKS betrachte ich digitale Handwerkskunst als Leidenschaft. Peony Collective ist ein sichtbarer Ausdruck dieser Leidenschaft und meiner 'Less is More'-Philosophie."
     },
     "minimalism": {
       "title": "Minimalismus: Digitales Rauschen stoppen",

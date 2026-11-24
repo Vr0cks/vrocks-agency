@@ -7,7 +7,6 @@ const PAGES = ['', '/faq', '/privacy', '/terms'];
 
 const ARTICLES = [
     'invisible-maintenance',
-    'peony-collective-digital-aesthetics',
     'minimalism-digital-noise',
     'why-nextjs',
     'luxury-digital-trust',

@@ -19,14 +19,6 @@ export default function Insights() {
       excerptKey: "maintenance.excerpt",
     },
     {
-      id: 1,
-      slug: "peony-collective-digital-aesthetics",
-      date: "2025.06.01",
-      readTime: "5 min",
-      titleKey: "peonyArticle.title",
-      excerptKey: "peonyArticle.excerpt",
-    },
-    {
       id: 2,
       slug: "minimalism-digital-noise",
       date: "2025.05.01",

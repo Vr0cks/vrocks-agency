@@ -44,7 +44,7 @@
     "title2": "dijital miras",
     "title3": "inşa ediyorum.",
     "paragraph1": "Ben <strong>Ahmet Yiğit Canlı</strong>. 21 yaşındayım ve 6 yıldır süregelen yazılım tutkumla dijital dünyada sıradanlığa meydan okuyorum. Benim için her satır kod, bir saatin dişlileri gibi kusursuz çalışmalı ve bir tablo gibi estetik görünmeli.",
-    "paragraph2": "Bugüne kadar global müşterilerim için Fullstack çözümler ürettim, milyonluk lüks çantaların dijital doğrulama sistemlerini kurdum ve AI destekli otomasyonlar geliştirdim. Şu an THKÜ'de MIS eğitimime devam ederken, Peony Collective'de Tech Lead ve Karaca File'da Lead Fullstack Developer olarak markalara değer katıyorum.",
+    "paragraph2": "Bugüne kadar global müşterilerim için Fullstack çözümler ürettim, e-ticaret altyapıları ve AI destekli otomasyonlar geliştirdim. Şu an THKÜ'de MIS eğitimime devam ederken, Karaca File'da Lead Fullstack Developer olarak markalara değer katıyorum.",
     "paragraph3": "Zamanında teslimat ve sarsılmaz bir özen benim imzamdır. Karmaşık sorunları, 'Less is more' felsefesiyle yalın ve etkili sanat eserlerine dönüştürmek için buradayım.",
     "founderName": "Yiğit Canlı.",
     "founderTitle": "Founder & Head of Design"
@@ -56,26 +56,6 @@
     "privateLabel": "Kapalı sistem"
   },
   "projects": {
-    "peony": {
-      "title": "Peony Collective",
-      "category": "LÜKS PAZARYERİ",
-      "description": "Türkiye'nin ilk orijinallik garantili lüks ikinci el pazaryeri. Teknoloji tarafını baştan sona ben yürütüyorum.",
-      "outcomes": [
-        "Alıcı ve satıcıyı koruyan güvenli ödeme ve emanet akışı",
-        "Orijinallik doğrulaması satın alma sürecinin içine yerleştirildi",
-        "Mobil uygulama geliştirme ve mağaza hesap altyapısının yönetimi"
-      ]
-    },
-    "peonyOps": {
-      "title": "Peony İç Sistemi",
-      "category": "OPERASYON ALTYAPISI",
-      "description": "Pazaryerinin arkasında çalışan, ürün ve satıcı süreçlerini yöneten özel panel.",
-      "outcomes": [
-        "Ürün doğrulama ve listeleme adımları otomatikleştirildi",
-        "Satıcı, stok ve sipariş takibi tek merkezde toplandı",
-        "Elle yapılan tekrarlı işler operasyondan kaldırıldı"
-      ]
-    },
     "karacaFile": {
       "title": "Karaca File Market",
       "category": "B2B E-TİCARET",
@@ -297,11 +277,6 @@
       "title": "Görünmeyen Bakım: Bir Siteyi Ayakta Tutan İş",
       "excerpt": "Bir site teslim edildiği gün değil, aylar sonra hâlâ hızlı ve güvenliyse başarılıdır. Kimsenin görmediği bakım işi üzerine.",
       "content": "Bir siteyi teslim etmek, işin bitişi değil başlangıcıdır. Yayına alınan gün her şey kusursuz görünür: sayfalar hızlı açılır, tasarım yerli yerindedir, formlar çalışır. Asıl soru şudur — aynı site altı ay sonra da böyle mi olacak?\n\nGenellikle olmaz. Çünkü bir web sitesi, kurulduğu anda dondurulmuş bir heykel değil, sürekli değişen bir ekosistemin içinde yaşayan bir organizmadır. Kullandığınız çatının yeni sürümünde güvenlik açıkları kapatılır, tarayıcılar kuralları değiştirir, arama motorları beklentilerini günceller. Hiçbir şey yapmamak, yerinde saymak değil; geriye gitmektir.\n\nBu ay kendi sitemde tam da bunu yaptım. Kullandığım çatıda kritik seviyede güvenlik açıkları duyurulduğunda, bir sabah oturup sürümü yükselttim, her sayfayı tek tek denetledim ve sıfır açıkla kapattım. Kimse fark etmedi. Fark edilmemesi zaten amaçtı.\n\nAynı gün başka bir şey daha yaptım: sitemin dokusunu, bir başkasının sunucusundan çektiğim görsel dosyasından kurtardım. Yıllardır sorunsuz çalışıyordu. Ama o proje bir gün kapansaydı, sitemin dokusu hiçbir uyarı olmadan kaybolacaktı. Çalışıyor olması, bağımlı olmayı haklı çıkarmaz.\n\nZanaatkârlık burada başlar. Bir saat ustasının işi, saati sattığı gün bitmez; onu düzenli açar, temizler, yağlar. Çünkü iyi bir saatin ölçüsü, vitrindeki parlaklığı değil, on yıl sonra hâlâ doğru zamanı göstermesidir.\n\nBen de öyle bakıyorum. Bir markanın dijital varlığı, teslim tutanağının imzalandığı gün değil, aradan geçen zamana rağmen hâlâ hızlı, güvenli ve güncel kaldığında değerlidir. Görünmeyen iş, en çok konuşulması gereken iştir."
-    },
-    "peonyArticle": {
-      "title": "Peony Collective: Dijital Estetik ve Zanaatın Buluşması",
-      "excerpt": "Zarafet, lüks ve fonksiyonelliğin harmanlandığı Peony Collective projesinde dijital zanaatkarlığın sınırlarını nasıl zorladığımızı inceleyin.",
-      "content": "Dijital dünyada lüks, sadece şık bir görünüm sunmak değil; kullanıcının dokunduğu her etkileşimde hissedilen rafine bir duygudur. Peony Collective projesini tasarlarken ana amacım, klasik estetiği modern web teknolojilerinin gücüyle buluşturmaktı.\n\nHer pikselinde gösterilen özen, tipografinin zamansız uyumu ve akıcı animasyonlar, markanın özgün ruhunu dijital ortama aktarıyor. Sadece görsel bir şölen sunmakla kalmayıp, kullanıcı deneyimini ve site performansını en üst seviyede tuttuk.\n\nVR0CKS olarak dijital zanaatkarlığı bir tutku olarak görüyorum. Peony Collective, bu tutkunun ve 'Less is More' felsefemizin somut bir yansımasıdır."
     },
     "minimalism": {
       "title": "Minimalizm: Dijital Gürültüyü Durdurmak",

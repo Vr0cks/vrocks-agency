@@ -44,7 +44,7 @@
     "title2": "digital legacy",
     "title3": "I build it.",
     "paragraph1": "I am <strong>Ahmet Yiğit Canlı</strong>. I am 21 years old and have been challenging mediocrity in the digital world with my passion for software for the last 6 years. For me, every line of code should work perfectly like the gears of a clock and look as aesthetic as a painting.",
-    "paragraph2": "To date, I have produced Fullstack solutions for global clients, built digital authentication systems for luxury bags worth millions, and developed AI-powered automations. While continuing my MIS education at UTAA, I serve as Tech Lead at Peony Collective and Lead Fullstack Developer at Karaca File, adding value to brands.",
+    "paragraph2": "To date, I have produced Fullstack solutions for global clients, built e-commerce infrastructures and developed AI-powered automations. While continuing my MIS education at UTAA, I serve as Lead Fullstack Developer at Karaca File, adding value to brands.",
     "paragraph3": "On-time delivery and unwavering care are my signatures. I am here to transform complex problems into simple and effective works of art using the 'Less is more' philosophy.",
     "founderName": "Yiğit Canlı.",
     "founderTitle": "Founder & Head of Design"
@@ -56,26 +56,6 @@
     "privateLabel": "Private system"
   },
   "projects": {
-    "peony": {
-      "title": "Peony Collective",
-      "category": "LUXURY MARKETPLACE",
-      "description": "Turkey's first authenticated luxury resale marketplace. I lead the technology side end to end.",
-      "outcomes": [
-        "Secure payment and escrow flow protecting both sides of a sale",
-        "Authenticity verification built into the buying journey",
-        "Mobile app development and app store account infrastructure"
-      ]
-    },
-    "peonyOps": {
-      "title": "Peony Internal System",
-      "category": "OPERATIONS PLATFORM",
-      "description": "The custom back office behind the marketplace, running product and seller operations.",
-      "outcomes": [
-        "Verification and listing steps turned into an automated flow",
-        "Seller, stock and order tracking brought into one place",
-        "Repetitive manual work removed from daily operations"
-      ]
-    },
     "karacaFile": {
       "title": "Karaca File Market",
       "category": "B2B E-COMMERCE",
@@ -297,11 +277,6 @@
       "title": "The Invisible Work of Keeping a Site Alive",
       "excerpt": "A site succeeds not on the day it ships, but if it is still fast and secure months later. On the maintenance nobody sees.",
       "content": "Shipping a site is the beginning of the work, not the end. On launch day everything looks flawless: pages load fast, the design sits right, the forms work. The real question is whether the same will be true six months later.\n\nUsually it is not. A website is not a sculpture frozen at the moment it was carved; it is something that lives inside an ecosystem that keeps moving. Your framework patches security holes in its next release, browsers change their rules, search engines revise what they expect. Doing nothing is not standing still — it is falling behind.\n\nThis month I did exactly this work on my own site. When critical security advisories landed for the framework I run on, I sat down one morning, upgraded, audited every route, and closed it out at zero vulnerabilities. Nobody noticed. Going unnoticed was the point.\n\nThe same day I did something else: I removed a texture my site was pulling from someone else's server. It had worked fine for years. But if that project had ever gone offline, my texture would have vanished without warning. That something works is not an argument for depending on it.\n\nThis is where craftsmanship begins. A watchmaker's job does not end when the watch is sold; they open it, clean it, oil it. Because a good watch is measured not by how it gleams in the window, but by whether it still keeps time a decade on.\n\nI see it the same way. A brand's digital presence is worth something not on the day the handover is signed, but when it is still fast, secure and current despite the time that has passed. The invisible work is the work most worth talking about."
-    },
-    "peonyArticle": {
-      "title": "Peony Collective: Where Digital Aesthetics Meets Craftsmanship",
-      "excerpt": "Explore how I pushed the boundaries of digital craftsmanship in the Peony Collective project, blending elegance, luxury, and functionality.",
-      "content": "Luxury in the digital realm is not merely about sleek visual presentation; it is a refined emotion felt through every interaction. In creating Peony Collective, my objective was to fuse classic aesthetic sensibilities with the capabilities of cutting-edge web technologies.\n\nMeticulous attention to detail in every pixel, timeless typographic harmony, and fluid transitions capture the brand's authentic identity. Beyond offering a visual feast, I made sure user experience and performance remain uncompromised at the highest standards.\n\nAt VR0CKS, I regard digital craftsmanship as a true passion. Peony Collective stands as a tangible manifestation of this passion and my 'Less is More' philosophy."
     },
     "minimalism": {
       "title": "Minimalism: Stopping Digital Noise",
